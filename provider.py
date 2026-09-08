@@ -42,7 +42,7 @@ def main():
         logging.warning("No content downloaded, exiting.")
         return
 
-    cleaned_lines = []
+    cleaned_lines = ["#EXTM3U"]  # ensure header at the very first line
     for line in source.splitlines():
         if line.startswith("#EXTINF") or re.match(r'^\s*=+', line):
             line = clean_line(line)
@@ -52,7 +52,7 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(cleaned_lines))
 
-    logging.info(f"Playlist saved to {OUTPUT_FILE}")
+    logging.info(f"Playlist saved to {OUTPUT_FILE} with header #EXTM3U")
     logging.info("=== Scraper run finished ===")
 
 if __name__ == "__main__":
