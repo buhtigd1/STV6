@@ -1,59 +1,57 @@
 import requests
-import logging
 import re
 from datetime import datetime
 
-SOURCE_URL = "https://raw.githubusercontent.com/shibilvp862/shibilvpm3uplaylist/main/Sports%20Backup.m3u"
-OUTPUT_FILE = "stv6.m3u"
-LOG_FILE = "stv6.log"
+SOURCE_URL = "https://raw.githubusercontent.com/raid35/docs/main/SPORT_UROP.m3u"
+OUTPUT_FILE = "stv2.m3u"
+LOG_FILE    = "stv2.log"
 
-# Configure logging
-logging.basicConfig(
-    filename=LOG_FILE,
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    datefmt="%Y-%m-%d %H:%M:%S"
-)
+HEADER = '#EXTM3U url-tvg="https://raw.githubusercontent.com/didikc/EPG-8/main/epg.xml.gz"'
+
+def log(message):
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(f"[{datetime.now().isoformat()}] {message}\n")
+    print(message)
 
 def download(url):
     try:
-        logging.info(f"Starting download: {url}")
         r = requests.get(url, timeout=30)
         r.raise_for_status()
-        logging.info("Download successful")
         return r.text
     except requests.RequestException as e:
-        logging.error(f"Download failed: {e}")
+        log(f"❌ Failed to download: {url}\n{e}")
         return ""
 
-def clean_line(line: str) -> str:
-    # Remove group-title attribute
+def clean_extinf(line):
+    # Remove ONLY group-title, keep tvg-id and tvg-logo intact
     line = re.sub(r'\s*group-title="[^"]+"', '', line, flags=re.IGNORECASE)
-    # Remove decorative separator lines (lots of '=' and text in between)
-    if re.match(r'^\s*=+\s*.*\s*=+\s*$', line):
-        return ""  # drop the line entirely
+
+    # Ensure proper comma separation: tvg-logo ends before comma
+    if 'tvg-logo=' in line and ',' in line:
+        # Split once at the first comma after attributes
+        parts = line.split(',', 1)
+        if len(parts) == 2:
+            line = parts[0].strip() + "," + parts[1].strip()
     return line
 
 def main():
-    logging.info("=== Scraper run started ===")
+    log("Downloading playlist...")
     source = download(SOURCE_URL)
-
     if not source:
-        logging.warning("No content downloaded, exiting.")
+        log("No content downloaded.")
         return
 
-    cleaned_lines = ["#EXTM3U"]  # ensure header at the very first line
-    for line in source.splitlines():
-        if line.startswith("#EXTINF") or re.match(r'^\s*=+', line):
-            line = clean_line(line)
-        if line.strip():  # skip empty lines after cleaning
-            cleaned_lines.append(line)
-
+    log("Processing playlist...")
+    lines = source.splitlines()
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(cleaned_lines))
+        f.write(HEADER + "\n")
+        for line in lines:
+            if line.startswith("#EXTINF"):
+                f.write(clean_extinf(line) + "\n")
+            else:
+                f.write(line + "\n")
 
-    logging.info(f"Playlist saved to {OUTPUT_FILE} with header #EXTM3U")
-    logging.info("=== Scraper run finished ===")
+    log(f"✅ Done: saved to {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
