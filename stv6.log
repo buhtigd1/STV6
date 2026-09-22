@@ -288,3 +288,8 @@
 2026-09-22 16:20:56 [INFO] Download successful
 2026-09-22 16:20:56 [INFO] Playlist saved to stv6.m3u with header #EXTM3U
 2026-09-22 16:20:56 [INFO] === Scraper run finished ===
+2026-09-22 20:55:24 [INFO] === Scraper run started ===
+2026-09-22 20:55:24 [INFO] Starting download: https://raw.githubusercontent.com/shibilvp862/shibilvpm3uplaylist/main/Sports%20Backup.m3u
+2026-09-22 20:55:24 [INFO] Download successful
+2026-09-22 20:55:24 [INFO] Playlist saved to stv6.m3u with header #EXTM3U
+2026-09-22 20:55:24 [INFO] === Scraper run finished ===
