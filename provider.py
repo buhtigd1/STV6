@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-SOURCE_URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/provider_1/channels.json"
+SOURCE_URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/refs/heads/main/provider_1/live_events.json"
 
 M3U_FILE = "stv6.m3u"
 LOG_FILE = "stv6.log"
