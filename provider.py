@@ -1,10 +1,39 @@
 import requests
 from datetime import datetime
 
-SOURCE_URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/refs/heads/main/provider_1/live_events.json"
+SOURCE_URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/provider_1/live_events.json"
 
 M3U_FILE = "stv6.m3u"
 LOG_FILE = "stv6.log"
+
+
+def format_event_date(stream):
+    """
+    Ambil tanggal/jam event dari field yang tersedia.
+    """
+
+    for field in [
+        "date",
+        "event_date",
+        "start_time",
+        "kickoff",
+        "time",
+        "datetime",
+    ]:
+        value = stream.get(field)
+
+        if not value:
+            continue
+
+        try:
+            dt = datetime.fromisoformat(
+                str(value).replace("Z", "+00:00")
+            )
+            return dt.strftime("%d-%m-%Y %H:%M")
+        except Exception:
+            return str(value)
+
+    return ""
 
 
 def main():
@@ -32,13 +61,21 @@ def main():
             if not name or not link:
                 continue
 
+            # Tambahkan tanggal event ke nama channel
+            event_date = format_event_date(stream)
+
+            if event_date:
+                display_name = f"{name} [{event_date}]"
+            else:
+                display_name = name
+
             # EXTINF
             m3u_lines.append(
-                f'#EXTINF:-1 tvg-logo="{logo}",{name}'
+                f'#EXTINF:-1 tvg-logo="{logo}",{display_name}'
             )
 
             # Kodi DRM Properties
-            if key and link.endswith(".mpd"):
+            if key and link.lower().endswith(".mpd"):
                 m3u_lines.append(
                     "#KODIPROP:inputstream=inputstream.adaptive"
                 )
