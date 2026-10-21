@@ -12,7 +12,7 @@
 [HLS] Low
 
 [INFO] Event: WWE NXT
-[INFO] Date: 21/10/2026
+[INFO] Date: 28/10/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 6
 [HLS] Cricfy NXT Live
@@ -76,8 +76,10 @@
 [INFO] Event: LaLiga
 [INFO] Date: 22/10/2026
 [INFO] Time: 01:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] PREMIER SPORTS - AQ
+[DRM] D SPORTS - AQ
+[DRM] CazéTV - AQ
 
 [INFO] Event: League One
 [INFO] Date: 22/10/2026
@@ -85,48 +87,36 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: ICC World Test Championship
-[INFO] Date: 21/10/2026
-[INFO] Time: 15:00
-[INFO] Streams Found: 8
-[DRM] WILLOW - AQ
-[DRM] FANCODE - AQ
-[DRM] WILLOW ALT - AQ
-[HLS] TAPMAD - AQ
-[HLS] FOX CRICKET HD
-[HLS] A SPORTS HD
-[HLS] FANCODE (IND)
-[HLS] Low
-
-[INFO] Event: NHL
-[INFO] Date: 21/10/2026
-[INFO] Time: 09:00
+[INFO] Event: UEFA Champions League
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 21/10/2026
-[INFO] Time: 09:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 21/10/2026
-[INFO] Time: 08:40
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NBA
-[INFO] Date: 21/10/2026
-[INFO] Time: 08:30
-[INFO] Streams Found: 1
-[HLS] NBA
+[DRM] TNT SPORTS - AQ
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 22/10/2026
 [INFO] Time: 02:00
 [INFO] Streams Found: 1
 [HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[DRM] TNT SPORTS - AQ
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 21/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 2
+[HLS] TNT SPORTS - AQ
+[DRM] CBS SPORTS - AQ
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[DRM] CBS SPORTS - AQ
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 22/10/2026
@@ -144,121 +134,97 @@
 [INFO] Date: 21/10/2026
 [INFO] Time: 23:45
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] TNT SPORTS - AQ
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 22/10/2026
 [INFO] Time: 02:00
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 21/10/2026
-[INFO] Time: 23:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] TNT SPORTS - AQ
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 06:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 07:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 09:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 09:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 06:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 09:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 06:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: WNBA
 [INFO] Date: 22/10/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NBA
 
 [INFO] Event: NHL
 [INFO] Date: 22/10/2026
 [INFO] Time: 06:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 22/10/2026
 [INFO] Time: 06:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: CONMEBOL Libertadores
 [INFO] Date: 22/10/2026
@@ -273,10 +239,16 @@
 [HLS] Link 1
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 18/10/2026
-[INFO] Time: 15:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Date: 21/10/2026
+[INFO] Time: 14:45
+[INFO] Streams Found: 7
+[DRM] WILLOW - AQ
+[DRM] FANCODE - AQ
+[DRM] WILLOW ALT - AQ
+[HLS] TAPMAD - AQ
+[HLS] FOX CRICKET HD
+[HLS] A SPORTS HD
+[HLS] FANCODE (IND)
 
 [INFO] Event: T20 International
 [INFO] Date: 22/10/2026
@@ -290,5 +262,5 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=41
-[SUMMARY] Streams=87
+[SUMMARY] Events=36
+[SUMMARY] Streams=84
