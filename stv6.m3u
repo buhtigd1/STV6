@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - [Motorsport] MotoGP | TNT SPORTS - AQ
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - MotoGP | TNT SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -8,21 +8,21 @@
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - [Motorsport] MotoGP | FANCODE - AQ
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - MotoGP | FANCODE - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - [Motorsport] MotoGP | SPOTV - AQ
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - MotoGP | SPOTV - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - [Motorsport] MotoGP | MotoGP - AQ
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - MotoGP | MotoGP - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -30,42 +30,42 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - [Motorsport] MotoGP | MOTO Cricfy
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - MotoGP | MOTO Cricfy
 #KODIPROP:http-referrer=https://gooz.aapmains.net/
 https://chatgpt.hereisman.net/playlist/57392/load-playlist.m3u8?
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - [Motorsport] MotoGP | Cricfy HD
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - MotoGP | Cricfy HD
 #KODIPROP:http-referrer=https://streamscenter.online/
 #KODIPROP:http-origin=https://streamscenter.online
 https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - [Motorsport] MotoGP | Cricfy HD
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - MotoGP | Cricfy HD
 #KODIPROP:http-referrer=http://fawanews.sc/
 https://tedesco.formaturamaxi.com.br/f1.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - [Motorsport] MotoGP | Low
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",06:30 - MotoGP | Low
 #KODIPROP:http-referrer=http://fawanews.sc/
 http://193.47.62.50/hls/HHHHRAAA.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",07:00 - [Boxing] WWE NXT | Cricfy NXT Live
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",07:00 - WWE NXT | Cricfy NXT Live
 https://jellyfin.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",07:00 - [Boxing] WWE NXT | WWE
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",07:00 - WWE NXT | WWE
 https://admin2.passionepizza.com.br/wwe.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",07:00 - [Boxing] WWE NXT | NXT WWE
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",07:00 - WWE NXT | NXT WWE
 #KODIPROP:http-referrer=https://streame.center/
 https://edgestream4.pro/hls/zeuryuegn48.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",07:00 - [Boxing] WWE NXT | WE NXT
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",07:00 - WWE NXT | WE NXT
 #KODIPROP:http-referrer=http://fawanews.sc/
 https://admin2.formaturamaxi.com.br/wwe.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",07:00 - [Boxing] WWE NXT | Low
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",07:00 - WWE NXT | Low
 #KODIPROP:http-referrer=http://fawanews.sc/
 http://193.47.62.44/hls/R666A.m3u8
 
-#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://iili.io/FDjaT1R.md.png",19:00 - [Boxing] ONE Friday Fights | One Fight - AQ
+#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://iili.io/FDjaT1R.md.png",19:00 - ONE Friday Fights | One Fight - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -73,24 +73,24 @@ http://193.47.62.44/hls/R666A.m3u8
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 
-#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://iili.io/FDjaT1R.md.png",19:00 - [Boxing] ONE Friday Fights | WWE - AQ
+#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://iili.io/FDjaT1R.md.png",19:00 - ONE Friday Fights | WWE - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://iili.io/FDjaT1R.md.png",19:00 - [Boxing] ONE Friday Fights | WWE - AQ
+#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://iili.io/FDjaT1R.md.png",19:00 - ONE Friday Fights | WWE - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
-#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://iili.io/FDjaT1R.md.png",19:00 - [Boxing] ONE Friday Fights | Cricfy Live
+#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://iili.io/FDjaT1R.md.png",19:00 - ONE Friday Fights | Cricfy Live
 https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - [Motorsport] Formula 1 | TSN SPORTS - AQ
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - Formula 1 | TSN SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -98,7 +98,7 @@ https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - [Motorsport] Formula 1 | SK SPORTS - AQ
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - Formula 1 | SK SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -106,7 +106,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/duswnrmxpw/out/v1/12ccf25f7bc545c2be53511956c7f40f/cenc.mpd
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - [Motorsport] Formula 1 | FANCODE - AQ
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - Formula 1 | FANCODE - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -114,7 +114,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/duswnrmxpw/out/v1
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - [Motorsport] Formula 1 | SporTV BR - AQ
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - Formula 1 | SporTV BR - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -122,101 +122,101 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - [Motorsport] Formula 1 | CGPT LIVE
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - Formula 1 | CGPT LIVE
 #KODIPROP:http-referrer=https://gooz.aapmains.net/
 https://chatgpt.hereisman.net/playlist/57720/load-playlist.m3u8?
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - [Motorsport] Formula 1 | Cricfy SPORTS DE
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - Formula 1 | Cricfy SPORTS DE
 #KODIPROP:http-referrer=https://iplayer.is/
 https://netanjahu.hls.st/t/e8970a1d758868b392308ce095caa041/index.m3u8?
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - [Motorsport] Formula 1 | DAZN SPORTS
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - Formula 1 | DAZN SPORTS
 #KODIPROP:http-referrer=https://iplayer.is/
 https://netanjahu.hls.st/t/c1dba79757f1e493804b93b793f031ca/index.m3u8?
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - [Motorsport] Formula 1 | SK sports F1
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - Formula 1 | SK sports F1
 https://admin2.formaturamaxi.com.br/f1.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - [Motorsport] Formula 1 | Low
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - Formula 1 | Low
 #KODIPROP:http-referrer=http://fawanews.sc/
 http://193.47.62.55/hls/NNNN.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - [Motorsport] Formula 1 | Cricfy HD
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - Formula 1 | Cricfy HD
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ba250ab7-42a8-4b81-8075-3d662b83eb51/master.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - [Motorsport] Formula 1 | Sportscast
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",12:30 - Formula 1 | Sportscast
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/10aebb0b-9c74-4664-abd9-acc9085c27e8/master.m3u8
 
-#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - [Boxing] WWE Friday Night SmackDown | Cricfy WWE
+#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - WWE Friday Night SmackDown | Cricfy WWE
 #KODIPROP:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/54963/load-playlist?
 
-#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - [Boxing] WWE Friday Night SmackDown | WWE LIVE FHD
+#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - WWE Friday Night SmackDown | WWE LIVE FHD
 https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
 
-#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - [Boxing] WWE Friday Night SmackDown | HD SERVER
+#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - WWE Friday Night SmackDown | HD SERVER
 #KODIPROP:http-referrer=https://streamscenter.online/
 #KODIPROP:http-origin=https://streamscenter.online
 https://edgestream6.pro/hls/zeuryuegn48.m3u8?
 
-#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - [Boxing] WWE Friday Night SmackDown | Cricfy TV+ HD
+#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - WWE Friday Night SmackDown | Cricfy TV+ HD
 #KODIPROP:http-referrer=https://26hrwgorfcmh.windows-devs.top/
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?
 
-#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - [Boxing] WWE Friday Night SmackDown | HD QUALITY
+#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - WWE Friday Night SmackDown | HD QUALITY
 #KODIPROP:http-referrer=https://26hrwgorfcmh.windows-devs.top/
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8?
 
-#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - [Boxing] WWE Friday Night SmackDown | USA TV
+#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - WWE Friday Night SmackDown | USA TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - [Boxing] WWE Friday Night SmackDown | LOW QUALITY
+#EXTINF:-1 group-title="24/10/2026" tvg-logo="https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",07:00 - WWE Friday Night SmackDown | LOW QUALITY
 #KODIPROP:http-referrer=https://android-database1.firebase-api.com
 https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",18:30 - [Cricket] ISL | CricFy (ENG)
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",18:30 - ISL | CricFy (ENG)
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 #KODIPROP:http-referrer=https://www.sonyliv.com/
 #KODIPROP:http-origin=https://www.sonyliv.com
 #KODIPROP:http-x-playback-session-id=d75e06afd2446982d4d938645ac02633-1792416603244
 https://sonymtmnew.akamaized.net/hls/live/2120300/Footlive1910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792439721~acl=/*~id=21335690130892556580766117607924~hmac=441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",18:30 - [Cricket] ISL | CricFy (HIN)
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",18:30 - ISL | CricFy (HIN)
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 #KODIPROP:http-referrer=https://www.sonyliv.com/
 #KODIPROP:http-origin=https://www.sonyliv.com
 #KODIPROP:http-x-playback-session-id=d75e06afd2446982d4d938645ac02633-1792416603244
 https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive1910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792439721~acl=/*~id=21335690130892556580766117607924~hmac=441afd714cbbef2f30d20809b1258520e64cb9dbaea0aeac86f75b9b4d6aff89
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",18:30 - [Cricket] ISL | CricFy (MAL)
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",18:30 - ISL | CricFy (MAL)
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0
 #KODIPROP:http-referrer=https://www.sonyliv.com/
 #KODIPROP:http-origin=https://www.sonyliv.com
 #KODIPROP:http-x-playback-session-id=c6335a6bc05aedb3b66134262195b652-1792330204421
 https://sonymtmnew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792353476~acl=/*~id=47939079414368529441654719488892~hmac=34d49ce64e9cf0c39367f9f32489ee9068066e591a5ff8f25130d85379622e40
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",18:30 - [Cricket] ISL | Low
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",18:30 - ISL | Low
 #KODIPROP:http-referrer=http://fawanews.sc/
 http://193.47.62.59/hls/f666.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",01:00 - [Football] LaLiga | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",01:00 - LaLiga | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",02:00 - [Football] League One | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24/image/dark",02:00 - League One | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - [Cricket] ICC World Test Championship | WILLOW - AQ
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - ICC World Test Championship | WILLOW - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4kosuavavh/out/v1/9e742bb032404e1fb540828f2aaca55c/cenc.mpd
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - [Cricket] ICC World Test Championship | FANCODE - AQ
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - ICC World Test Championship | FANCODE - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -224,125 +224,125 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4kosuavavh/
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - [Cricket] ICC World Test Championship | WILLOW ALT - AQ
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - ICC World Test Championship | WILLOW ALT - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4kosuavavh/out/v1/9e742bb032404e1fb540828f2aaca55c/cenc.mpd
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - [Cricket] ICC World Test Championship | TAPMAD - AQ
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - ICC World Test Championship | TAPMAD - AQ
 #KODIPROP:http-referrer=https://tapmad.com/
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - [Cricket] ICC World Test Championship | FOX CRICKET HD
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - ICC World Test Championship | FOX CRICKET HD
 https://baila-lentoo.pages.dev/all-sp/809389.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - [Cricket] ICC World Test Championship | A SPORTS HD
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - ICC World Test Championship | A SPORTS HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - [Cricket] ICC World Test Championship | FANCODE (IND)
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - ICC World Test Championship | FANCODE (IND)
 #KODIPROP:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #KODIPROP:http-referrer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - [Cricket] ICC World Test Championship | Low
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - ICC World Test Championship | Low
 #KODIPROP:http-referrer=http://fawanews.sc/
 http://193.47.62.44/hls/BEEEEAAAA.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",09:00 - [Hockey] NHL | Link 1
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",09:00 - NHL | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",09:30 - [Hockey] NHL | Link 1
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",09:30 - NHL | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",08:40 - [Hockey] NHL | Link 1
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",08:40 - NHL | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",08:30 - [Basketball] NBA | NBA
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",08:30 - NBA | NBA
 #KODIPROP:http-referrer=https://streame.center/
 https://edgestream6.pro/hls/hfsdqtaxvb67.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - [Football] UEFA Champions League | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - UEFA Champions League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - [Football] UEFA Champions League | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - UEFA Champions League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - [Football] UEFA Champions League | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - UEFA Champions League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",23:45 - [Football] UEFA Champions League | Link 1
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",23:45 - UEFA Champions League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - [Football] UEFA Champions League | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - UEFA Champions League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - [Football] UEFA Champions League | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - UEFA Champions League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - [Football] UEFA Champions League | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - UEFA Champions League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",23:45 - [Football] UEFA Champions League | Link 1
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",23:45 - UEFA Champions League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - [Football] UEFA Champions League | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark",02:00 - UEFA Champions League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:30 - [Basketball] NBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:30 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:00 - [Basketball] NBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:00 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",07:30 - [Basketball] NBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",07:30 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",09:30 - [Basketball] NBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",09:30 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",09:00 - [Basketball] NBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",09:00 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",07:00 - [Basketball] NBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",07:00 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:30 - [Basketball] NBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:30 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",09:00 - [Basketball] NBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",09:00 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",07:00 - [Basketball] NBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",07:00 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:30 - [Basketball] NBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:30 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:00 - [Basketball] NBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:00 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",07:00 - [Basketball] WNBA | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",07:00 - WNBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:30 - [Hockey] NHL | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:30 - NHL | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:30 - [Hockey] NHL | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:30 - NHL | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",07:30 - [Football] CONMEBOL Libertadores | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",07:30 - CONMEBOL Libertadores | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark",18:30 - [Cricket] ODI Tri-Series in United Arab Emirates | Link 1
+#EXTINF:-1 group-title="21/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark",18:30 - ODI Tri-Series in United Arab Emirates | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="18/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - [Cricket] ICC World Test Championship | Link 1
+#EXTINF:-1 group-title="18/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:00 - ICC World Test Championship | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",14:00 - [Cricket] T20 International | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",14:00 - T20 International | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark",15:00 - [Cricket] ODI Tri-series in Pakistan | Link 1
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark",15:00 - ODI Tri-series in Pakistan | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8

@@ -1,7 +1,6 @@
 [INFO] Event: MotoGP
-[INFO] Category: Motorsport
-[INFO] Jakarta Date: 23/10/2026
-[INFO] Jakarta Time: 06:30
+[INFO] Date: 23/10/2026
+[INFO] Time: 06:30
 [INFO] Streams Found: 8
 [DRM] TNT SPORTS - AQ
 [DRM] FANCODE - AQ
@@ -13,9 +12,8 @@
 [HLS] Low
 
 [INFO] Event: WWE NXT
-[INFO] Category: Boxing
-[INFO] Jakarta Date: 21/10/2026
-[INFO] Jakarta Time: 07:00
+[INFO] Date: 21/10/2026
+[INFO] Time: 07:00
 [INFO] Streams Found: 6
 [HLS] Cricfy NXT Live
 [TOKEN_API] WWE TV (embed)
@@ -25,9 +23,8 @@
 [HLS] Low
 
 [INFO] Event: ONE Friday Fights
-[INFO] Category: Boxing
-[INFO] Jakarta Date: 24/10/2026
-[INFO] Jakarta Time: 19:00
+[INFO] Date: 24/10/2026
+[INFO] Time: 19:00
 [INFO] Streams Found: 5
 [DRM] One Fight - AQ
 [DRM] WWE - AQ
@@ -36,9 +33,8 @@
 [TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: Formula 1
-[INFO] Category: Motorsport
-[INFO] Jakarta Date: 23/10/2026
-[INFO] Jakarta Time: 12:30
+[INFO] Date: 23/10/2026
+[INFO] Time: 12:30
 [INFO] Streams Found: 14
 [DRM] TSN SPORTS - AQ
 [DRM] SK SPORTS - AQ
@@ -56,9 +52,8 @@
 [HLS] Sportscast
 
 [INFO] Event: WWE Friday Night SmackDown
-[INFO] Category: Boxing
-[INFO] Jakarta Date: 24/10/2026
-[INFO] Jakarta Time: 07:00
+[INFO] Date: 24/10/2026
+[INFO] Time: 07:00
 [INFO] Streams Found: 8
 [HLS] Cricfy WWE
 [HLS] WWE LIVE FHD
@@ -70,9 +65,8 @@
 [TOKEN_API] Cricfy WWE (embed)
 
 [INFO] Event: ISL
-[INFO] Category: Cricket
-[INFO] Jakarta Date: 23/10/2026
-[INFO] Jakarta Time: 18:30
+[INFO] Date: 23/10/2026
+[INFO] Time: 18:30
 [INFO] Streams Found: 4
 [HLS] CricFy (ENG)
 [HLS] CricFy (HIN)
@@ -80,23 +74,20 @@
 [HLS] Low
 
 [INFO] Event: LaLiga
-[INFO] Category: Football
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 01:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 01:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: League One
-[INFO] Category: Football
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 02:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: ICC World Test Championship
-[INFO] Category: Cricket
-[INFO] Jakarta Date: 21/10/2026
-[INFO] Jakarta Time: 15:00
+[INFO] Date: 21/10/2026
+[INFO] Time: 15:00
 [INFO] Streams Found: 8
 [DRM] WILLOW - AQ
 [DRM] FANCODE - AQ
@@ -108,226 +99,194 @@
 [HLS] Low
 
 [INFO] Event: NHL
-[INFO] Category: Hockey
-[INFO] Jakarta Date: 21/10/2026
-[INFO] Jakarta Time: 09:00
+[INFO] Date: 21/10/2026
+[INFO] Time: 09:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NHL
-[INFO] Category: Hockey
-[INFO] Jakarta Date: 21/10/2026
-[INFO] Jakarta Time: 09:30
+[INFO] Date: 21/10/2026
+[INFO] Time: 09:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NHL
-[INFO] Category: Hockey
-[INFO] Jakarta Date: 21/10/2026
-[INFO] Jakarta Time: 08:40
+[INFO] Date: 21/10/2026
+[INFO] Time: 08:40
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 21/10/2026
-[INFO] Jakarta Time: 08:30
+[INFO] Date: 21/10/2026
+[INFO] Time: 08:30
 [INFO] Streams Found: 1
 [HLS] NBA
 
 [INFO] Event: UEFA Champions League
-[INFO] Category: Football
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 02:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: UEFA Champions League
-[INFO] Category: Football
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 02:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: UEFA Champions League
-[INFO] Category: Football
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 02:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: UEFA Champions League
-[INFO] Category: Football
-[INFO] Jakarta Date: 21/10/2026
-[INFO] Jakarta Time: 23:45
+[INFO] Date: 21/10/2026
+[INFO] Time: 23:45
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: UEFA Champions League
-[INFO] Category: Football
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 02:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: UEFA Champions League
-[INFO] Category: Football
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 02:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: UEFA Champions League
-[INFO] Category: Football
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 02:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: UEFA Champions League
-[INFO] Category: Football
-[INFO] Jakarta Date: 21/10/2026
-[INFO] Jakarta Time: 23:45
+[INFO] Date: 21/10/2026
+[INFO] Time: 23:45
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: UEFA Champions League
-[INFO] Category: Football
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 02:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 06:30
+[INFO] Date: 22/10/2026
+[INFO] Time: 06:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 06:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 06:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 07:30
+[INFO] Date: 22/10/2026
+[INFO] Time: 07:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 09:30
+[INFO] Date: 22/10/2026
+[INFO] Time: 09:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 09:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 09:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 07:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 07:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 06:30
+[INFO] Date: 22/10/2026
+[INFO] Time: 06:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 09:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 09:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 07:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 07:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 06:30
+[INFO] Date: 22/10/2026
+[INFO] Time: 06:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 06:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 06:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: WNBA
-[INFO] Category: Basketball
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 07:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 07:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NHL
-[INFO] Category: Hockey
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 06:30
+[INFO] Date: 22/10/2026
+[INFO] Time: 06:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: NHL
-[INFO] Category: Hockey
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 06:30
+[INFO] Date: 22/10/2026
+[INFO] Time: 06:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: CONMEBOL Libertadores
-[INFO] Category: Football
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 07:30
+[INFO] Date: 22/10/2026
+[INFO] Time: 07:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: ODI Tri-Series in United Arab Emirates
-[INFO] Category: Cricket
-[INFO] Jakarta Date: 21/10/2026
-[INFO] Jakarta Time: 18:30
+[INFO] Date: 21/10/2026
+[INFO] Time: 18:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: ICC World Test Championship
-[INFO] Category: Cricket
-[INFO] Jakarta Date: 18/10/2026
-[INFO] Jakarta Time: 15:00
+[INFO] Date: 18/10/2026
+[INFO] Time: 15:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: T20 International
-[INFO] Category: Cricket
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 14:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 14:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: ODI Tri-series in Pakistan
-[INFO] Category: Cricket
-[INFO] Jakarta Date: 22/10/2026
-[INFO] Jakarta Time: 15:00
+[INFO] Date: 22/10/2026
+[INFO] Time: 15:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
