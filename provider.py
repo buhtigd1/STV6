@@ -7,21 +7,20 @@ M3U_FILE = "stv6.m3u"
 LOG_FILE = "stv6.log"
 
 
-def build_playlist():
+def main():
     response = requests.get(SOURCE_URL, timeout=30)
     response.raise_for_status()
 
     data = response.json()
 
-    m3u = ["#EXTM3U"]
-    total = 0
+    m3u_lines = ["#EXTM3U"]
+    total_channels = 0
 
     for provider in data:
 
         if not provider.get("visible", True):
             continue
 
-        group = provider.get("name", "")
         logo = provider.get("logo", "")
 
         for stream in provider.get("streams", []):
@@ -33,40 +32,43 @@ def build_playlist():
             if not name or not link:
                 continue
 
-            # Kodi Properties untuk stream DRM/ClearKey
-            if key and str(link).endswith(".mpd"):
-                m3u.append(
+            # EXTINF
+            m3u_lines.append(
+                f'#EXTINF:-1 tvg-logo="{logo}",{name}'
+            )
+
+            # Kodi DRM Properties
+            if key and link.endswith(".mpd"):
+                m3u_lines.append(
                     "#KODIPROP:inputstream=inputstream.adaptive"
                 )
-                m3u.append(
+                m3u_lines.append(
                     "#KODIPROP:inputstream.adaptive.manifest_type=mpd"
                 )
-                m3u.append(
+                m3u_lines.append(
                     "#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey"
                 )
-                m3u.append(
+                m3u_lines.append(
                     f"#KODIPROP:inputstream.adaptive.license_key={key}"
                 )
 
-            m3u.append(
-                f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}'
-            )
-            m3u.append(link)
+            # Stream URL
+            m3u_lines.append(link)
 
-            total += 1
+            total_channels += 1
 
     with open(M3U_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(m3u))
+        f.write("\n".join(m3u_lines))
 
     with open(LOG_FILE, "w", encoding="utf-8") as f:
         f.write(f"Source: {SOURCE_URL}\n")
-        f.write(f"Generated: {datetime.now()}\n")
-        f.write(f"Channels: {total}\n")
+        f.write(f"Generated: {datetime.now():%Y-%m-%d %H:%M:%S}\n")
+        f.write(f"Channels: {total_channels}\n")
 
     print(f"Created: {M3U_FILE}")
     print(f"Created: {LOG_FILE}")
-    print(f"Total channels: {total}")
+    print(f"Channels: {total_channels}")
 
 
 if __name__ == "__main__":
-    build_playlist()
+    main()
