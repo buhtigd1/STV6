@@ -1,59 +1,71 @@
+import json
 import requests
-import logging
-import re
 from datetime import datetime
 
-SOURCE_URL = "https://raw.githubusercontent.com/shibilvp862/shibilvpm3uplaylist/main/Sports%20Backup.m3u"
-OUTPUT_FILE = "stv6.m3u"
+SOURCE_URL = "https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/provider_1/channels.json"
+
+M3U_FILE = "stv6.m3u"
 LOG_FILE = "stv6.log"
 
-# Configure logging
-logging.basicConfig(
-    filename=LOG_FILE,
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    datefmt="%Y-%m-%d %H:%M:%S"
-)
-
-def download(url):
-    try:
-        logging.info(f"Starting download: {url}")
-        r = requests.get(url, timeout=30)
-        r.raise_for_status()
-        logging.info("Download successful")
-        return r.text
-    except requests.RequestException as e:
-        logging.error(f"Download failed: {e}")
-        return ""
-
-def clean_line(line: str) -> str:
-    # Remove group-title attribute
-    line = re.sub(r'\s*group-title="[^"]+"', '', line, flags=re.IGNORECASE)
-    # Remove decorative separator lines (lots of '=' and text in between)
-    if re.match(r'^\s*=+\s*.*\s*=+\s*$', line):
-        return ""  # drop the line entirely
-    return line
-
 def main():
-    logging.info("=== Scraper run started ===")
-    source = download(SOURCE_URL)
+    r = requests.get(SOURCE_URL, timeout=30)
+    r.raise_for_status()
 
-    if not source:
-        logging.warning("No content downloaded, exiting.")
-        return
+    data = r.json()
 
-    cleaned_lines = ["#EXTM3U"]  # ensure header at the very first line
-    for line in source.splitlines():
-        if line.startswith("#EXTINF") or re.match(r'^\s*=+', line):
-            line = clean_line(line)
-        if line.strip():  # skip empty lines after cleaning
-            cleaned_lines.append(line)
+    channels = []
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(cleaned_lines))
+    if isinstance(data, list):
+        channels = data
+    elif isinstance(data, dict):
+        if "channels" in data:
+            channels = data["channels"]
+        else:
+            channels = list(data.values())
 
-    logging.info(f"Playlist saved to {OUTPUT_FILE} with header #EXTM3U")
-    logging.info("=== Scraper run finished ===")
+    m3u_lines = ["#EXTM3U"]
+    total = 0
+
+    for ch in channels:
+        if not isinstance(ch, dict):
+            continue
+
+        name = (
+            ch.get("name")
+            or ch.get("channel_name")
+            or ch.get("title")
+            or f"Channel {total+1}"
+        )
+
+        url = (
+            ch.get("url")
+            or ch.get("stream")
+            or ch.get("stream_url")
+            or ch.get("source")
+        )
+
+        logo = ch.get("logo", "")
+        group = ch.get("group", "")
+
+        if url:
+            extinf = (
+                f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}'
+            )
+            m3u_lines.append(extinf)
+            m3u_lines.append(url)
+            total += 1
+
+    with open(M3U_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(m3u_lines))
+
+    with open(LOG_FILE, "w", encoding="utf-8") as f:
+        f.write(f"Source: {SOURCE_URL}\n")
+        f.write(f"Generated: {datetime.now()}\n")
+        f.write(f"Channels: {total}\n")
+
+    print(f"Created {M3U_FILE}")
+    print(f"Created {LOG_FILE}")
+    print(f"Channels: {total}")
 
 if __name__ == "__main__":
     main()
