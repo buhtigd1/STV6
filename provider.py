@@ -5,6 +5,7 @@ import requests
 from urllib.parse import parse_qsl
 from datetime import datetime
 from zoneinfo import ZoneInfo
+import re
 
 SOURCE_URL = (
     "https://raw.githubusercontent.com/"
@@ -23,12 +24,8 @@ def load_events():
 
 def to_jakarta_time(date_str, time_str):
     """
-    Source assumed UTC.
+    Source time assumed UTC.
     Convert to Asia/Jakarta (UTC+7)
-
-    Returns:
-        HH:MM
-        DD/MM/YYYY
     """
 
     try:
@@ -41,20 +38,40 @@ def to_jakarta_time(date_str, time_str):
             tzinfo=ZoneInfo("UTC")
         )
 
-        dt_jakarta = dt.astimezone(
+        dt = dt.astimezone(
             ZoneInfo("Asia/Jakarta")
         )
 
         return (
-            dt_jakarta.strftime("%H:%M"),
-            dt_jakarta.strftime("%d/%m/%Y")
+            dt.strftime("%H:%M"),
+            dt.strftime("%d/%m/%Y")
         )
 
     except Exception:
         return (
-            time_str[:5] if time_str else "00:00",
+            time_str[:5],
             date_str
         )
+
+
+def clean_event_name(name):
+    """
+    Remove leading category tags:
+    [Football]
+    [Motorsport]
+    [Hockey]
+    """
+
+    if not name:
+        return "Unknown Event"
+
+    name = re.sub(
+        r'^\s*(\[[^\]]+\]\s*)+',
+        '',
+        name
+    )
+
+    return name.strip()
 
 
 def parse_kodi_headers(url):
@@ -126,57 +143,84 @@ def add_drm(lines, drm_key):
 
 def build_m3u(events):
 
-    lines = ["#EXTM3U", ""]
+    lines = [
+        "#EXTM3U",
+        ""
+    ]
 
     for event in events:
 
         if not event.get("visible", True):
             continue
 
-        category = event.get("category", "Live")
-        event_name = event.get("eventName", "Unknown Event")
         logo = event.get("eventLogo", "")
 
-        date_str = event.get("date", "")
-        time_str = event.get("time", "00:00:00")
-
-        channel_time, group_title = to_jakarta_time(
-            date_str,
-            time_str
+        event_name = clean_event_name(
+            event.get(
+                "eventName",
+                "Unknown Event"
+            )
         )
 
-        for stream in event.get("streams", []):
+        date_str = event.get("date", "")
+        time_str = event.get(
+            "time",
+            "00:00:00"
+        )
+
+        channel_time, group_title = (
+            to_jakarta_time(
+                date_str,
+                time_str
+            )
+        )
+
+        for stream in event.get(
+            "streams",
+            []
+        ):
 
             stream_name = stream.get(
                 "name",
                 "Unknown"
             )
 
-            stream_url = stream.get("link")
+            stream_url = stream.get(
+                "link"
+            )
 
             if not stream_url:
                 continue
 
             lines.append(
-                f'#EXTINF:-1 group-title="{group_title}" '
+                f'#EXTINF:-1 '
+                f'group-title="{group_title}" '
                 f'tvg-logo="{logo}",'
                 f'{channel_time} - '
-                f'[{category}] {event_name} | {stream_name}'
+                f'{event_name} | {stream_name}'
             )
 
             if stream.get("api"):
+
                 add_drm(
                     lines,
                     stream["api"]
                 )
 
-            kodi_props, clean_url = parse_kodi_headers(
-                stream_url
+            kodi_props, clean_url = (
+                parse_kodi_headers(
+                    stream_url
+                )
             )
 
-            lines.extend(kodi_props)
+            lines.extend(
+                kodi_props
+            )
 
-            lines.append(clean_url)
+            lines.append(
+                clean_url
+            )
+
             lines.append("")
 
     return "\n".join(lines)
@@ -196,22 +240,21 @@ def build_log(events):
 
         total_events += 1
 
-        date_str = event.get("date", "")
-        time_str = event.get("time", "00:00:00")
-
-        jakarta_time, jakarta_date = to_jakarta_time(
-            date_str,
-            time_str
+        event_name = clean_event_name(
+            event.get(
+                "eventName",
+                "Unknown Event"
+            )
         )
 
-        event_name = event.get(
-            "eventName",
-            "Unknown"
-        )
-
-        category = event.get(
-            "category",
-            "Unknown"
+        jakarta_time, jakarta_date = (
+            to_jakarta_time(
+                event.get("date", ""),
+                event.get(
+                    "time",
+                    "00:00:00"
+                )
+            )
         )
 
         streams = event.get(
@@ -224,15 +267,11 @@ def build_log(events):
         )
 
         log.append(
-            f"[INFO] Category: {category}"
+            f"[INFO] Date: {jakarta_date}"
         )
 
         log.append(
-            f"[INFO] Jakarta Date: {jakarta_date}"
-        )
-
-        log.append(
-            f"[INFO] Jakarta Time: {jakarta_time}"
+            f"[INFO] Time: {jakarta_time}"
         )
 
         log.append(
@@ -254,15 +293,22 @@ def build_log(events):
                     f"[DRM] {name}"
                 )
 
-            elif stream.get("tokenApi"):
+            elif stream.get(
+                "tokenApi"
+            ):
 
                 token_type = (
                     stream["tokenApi"]
-                    .get("type", "unknown")
+                    .get(
+                        "type",
+                        "unknown"
+                    )
                 )
 
                 log.append(
-                    f"[TOKEN_API] {name} ({token_type})"
+                    f"[TOKEN_API] "
+                    f"{name} "
+                    f"({token_type})"
                 )
 
             else:
@@ -286,7 +332,9 @@ def build_log(events):
 
 def main():
 
-    print("Downloading source...")
+    print(
+        "Downloading source..."
+    )
 
     events = load_events()
 
@@ -294,22 +342,23 @@ def main():
         f"Loaded {len(events)} events"
     )
 
-    m3u_content = build_m3u(events)
-    log_content = build_log(events)
-
     with open(
         OUTPUT_M3U,
         "w",
         encoding="utf-8"
     ) as f:
-        f.write(m3u_content)
+        f.write(
+            build_m3u(events)
+        )
 
     with open(
         OUTPUT_LOG,
         "w",
         encoding="utf-8"
     ) as f:
-        f.write(log_content)
+        f.write(
+            build_log(events)
+        )
 
     print(
         f"Saved: {OUTPUT_M3U}"
