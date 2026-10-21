@@ -46,7 +46,7 @@ def main():
                     "#KODIPROP:inputstream.adaptive.manifest_type=mpd"
                 )
                 m3u_lines.append(
-                    "#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey"
+                    "#KODIPROP:inputstream.adaptive.license_type=clearkey"
                 )
                 m3u_lines.append(
                     f"#KODIPROP:inputstream.adaptive.license_key={key}"
