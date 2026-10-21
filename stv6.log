@@ -1,3 +1,250 @@
-Source: https://raw.githubusercontent.com/darkbyteprojects/iptv_png/main/provider_1/live_events.json
-Generated: 2026-10-21 05:37:36
-Channels: 81
+[INFO] Event: MotoGP
+[INFO] Category: Motorsport
+[INFO] Streams Found: 8
+[DRM] TNT SPORTS - AQ
+[DRM] FANCODE - AQ
+[DRM] SPOTV - AQ
+[DRM] MotoGP - AQ
+[HLS] MOTO Cricfy
+[HLS] Cricfy HD
+[HLS] Cricfy HD
+[HLS] Low
+
+[INFO] Event: WWE NXT
+[INFO] Category: Boxing
+[INFO] Streams Found: 6
+[HLS] Cricfy NXT Live
+[TOKEN_API] WWE TV (embed)
+[HLS] WWE
+[HLS] NXT WWE
+[HLS] WE NXT
+[HLS] Low
+
+[INFO] Event: ONE Friday Fights
+[INFO] Category: Boxing
+[INFO] Streams Found: 5
+[DRM] One Fight - AQ
+[DRM] WWE - AQ
+[DRM] WWE - AQ
+[HLS] Cricfy Live
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: Formula 1
+[INFO] Category: Motorsport
+[INFO] Streams Found: 14
+[DRM] TSN SPORTS - AQ
+[DRM] SK SPORTS - AQ
+[DRM] FANCODE - AQ
+[DRM] SporTV BR - AQ
+[TOKEN_API] DAZN ESPANOL (embed)
+[TOKEN_API] APPLE TV (embed)
+[HLS] CGPT LIVE
+[HLS] Cricfy SPORTS DE
+[HLS] DAZN SPORTS
+[HLS] SK sports F1
+[TOKEN_API] FS2 (embed)
+[HLS] Low
+[HLS] Cricfy HD
+[HLS] Sportscast
+
+[INFO] Event: WWE Friday Night SmackDown
+[INFO] Category: Boxing
+[INFO] Streams Found: 8
+[HLS] Cricfy WWE
+[HLS] WWE LIVE FHD
+[HLS] HD SERVER
+[HLS] Cricfy TV+ HD
+[HLS] HD QUALITY
+[DRM] USA TV
+[HLS] LOW QUALITY
+[TOKEN_API] Cricfy WWE (embed)
+
+[INFO] Event: ISL
+[INFO] Category: Cricket
+[INFO] Streams Found: 4
+[HLS] CricFy (ENG)
+[HLS] CricFy (HIN)
+[HLS] CricFy (MAL)
+[HLS] Low
+
+[INFO] Event: LaLiga
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: League One
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: ICC World Test Championship
+[INFO] Category: Cricket
+[INFO] Streams Found: 8
+[DRM] WILLOW - AQ
+[DRM] FANCODE - AQ
+[DRM] WILLOW ALT - AQ
+[HLS] TAPMAD - AQ
+[HLS] FOX CRICKET HD
+[HLS] A SPORTS HD
+[HLS] FANCODE (IND)
+[HLS] Low
+
+[INFO] Event: NHL
+[INFO] Category: Hockey
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Category: Hockey
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Category: Hockey
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] NBA
+
+[INFO] Event: UEFA Champions League
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: WNBA
+[INFO] Category: Basketball
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Category: Hockey
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Category: Hockey
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: CONMEBOL Libertadores
+[INFO] Category: Football
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: ODI Tri-Series in United Arab Emirates
+[INFO] Category: Cricket
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: ICC World Test Championship
+[INFO] Category: Cricket
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: T20 International
+[INFO] Category: Cricket
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: ODI Tri-series in Pakistan
+[INFO] Category: Cricket
+[INFO] Streams Found: 1
+[HLS] Link 1
