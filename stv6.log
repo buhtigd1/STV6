@@ -76,71 +76,89 @@
 [INFO] Event: LaLiga
 [INFO] Date: 22/10/2026
 [INFO] Time: 01:00
-[INFO] Streams Found: 3
+[INFO] Streams Found: 5
 [DRM] PREMIER SPORTS - AQ
 [DRM] D SPORTS - AQ
 [DRM] CazéTV - AQ
+[HLS] DEP TV
+[HLS] Low
 
 [INFO] Event: League One
 [INFO] Date: 22/10/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[DRM] TNT SPORTS - AQ
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[DRM] TNT SPORTS - AQ
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 21/10/2026
-[INFO] Time: 23:45
 [INFO] Streams Found: 2
-[HLS] TNT SPORTS - AQ
-[DRM] CBS SPORTS - AQ
+[DRM] beIN ENGLISH - AQ
+[HLS] SD Stream
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 22/10/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 1
-[DRM] CBS SPORTS - AQ
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 21/10/2026
-[INFO] Time: 23:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 4
 [DRM] TNT SPORTS - AQ
+[HLS] CRFY TV
+[HLS] Cricfy HD
+[HLS] Cricfy HD +
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 22/10/2026
 [INFO] Time: 02:00
 [INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 8
+[DRM] PARAMOUNT+ - AQ
 [DRM] TNT SPORTS - AQ
+[HLS] CRFY TV
+[HLS] Cricfy HD
+[HLS] CRFY Stream
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy HD
+[HLS] Low
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 6
+[DRM] PARAMOUNT+ FHD
+[DRM] CBS SPORTS - AQ
+[HLS] Cricfy HD
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy Live
+[HLS] Low
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 5
+[DRM] PARAMOUNT+ - AQ
+[HLS] Cricfy HD
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy HD
+[HLS] Low
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 5
+[DRM] PARAMOUNT+ - AQ
+[HLS] Cricfy HD
+[HLS] SonyLiv (Asia)
+[HLS] CRFY Stream
+[HLS] Low
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 22/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 6
+[DRM] PARAMOUNT+ FHD
+[DRM] TNT SPORTS - AQ
+[HLS] Cricfy Live
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: NBA
 [INFO] Date: 22/10/2026
@@ -235,8 +253,12 @@
 [INFO] Event: ODI Tri-Series in United Arab Emirates
 [INFO] Date: 21/10/2026
 [INFO] Time: 18:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[DRM] WILLOW - AQ
+[DRM] WILLOW ALT - AQ
+[HLS] TAPMAD FHD
+[HLS] T SPORTS HD
+[HLS] FANCODE (IND)
 
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 21/10/2026
@@ -262,5 +284,5 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=36
-[SUMMARY] Streams=84
+[SUMMARY] Events=34
+[SUMMARY] Streams=116
