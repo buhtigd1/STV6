@@ -73,210 +73,11 @@
 [HLS] CricFy (MAL)
 [HLS] Low
 
-[INFO] Event: LaLiga
-[INFO] Date: 22/10/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 5
-[DRM] PREMIER SPORTS - AQ
-[DRM] D SPORTS - AQ
-[DRM] CazéTV - AQ
-[HLS] DEP TV
-[HLS] Low
-
-[INFO] Event: League One
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 2
-[DRM] beIN ENGLISH - AQ
-[HLS] SD Stream
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 4
-[DRM] TNT SPORTS - AQ
-[HLS] CRFY TV
-[HLS] Cricfy HD
-[HLS] Cricfy HD +
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Cricfy HD
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 8
-[DRM] PARAMOUNT+ - AQ
-[DRM] TNT SPORTS - AQ
-[HLS] CRFY TV
-[HLS] Cricfy HD
-[HLS] CRFY Stream
-[HLS] SonyLiv (Asia)
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 6
-[DRM] PARAMOUNT+ FHD
-[DRM] CBS SPORTS - AQ
-[HLS] Cricfy HD
-[HLS] SonyLiv (Asia)
-[HLS] Cricfy Live
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 5
-[DRM] PARAMOUNT+ - AQ
-[HLS] Cricfy HD
-[HLS] SonyLiv (Asia)
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 5
-[DRM] PARAMOUNT+ - AQ
-[HLS] Cricfy HD
-[HLS] SonyLiv (Asia)
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 22/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 6
-[DRM] PARAMOUNT+ FHD
-[DRM] TNT SPORTS - AQ
-[HLS] Cricfy Live
-[HLS] SonyLiv (Asia)
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: NBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 06:30
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: NBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: NBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: NBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 09:30
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: NBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: NBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: NBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 06:30
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: NBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: NBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: NBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 06:30
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: NBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: WNBA
-[INFO] Date: 22/10/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: NHL
-[INFO] Date: 22/10/2026
-[INFO] Time: 06:30
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 22/10/2026
-[INFO] Time: 06:30
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: CONMEBOL Libertadores
-[INFO] Date: 22/10/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: ODI Tri-Series in United Arab Emirates
-[INFO] Date: 21/10/2026
-[INFO] Time: 18:30
-[INFO] Streams Found: 5
-[DRM] WILLOW - AQ
-[DRM] WILLOW ALT - AQ
-[HLS] TAPMAD FHD
-[HLS] T SPORTS HD
-[HLS] FANCODE (IND)
-
-[INFO] Event: ICC World Test Championship
-[INFO] Date: 21/10/2026
-[INFO] Time: 14:45
-[INFO] Streams Found: 7
-[DRM] WILLOW - AQ
-[DRM] FANCODE - AQ
-[DRM] WILLOW ALT - AQ
-[HLS] TAPMAD - AQ
-[HLS] FOX CRICKET HD
-[HLS] A SPORTS HD
-[HLS] FANCODE (IND)
-
 [INFO] Event: T20 International
 [INFO] Date: 22/10/2026
 [INFO] Time: 14:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: ODI Tri-series in Pakistan
 [INFO] Date: 22/10/2026
@@ -284,5 +85,342 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=34
-[SUMMARY] Streams=116
+[INFO] Event: UEFA Conference League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 21:30
+[INFO] Streams Found: 2
+[TOKEN_API] Cricfy HD (embed)
+[TOKEN_API] CRFY Stream (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 23/10/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 23/10/2026
+[INFO] Time: 20:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 22/10/2026
+[INFO] Time: 20:40
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 22/10/2026
+[INFO] Time: 21:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: ICC World Test Championship
+[INFO] Date: 22/10/2026
+[INFO] Time: 14:45
+[INFO] Streams Found: 1
+[HLS] Low
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 06:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 23/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 23/10/2026
+[INFO] Time: 08:30
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 23/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[SUMMARY] Events=64
+[SUMMARY] Streams=104
