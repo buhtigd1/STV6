@@ -76,7 +76,14 @@
 [INFO] Event: T20 International
 [INFO] Date: 22/10/2026
 [INFO] Time: 14:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 8
+[DRM] WILLOW  - AQ
+[DRM] TNT SPORTS - AQ
+[DRM] WILLOW ALT - AQ
+[DRM] Sony Sports (ENG)
+[DRM] Sony Sports (HIN)
+[DRM] Sony Sports (TAM)
+[DRM] Sony Sports (TEL)
 [HLS] Low
 
 [INFO] Event: ODI Tri-series in Pakistan
@@ -100,10 +107,36 @@
 [INFO] Event: UEFA Europa League
 [INFO] Date: 22/10/2026
 [INFO] Time: 23:45
+[INFO] Streams Found: 2
+[HLS] CRFY Stream
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 23/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 2
+[HLS] CRFY Stream
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
 [INFO] Streams Found: 1
 [TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: UEFA Conference League
+[INFO] Date: 22/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: UEFA Europa League
 [INFO] Date: 23/10/2026
 [INFO] Time: 02:00
 [INFO] Streams Found: 1
@@ -121,34 +154,11 @@
 [INFO] Streams Found: 1
 [TOKEN_API] Cricfy HD (embed)
 
-[INFO] Event: UEFA Conference League
-[INFO] Date: 22/10/2026
-[INFO] Time: 23:45
-[INFO] Streams Found: 1
-[TOKEN_API] Cricfy HD (embed)
-
-[INFO] Event: UEFA Europa League
-[INFO] Date: 23/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[TOKEN_API] Cricfy HD (embed)
-
-[INFO] Event: UEFA Europa League
-[INFO] Date: 23/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[TOKEN_API] Cricfy HD (embed)
-
-[INFO] Event: UEFA Conference League
-[INFO] Date: 22/10/2026
-[INFO] Time: 23:45
-[INFO] Streams Found: 1
-[TOKEN_API] Cricfy HD (embed)
-
 [INFO] Event: UEFA Europa League
 [INFO] Date: 22/10/2026
 [INFO] Time: 23:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[HLS] CRFY Stream
 [TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: UEFA Europa League
@@ -239,7 +249,8 @@
 [INFO] Event: UEFA Europa League
 [INFO] Date: 23/10/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[HLS] CRFY Stream
 [TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: UEFA Europa League
@@ -299,7 +310,8 @@
 [INFO] Event: UEFA Europa League
 [INFO] Date: 23/10/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[HLS] CRFY Stream
 [TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: Saudi Pro League
@@ -329,7 +341,15 @@
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 22/10/2026
 [INFO] Time: 14:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 9
+[DRM] WILLOW - AQ
+[DRM] FANCODE - AQ
+[DRM] WILLOW ALT - AQ
+[HLS] SK CRICKET
+[HLS] TAPMAD
+[HLS] FOX CRICKET HD
+[HLS] A SPORTS HD
+[HLS] FANCODE (IND)
 [HLS] Low
 
 [INFO] Event: NHL
@@ -342,67 +362,67 @@
 [INFO] Date: 23/10/2026
 [INFO] Time: 09:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 23/10/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 23/10/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 23/10/2026
 [INFO] Time: 09:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 23/10/2026
 [INFO] Time: 06:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 23/10/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 23/10/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 23/10/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 23/10/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 23/10/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 23/10/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NBA
 [INFO] Date: 23/10/2026
@@ -413,7 +433,8 @@
 [INFO] Event: NBA
 [INFO] Date: 23/10/2026
 [INFO] Time: 06:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[HLS] NBA
 [TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: UEFA Conference League
@@ -422,5 +443,23 @@
 [INFO] Streams Found: 1
 [TOKEN_API] Cricfy HD (embed)
 
-[SUMMARY] Events=64
-[SUMMARY] Streams=104
+[INFO] Event: NCAA Division FBS
+[INFO] Date: 23/10/2026
+[INFO] Time: 06:30
+[INFO] Streams Found: 1
+[HLS] NFL
+
+[INFO] Event: NFL
+[INFO] Date: 23/10/2026
+[INFO] Time: 07:15
+[INFO] Streams Found: 1
+[HLS] NFL
+
+[INFO] Event: NCAA Division FBS
+[INFO] Date: 23/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] NFL
+
+[SUMMARY] Events=67
+[SUMMARY] Streams=128

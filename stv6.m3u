@@ -203,12 +203,75 @@ https://sonymtmnew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-80030
 #KODIPROP:http-referrer=http://fawanews.sc/
 http://193.47.62.59/hls/f666.m3u8
 
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",14:00 - T20 International | WILLOW  - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3125d35cc46b342a0534a9c5ddd6d31:426221d3ffae19a037f5c755508dbf3c
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",14:00 - T20 International | TNT SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",14:00 - T20 International | WILLOW ALT - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3125d35cc46b342a0534a9c5ddd6d31:426221d3ffae19a037f5c755508dbf3c
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meouoxphzm/out/v1/be7934dca1254ed0924242347f93c4e3/cenc.mpd
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",14:00 - T20 International | Sony Sports (ENG)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2d8709de11d5955b60c57d3c955733e:7655200b24bf82808fb8addf2f02847b
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd?__hdnea__=st=1792647612~exp=1792669212~acl=/*~hmac=610b564481a5ff7c766dbd59f478085f08a6e33ba61f089a26f665e5a67dff1d
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",14:00 - T20 International | Sony Sports (HIN)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68318f7c97c55ba6ab8d0398a88fed3e:d312fb3325b4eb9462b4a0d2b6794adf
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd?__hdnea__=st=1792647612~exp=1792669212~acl=/*~hmac=610b564481a5ff7c766dbd59f478085f08a6e33ba61f089a26f665e5a67dff1d
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",14:00 - T20 International | Sony Sports (TAM)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0df5f800775c5979ab8aeaff28ee674b:47dd1b9c8d4049760059aab27bddf1cb
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1792647612~exp=1792669212~acl=/*~hmac=610b564481a5ff7c766dbd59f478085f08a6e33ba61f089a26f665e5a67dff1d
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",14:00 - T20 International | Sony Sports (TEL)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=494a8a050ecc5a22adab6dc304ead1b4:9b3bbf2ccb71a876a2bbeb9cde00d7bf
+https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1792647612~exp=1792669212~acl=/*~hmac=610b564481a5ff7c766dbd59f478085f08a6e33ba61f089a26f665e5a67dff1d
+
 #EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",14:00 - T20 International | Low
 #KODIPROP:http-referrer=http://fawanews.sc/
-http://193.47.62.55/hls/CCCCCC.m3u8
+http://193.47.62.41/hls/KKKK.m3u8
 
 #EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark",15:00 - ODI Tri-series in Pakistan | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",23:45 - UEFA Europa League | CRFY Stream
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8
+
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",02:00 - UEFA Europa League | CRFY Stream
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream4.pro/hls/b0h5fNwDKH.m3u8
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",23:45 - UEFA Europa League | CRFY Stream
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream7.pro/hls/sqdahach1ax.m3u8
 
 #EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",02:00 - UEFA Conference League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
@@ -228,11 +291,19 @@ http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",23:45 - UEFA Europa League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",02:00 - UEFA Europa League | CRFY Stream
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream3.pro/hls/eJmauBDCIf.m3u8
+
 #EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark",02:00 - UEFA Conference League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
 #EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",02:00 - UEFA Europa League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
+
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/679/image/dark",02:00 - UEFA Europa League | CRFY Stream
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8
 
 #EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",01:00 - Saudi Pro League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
@@ -246,6 +317,47 @@ http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",21:45 - Saudi Pro League | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",14:45 - ICC World Test Championship | WILLOW - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",14:45 - ICC World Test Championship | FANCODE - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",14:45 - ICC World Test Championship | WILLOW ALT - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",14:45 - ICC World Test Championship | SK CRICKET
+#KODIPROP:http-user-agent=Mozilla
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",14:45 - ICC World Test Championship | TAPMAD
+#KODIPROP:http-referrer=https://tapmad.com/
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",14:45 - ICC World Test Championship | FOX CRICKET HD
+https://baila-lentoo.pages.dev/all-sp/809389.m3u8
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",14:45 - ICC World Test Championship | A SPORTS HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8?e=1784102512&token=968935df4fd0678de5d7fe392c0610d9&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+
+#EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",14:45 - ICC World Test Championship | FANCODE (IND)
+#KODIPROP:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#KODIPROP:http-referrer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f75350_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 group-title="22/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",14:45 - ICC World Test Championship | Low
 #KODIPROP:http-referrer=http://fawanews.sc/
 http://193.47.62.44/hls/BEEEEAAAA.m3u8
@@ -253,35 +365,62 @@ http://193.47.62.44/hls/BEEEEAAAA.m3u8
 #EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:00 - NHL | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",09:00 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",09:00 - NHL | NHL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream5.pro/hls/cwxvbnfghq60.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:00 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:00 - NHL | NHL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream4.pro/hls/lmdsjkfgv52.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",07:00 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",07:00 - NHL | NHL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream5.pro/hls/poiryezafv56.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",09:00 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",09:00 - NHL | NHL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream3.pro/hls/gfhfgsqda61.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:30 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:30 - NHL | NHL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream5.pro/hls/sdezqfza55.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:00 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:00 - NHL | NHL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream3.pro/hls/bnvcxwhfg54.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",07:00 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",07:00 - NHL | NHL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream1.pro/hls/rzavbdyua57.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:00 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:00 - NHL | NHL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream5.pro/hls/rtzaeyvhb53.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",08:00 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",08:00 - NHL | NHL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream1.pro/hls/earzfddshg58.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",08:00 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",08:00 - NHL | NHL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream7.pro/hls/bvnzadfvyt59.m3u8
 
-#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:00 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:00 - NHL | NHL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream2.pro/hls/hjksgdfauzy51.m3u8
+
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:00 - NBA | NBA
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream4.pro/hls/mlkijfezag65.m3u8
+
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",06:30 - NCAA Division FBS | NFL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream7.pro/hls/sfjnzabacah31.m3u8
+
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",07:15 - NFL | NFL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream1.pro/hls/JHDAJBDnjdna30.m3u8
+
+#EXTINF:-1 group-title="23/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",06:00 - NCAA Division FBS | NFL
+#KODIPROP:http-referrer=https://streame.center/
+https://edgestream4.pro/hls/mlkijfezag65.m3u8
