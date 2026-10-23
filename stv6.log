@@ -24,7 +24,7 @@
 [HLS] Low
 
 [INFO] Event: ONE Friday Fights
-[INFO] Date: 24/10/2026
+[INFO] Date: 30/10/2026
 [INFO] Time: 19:00
 [INFO] Streams Found: 5
 [DRM] One Fight - AQ
@@ -34,23 +34,18 @@
 [TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: Formula 1
-[INFO] Date: 23/10/2026
-[INFO] Time: 12:30
-[INFO] Streams Found: 14
-[DRM] TSN SPORTS - AQ
-[DRM] SK SPORTS - AQ
+[INFO] Date: 24/10/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 9
+[DRM] SK Via APPLE - AQ
+[DRM] APPLE TV - AQ
 [DRM] FANCODE - AQ
 [DRM] SporTV BR - AQ
 [TOKEN_API] DAZN ESPANOL (embed)
 [TOKEN_API] APPLE TV (embed)
 [HLS] CGPT LIVE
-[HLS] Cricfy SPORTS DE
-[HLS] DAZN SPORTS
 [HLS] SK sports F1
-[TOKEN_API] FS2 (embed)
 [HLS] Low
-[HLS] Cricfy HD
-[HLS] Sportscast
 
 [INFO] Event: WWE Friday Night SmackDown
 [INFO] Date: 24/10/2026
@@ -66,25 +61,22 @@
 [TOKEN_API] Cricfy WWE (embed)
 
 [INFO] Event: ISL
-[INFO] Date: 23/10/2026
-[INFO] Time: 18:30
-[INFO] Streams Found: 4
+[INFO] Date: 25/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 5
+[DRM] PRIME VIDEO - AQ
 [HLS] CricFy (ENG)
 [HLS] CricFy (HIN)
 [HLS] CricFy (MAL)
 [HLS] Low
 
-[INFO] Event: Saudi Pro League
-[INFO] Date: 23/10/2026
-[INFO] Time: 20:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: Ligue 1
 [INFO] Date: 24/10/2026
 [INFO] Time: 01:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 3
+[DRM] CazéTV FHD
 [HLS] Cricfy Live
+[HLS] Low
 
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 24/10/2026
@@ -96,19 +88,21 @@
 [INFO] Date: 24/10/2026
 [INFO] Time: 01:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: LaLiga
 [INFO] Date: 24/10/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 3
+[DRM] CazéTV - AQ
+[DRM] D SPORTS - AQ
 [HLS] CRFY Stream
 
 [INFO] Event: Frauen-Bundesliga
 [INFO] Date: 24/10/2026
 [INFO] Time: 19:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] CRFY Stream
 
 [INFO] Event: Serie A Women
 [INFO] Date: 24/10/2026
@@ -137,8 +131,11 @@
 [INFO] Event: Bundesliga
 [INFO] Date: 24/10/2026
 [INFO] Time: 01:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 4
+[DRM] SporTV BR - AQ
+[DRM] CazéTV - AQ
 [HLS] Cricfy Live
+[HLS] Low
 
 [INFO] Event: Frauen-Bundesliga
 [INFO] Date: 24/10/2026
@@ -149,32 +146,42 @@
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 23/10/2026
 [INFO] Time: 23:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] beIN ENGLISH FHD
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 23/10/2026
 [INFO] Time: 23:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] beIN ENGLISH - AQ
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Saudi Pro League
 [INFO] Date: 23/10/2026
 [INFO] Time: 22:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] FOX DEPORTES - AQ
+[HLS] CRFY Stream
+[HLS] FOX ONE HD
+[HLS] Low
 
 [INFO] Event: Trendyol Süper Lig
 [INFO] Date: 24/10/2026
 [INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy SD
+[HLS] Low
 
 [INFO] Event: Saudi Pro League
 [INFO] Date: 24/10/2026
 [INFO] Time: 01:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] FOX DEPORTES  - AQ
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Bundesliga
 [INFO] Date: 24/10/2026
@@ -204,7 +211,7 @@
 [INFO] Date: 24/10/2026
 [INFO] Time: 01:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 24/10/2026
@@ -215,12 +222,6 @@
 [INFO] Event: LaLiga 2
 [INFO] Date: 24/10/2026
 [INFO] Time: 19:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Frauen-Bundesliga
-[INFO] Date: 23/10/2026
-[INFO] Time: 23:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
@@ -239,40 +240,50 @@
 [INFO] Event: Serie A
 [INFO] Date: 24/10/2026
 [INFO] Time: 01:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 8
+[DRM] PARAMOUNT+ - AQ
+[DRM] FUBO SPORTS  - AQ
+[DRM] beIN ENGLISH - AQ
+[DRM] CBS SPORTS - AQ
+[DRM] SPORT 1 CZ - AQ
+[HLS] Cricfy HD
 [HLS] Cricfy Live
+[HLS] Low
 
 [INFO] Event: Premier League
 [INFO] Date: 24/10/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 6
+[DRM] FUBO SPORTS - AQ
 [HLS] CRFY Stream
-
-[INFO] Event: LaLiga
-[INFO] Date: 24/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] PREMIER LEAGUE
+[HLS] Cricfy HD
+[HLS] USA TV HD
+[HLS] Low
 
 [INFO] Event: ODI Tri-Series in United Arab Emirates
 [INFO] Date: 23/10/2026
 [INFO] Time: 18:30
-[INFO] Streams Found: 6
+[INFO] Streams Found: 7
 [DRM] WILLOW - FHD
 [DRM] FANCODE FHD
 [DRM] WILLOW - ALT
 [HLS] TAPMAD - FHD
 [HLS] T SPORTS HD
 [HLS] FANCODE - IN
+[HLS] Low
 
-[INFO] Event: ICC Women's Championship
-[INFO] Date: 23/10/2026
-[INFO] Time: 15:30
-[INFO] Streams Found: 4
-[DRM] WILLOW  - AQ
-[DRM] TNT SPORTS - AQ
-[DRM] WILLOW  ALT - AQ
-[TOKEN_API] Willow 24/7 (embed)
+[INFO] Event: NHL
+[INFO] Date: 24/10/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] CRFY Stream
 
-[SUMMARY] Events=38
-[SUMMARY] Streams=86
+[INFO] Event: NHL
+[INFO] Date: 24/10/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] CRFY Stream
+
+[SUMMARY] Events=36
+[SUMMARY] Streams=107
