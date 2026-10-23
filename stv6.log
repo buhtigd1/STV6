@@ -1,6 +1,6 @@
 [INFO] Event: MotoGP
-[INFO] Date: 23/10/2026
-[INFO] Time: 06:30
+[INFO] Date: 24/10/2026
+[INFO] Time: 06:00
 [INFO] Streams Found: 9
 [DRM] TNT SPORTS - AQ
 [DRM] FANCODE - AQ
@@ -80,13 +80,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: UEFA Europa league
-[INFO] Date: 22/10/2026
-[INFO] Time: 23:40
-[INFO] Streams Found: 2
-[DRM] PARAMOUNT+ FHD
-[HLS] Low
-
 [INFO] Event: Ligue 1
 [INFO] Date: 24/10/2026
 [INFO] Time: 01:45
@@ -109,7 +102,7 @@
 [INFO] Date: 24/10/2026
 [INFO] Time: 02:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] CRFY Stream
 
 [INFO] Event: Frauen-Bundesliga
 [INFO] Date: 24/10/2026
@@ -249,5 +242,37 @@
 [INFO] Streams Found: 1
 [HLS] Cricfy Live
 
-[SUMMARY] Events=35
-[SUMMARY] Streams=76
+[INFO] Event: Premier League
+[INFO] Date: 24/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] CRFY Stream
+
+[INFO] Event: LaLiga
+[INFO] Date: 24/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: ODI Tri-Series in United Arab Emirates
+[INFO] Date: 23/10/2026
+[INFO] Time: 18:30
+[INFO] Streams Found: 6
+[DRM] WILLOW - FHD
+[DRM] FANCODE FHD
+[DRM] WILLOW - ALT
+[HLS] TAPMAD - FHD
+[HLS] T SPORTS HD
+[HLS] FANCODE - IN
+
+[INFO] Event: ICC Women's Championship
+[INFO] Date: 23/10/2026
+[INFO] Time: 15:30
+[INFO] Streams Found: 4
+[DRM] WILLOW  - AQ
+[DRM] TNT SPORTS - AQ
+[DRM] WILLOW  ALT - AQ
+[TOKEN_API] Willow 24/7 (embed)
+
+[SUMMARY] Events=38
+[SUMMARY] Streams=86
