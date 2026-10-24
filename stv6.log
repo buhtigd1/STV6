@@ -34,7 +34,7 @@
 [TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: Formula 1
-[INFO] Date: 24/10/2026
+[INFO] Date: 25/10/2026
 [INFO] Time: 00:30
 [INFO] Streams Found: 9
 [DRM] SK Via APPLE - AQ
@@ -70,45 +70,17 @@
 [HLS] CricFy (MAL)
 [HLS] Low
 
-[INFO] Event: Ligue 1
-[INFO] Date: 24/10/2026
-[INFO] Time: 01:45
-[INFO] Streams Found: 3
-[DRM] CazéTV FHD
-[HLS] Cricfy Live
-[HLS] Low
-
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 24/10/2026
 [INFO] Time: 18:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: LaLiga 2
-[INFO] Date: 24/10/2026
-[INFO] Time: 01:30
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: LaLiga
-[INFO] Date: 24/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 3
-[DRM] CazéTV - AQ
-[DRM] D SPORTS - AQ
-[HLS] CRFY Stream
-
 [INFO] Event: Frauen-Bundesliga
 [INFO] Date: 24/10/2026
 [INFO] Time: 19:00
 [INFO] Streams Found: 1
 [HLS] CRFY Stream
-
-[INFO] Event: Serie A Women
-[INFO] Date: 24/10/2026
-[INFO] Time: 17:30
-[INFO] Streams Found: 1
-[HLS] Link 1
 
 [INFO] Event: Serie A
 [INFO] Date: 24/10/2026
@@ -127,15 +99,6 @@
 [INFO] Time: 20:30
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: Bundesliga
-[INFO] Date: 24/10/2026
-[INFO] Time: 01:30
-[INFO] Streams Found: 4
-[DRM] SporTV BR - AQ
-[DRM] CazéTV - AQ
-[HLS] Cricfy Live
-[HLS] Low
 
 [INFO] Event: Frauen-Bundesliga
 [INFO] Date: 24/10/2026
@@ -143,46 +106,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 23/10/2026
-[INFO] Time: 23:30
-[INFO] Streams Found: 3
-[DRM] beIN ENGLISH FHD
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 23/10/2026
-[INFO] Time: 23:30
-[INFO] Streams Found: 3
-[DRM] beIN ENGLISH - AQ
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 23/10/2026
-[INFO] Time: 22:30
-[INFO] Streams Found: 4
-[DRM] FOX DEPORTES - AQ
-[HLS] CRFY Stream
-[HLS] FOX ONE HD
-[HLS] Low
-
-[INFO] Event: Trendyol Süper Lig
-[INFO] Date: 24/10/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 2
-[HLS] Cricfy SD
-[HLS] Low
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 24/10/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 3
-[DRM] FOX DEPORTES  - AQ
-[HLS] Cricfy HD
-[HLS] Low
-
 [INFO] Event: Bundesliga
 [INFO] Date: 24/10/2026
 [INFO] Time: 20:30
@@ -206,12 +129,6 @@
 [INFO] Time: 20:00
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 24/10/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[HLS] Low
 
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 24/10/2026
@@ -237,53 +154,305 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Serie A
+[INFO] Event: Championship
 [INFO] Date: 24/10/2026
-[INFO] Time: 01:45
-[INFO] Streams Found: 8
-[DRM] PARAMOUNT+ - AQ
-[DRM] FUBO SPORTS  - AQ
-[DRM] beIN ENGLISH - AQ
-[DRM] CBS SPORTS - AQ
-[DRM] SPORT 1 CZ - AQ
-[HLS] Cricfy HD
-[HLS] Cricfy Live
-[HLS] Low
+[INFO] Time: 18:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 24/10/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 24/10/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 24/10/2026
+[INFO] Time: 17:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 24/10/2026
+[INFO] Time: 18:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
 
 [INFO] Event: Premier League
 [INFO] Date: 24/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 6
-[DRM] FUBO SPORTS - AQ
-[HLS] CRFY Stream
-[HLS] PREMIER LEAGUE
-[HLS] Cricfy HD
-[HLS] USA TV HD
-[HLS] Low
-
-[INFO] Event: ODI Tri-Series in United Arab Emirates
-[INFO] Date: 23/10/2026
 [INFO] Time: 18:30
-[INFO] Streams Found: 7
-[DRM] WILLOW - FHD
-[DRM] FANCODE FHD
-[DRM] WILLOW - ALT
-[HLS] TAPMAD - FHD
-[HLS] T SPORTS HD
-[HLS] FANCODE - IN
-[HLS] Low
-
-[INFO] Event: NHL
-[INFO] Date: 24/10/2026
-[INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] CRFY Stream
+[HLS] Link 1
 
-[INFO] Event: NHL
+[INFO] Event: Championship
 [INFO] Date: 24/10/2026
-[INFO] Time: 08:00
+[INFO] Time: 18:30
 [INFO] Streams Found: 1
-[HLS] CRFY Stream
+[HLS] Link 1
 
-[SUMMARY] Events=36
-[SUMMARY] Streams=107
+[INFO] Event: Championship
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 24/10/2026
+[INFO] Time: 18:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Premier League
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Premier League
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 24/10/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 24/10/2026
+[INFO] Time: 23:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 25/10/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 24/10/2026
+[INFO] Time: 23:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 25/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 25/10/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 24/10/2026
+[INFO] Time: 23:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 25/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Liga Portugal Betclic
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 24/10/2026
+[INFO] Time: 22:05
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 24/10/2026
+[INFO] Time: 21:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Premier League
+[INFO] Date: 24/10/2026
+[INFO] Time: 23:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Bundesliga
+[INFO] Date: 24/10/2026
+[INFO] Time: 23:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 24/10/2026
+[INFO] Time: 23:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Liga Portugal Betclic
+[INFO] Date: 25/10/2026
+[INFO] Time: 02:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 25/10/2026
+[INFO] Time: 04:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Ligue 1
+[INFO] Date: 25/10/2026
+[INFO] Time: 01:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 25/10/2026
+[INFO] Time: 04:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 25/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 25/10/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 25/10/2026
+[INFO] Time: 02:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 25/10/2026
+[INFO] Time: 02:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Liga Portugal Betclic
+[INFO] Date: 25/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 25/10/2026
+[INFO] Time: 02:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 25/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: 2. Bundesliga
+[INFO] Date: 25/10/2026
+[INFO] Time: 01:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 25/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 25/10/2026
+[INFO] Time: 01:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=70
+[SUMMARY] Streams=106
