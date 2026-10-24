@@ -37,14 +37,14 @@
 [INFO] Date: 25/10/2026
 [INFO] Time: 00:30
 [INFO] Streams Found: 9
-[DRM] SK Via APPLE - AQ
 [DRM] APPLE TV - AQ
 [DRM] FANCODE - AQ
 [DRM] SporTV BR - AQ
 [HLS] SK SPorts F1
-[TOKEN_API] APPLE TV (embed)
 [HLS] CGPT LIVE
+[TOKEN_API] APPLE TV (embed)
 [HLS] SK sports F1
+[HLS] RUSSIA FEED
 [HLS] Low
 
 [INFO] Event: WWE Friday Night SmackDown
@@ -92,34 +92,22 @@
 [HLS] Live Persian
 
 [INFO] Event: LaLiga 2
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: LaLiga 2
 [INFO] Date: 25/10/2026
 [INFO] Time: 20:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: LaLiga
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:30
-[INFO] Streams Found: 6
-[DRM] beIN ENGLISH FHD
-[DRM] FANCODE FHD
-[DRM] D SPORTS FHD
-[HLS] CRFY Stream
-[DRM] CazéTV FHD
-[HLS] Low
-
-[INFO] Event: LaLiga
 [INFO] Date: 25/10/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 2
+[INFO] Streams Found: 7
+[DRM] beIN ENGLISH - AQ
+[DRM] FANCODE - AQ
+[DRM] D SPORTS  - AQ
+[DRM] CazéTV - AQ
 [HLS] CRFY Stream
 [TOKEN_API] Cricfy HD (embed)
+[HLS] Low
 
 [INFO] Event: LaLiga
 [INFO] Date: 25/10/2026
@@ -128,64 +116,17 @@
 [HLS] Link 1
 
 [INFO] Event: LaLiga 2
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:30
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: LaLiga 2
 [INFO] Date: 25/10/2026
 [INFO] Time: 02:00
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Liga Portugal Betclic
-[INFO] Date: 24/10/2026
-[INFO] Time: 21:30
-[INFO] Streams Found: 1
 [HLS] Low
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 24/10/2026
-[INFO] Time: 22:05
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: VriendenLoterij Eredivisie
-[INFO] Date: 24/10/2026
-[INFO] Time: 21:30
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: Premier League
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:30
-[INFO] Streams Found: 5
-[DRM] FUBO SPORTS FHD
-[HLS] PEACOCK TV HD
-[HLS] CRFY Stream
-[HLS] CRFY Stream
-[HLS] SD Stream
-
-[INFO] Event: Bundesliga
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:30
-[INFO] Streams Found: 3
-[HLS] Cricfy HD
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: VriendenLoterij Eredivisie
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:45
-[INFO] Streams Found: 1
-[HLS] Link 1
 
 [INFO] Event: Liga Portugal Betclic
 [INFO] Date: 25/10/2026
 [INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] D SPORTS - AQ
+[DRM] SportDigital Fussball - AQ
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 25/10/2026
@@ -196,8 +137,13 @@
 [INFO] Event: Ligue 1
 [INFO] Date: 25/10/2026
 [INFO] Time: 01:45
-[INFO] Streams Found: 1
-[TOKEN_API] Server 3 (embed)
+[INFO] Streams Found: 6
+[DRM] beIN SPORTS FHD
+[DRM] CazéTV FHD
+[TOKEN_API] CRFY Stream+ (embed)
+[HLS] CRFY Stream
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 25/10/2026
@@ -208,14 +154,24 @@
 [INFO] Event: LaLiga
 [INFO] Date: 25/10/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[DRM] beIN ENGLISH FHD
+[DRM] FANCODE - AQ
+[DRM] D SPORTS FHD
+[DRM] CazéTV FHD
+[HLS] Low
 
 [INFO] Event: Saudi Pro League
 [INFO] Date: 25/10/2026
 [INFO] Time: 01:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 25/10/2026
+[INFO] Time: 02:30
+[INFO] Streams Found: 1
+[DRM] PREMIERE BR - AQ
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 25/10/2026
@@ -227,31 +183,21 @@
 [INFO] Date: 25/10/2026
 [INFO] Time: 02:30
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Liga Portugal Betclic
-[INFO] Date: 25/10/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] PREMIERE BR - AQ
 
 [INFO] Event: VriendenLoterij Eredivisie
 [INFO] Date: 25/10/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
 [TOKEN_API] Cricfy HD (embed)
+[HLS] Low
 
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 25/10/2026
 [INFO] Time: 01:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] beIN ENGLISH - AQ
+[HLS] Low
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 25/10/2026
@@ -262,7 +208,11 @@
 [INFO] Event: Serie A
 [INFO] Date: 25/10/2026
 [INFO] Time: 01:45
-[INFO] Streams Found: 2
+[INFO] Streams Found: 6
+[DRM] beIN ENGLISH - AQ
+[DRM] SPORT 1 CZ - AQ
+[DRM] CBS SPORTS - AQ
+[HLS] PARAMOUNT+ HD
 [HLS] CRFY Stream
 [TOKEN_API] CRFY Stream (embed)
 
@@ -286,12 +236,6 @@
 [INFO] Event: NHL
 [INFO] Date: 25/10/2026
 [INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 00:00
 [INFO] Streams Found: 1
 [HLS] NHL
 
@@ -381,20 +325,8 @@
 [HLS] SD Stream
 
 [INFO] Event: NCAA Division FBS
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
 [INFO] Date: 25/10/2026
 [INFO] Time: 06:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
@@ -465,26 +397,8 @@
 [HLS] Link 1
 
 [INFO] Event: NCAA Division FBS
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] NccA
-
-[INFO] Event: NCAA Division FBS
 [INFO] Date: 25/10/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
@@ -524,12 +438,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: NCAA Division FCS
 [INFO] Date: 25/10/2026
 [INFO] Time: 00:30
@@ -549,16 +457,10 @@
 [HLS] Link 1
 
 [INFO] Event: NCAA Division FBS
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
 [INFO] Date: 25/10/2026
 [INFO] Time: 09:15
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=81
-[SUMMARY] Streams=157
+[SUMMARY] Events=63
+[SUMMARY] Streams=149
