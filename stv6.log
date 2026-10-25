@@ -1,15 +1,16 @@
 [INFO] Event: MotoGP
 [INFO] Date: 25/10/2026
 [INFO] Time: 12:00
-[INFO] Streams Found: 9
+[INFO] Streams Found: 10
 [DRM] TNT SPORTS - AQ
 [DRM] FANCODE - AQ
-[DRM] SPOTV - AQ
 [DRM] MotoGP - AQ
+[DRM] SPOTV - AQ
 [HLS] MOTO Cricfy
 [HLS] Cricfy HD
 [HLS] Cricfy HD +
 [HLS] Cricfy HD
+[TOKEN_API] CRFY Stream+ (embed)
 [HLS] Low
 
 [INFO] Event: WWE NXT
@@ -34,8 +35,8 @@
 [TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: Formula 1
-[INFO] Date: 25/10/2026
-[INFO] Time: 00:30
+[INFO] Date: 26/10/2026
+[INFO] Time: 03:00
 [INFO] Streams Found: 9
 [DRM] APPLE TV - AQ
 [DRM] FANCODE - AQ
@@ -70,135 +71,6 @@
 [HLS] CricFy (MAL)
 [HLS] Low
 
-[INFO] Event: LaLiga 2
-[INFO] Date: 25/10/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: LaLiga
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 8
-[DRM] beIN ENGLISH - AQ
-[DRM] FANCODE - AQ
-[DRM] D SPORTS  - AQ
-[DRM] CazéTV - AQ
-[HLS] CRFY Stream
-[HLS] CRFY Stream+
-[TOKEN_API] Cricfy HD (embed)
-[HLS] Low
-
-[INFO] Event: LaLiga
-[INFO] Date: 25/10/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: Liga Portugal Betclic
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 2
-[DRM] D SPORTS - AQ
-[DRM] SportDigital Fussball - AQ
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 25/10/2026
-[INFO] Time: 04:30
-[INFO] Streams Found: 4
-[DRM] PREMIER SPORTS - AQ
-[DRM] PREMIERE BR - AQ
-[DRM] SportDigital Fussball - AQ
-[TOKEN_API] Cricfy HD (embed)
-
-[INFO] Event: Ligue 1
-[INFO] Date: 25/10/2026
-[INFO] Time: 01:45
-[INFO] Streams Found: 6
-[DRM] beIN SPORTS FHD
-[DRM] CazéTV FHD
-[TOKEN_API] CRFY Stream+ (embed)
-[HLS] CRFY Stream
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 25/10/2026
-[INFO] Time: 04:30
-[INFO] Streams Found: 1
-[DRM] PREMIERE BR - AQ
-
-[INFO] Event: LaLiga
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 5
-[DRM] beIN ENGLISH FHD
-[DRM] FANCODE - AQ
-[DRM] D SPORTS FHD
-[DRM] CazéTV FHD
-[HLS] Low
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 25/10/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 1
-[DRM] PREMIERE BR - AQ
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 1
-[DRM] PREMIERE BR - AQ
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 1
-[DRM] PREMIERE BR - AQ
-
-[INFO] Event: VriendenLoterij Eredivisie
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 2
-[TOKEN_API] Cricfy HD (embed)
-[HLS] Low
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 25/10/2026
-[INFO] Time: 01:30
-[INFO] Streams Found: 2
-[DRM] beIN ENGLISH - AQ
-[HLS] Low
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: Serie A
-[INFO] Date: 25/10/2026
-[INFO] Time: 01:45
-[INFO] Streams Found: 6
-[DRM] beIN ENGLISH - AQ
-[DRM] SPORT 1 CZ - AQ
-[DRM] CBS SPORTS - AQ
-[HLS] PARAMOUNT+ HD
-[HLS] CRFY Stream
-[TOKEN_API] CRFY Stream (embed)
-
 [INFO] Event: T20 International
 [INFO] Date: 27/10/2026
 [INFO] Time: 14:00
@@ -216,234 +88,335 @@
 [HLS] SonyLiv (TEL)
 [HLS] SonyLiv (KAN)
 
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 25/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: MLB
-[INFO] Date: 25/10/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: NFL
 [INFO] Date: 25/10/2026
 [INFO] Time: 20:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: UFC
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 8
-[DRM] PARAMOUNT+ FHD
-[DRM] PARAMOUNT+ ES
-[HLS] PARAMOUNT+ HD
-[HLS] UFC
-[DRM] TNT SPORTS FHD
-[HLS] UFC LIVE FHD
-[HLS] CRFY Wwe
-[HLS] SD Stream
-
-[INFO] Event: NCAA Division FBS
+[INFO] Event: Serie A
 [INFO] Date: 25/10/2026
-[INFO] Time: 06:30
+[INFO] Time: 21:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Cricfy HD
 
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
-[INFO] Time: 04:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
-[INFO] Time: 06:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
+[INFO] Event: Serie A
+[INFO] Date: 26/10/2026
 [INFO] Time: 02:45
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Cricfy HD
 
-[INFO] Event: NCAA Division FBS
+[INFO] Event: 2. Bundesliga
 [INFO] Date: 25/10/2026
-[INFO] Time: 06:30
+[INFO] Time: 19:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NCAA Division FBS
+[INFO] Event: 2. Bundesliga
 [INFO] Date: 25/10/2026
-[INFO] Time: 03:00
+[INFO] Time: 19:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NCAA Division FBS
+[INFO] Event: LaLiga
 [INFO] Date: 25/10/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] NFL
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
+[INFO] Time: 20:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NCAA Division FBS
+[INFO] Event: Bundesliga
 [INFO] Date: 25/10/2026
-[INFO] Time: 06:00
+[INFO] Time: 23:30
 [INFO] Streams Found: 1
-[HLS] NFL
+[HLS] Cricfy HD
 
-[INFO] Event: NCAA Division FBS
+[INFO] Event: Bundesliga
 [INFO] Date: 25/10/2026
-[INFO] Time: 06:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
+[INFO] Time: 21:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NCAA Division FBS
+[INFO] Event: LaLiga 2
 [INFO] Date: 25/10/2026
-[INFO] Time: 02:00
+[INFO] Time: 22:15
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NCAA Division FBS
+[INFO] Event: Serie A
+[INFO] Date: 26/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: Serie A
 [INFO] Date: 25/10/2026
+[INFO] Time: 18:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 25/10/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: 2. Bundesliga
+[INFO] Date: 25/10/2026
+[INFO] Time: 19:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 25/10/2026
+[INFO] Time: 22:15
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: Serie A
+[INFO] Date: 25/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: Premier League
+[INFO] Date: 25/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: Premier League
+[INFO] Date: 25/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Premier League
+[INFO] Date: 25/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Premier League
+[INFO] Date: 25/10/2026
+[INFO] Time: 23:30
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: Premier League
+[INFO] Date: 25/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: Ligue 1
+[INFO] Date: 25/10/2026
+[INFO] Time: 23:15
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: Ligue 1
+[INFO] Date: 25/10/2026
+[INFO] Time: 23:15
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: Ligue 1
+[INFO] Date: 25/10/2026
+[INFO] Time: 23:15
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: Ligue 1
+[INFO] Date: 25/10/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: Ligue 1
+[INFO] Date: 25/10/2026
+[INFO] Time: 23:15
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: NFL
+[INFO] Date: 26/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 26/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 26/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 26/10/2026
+[INFO] Time: 07:20
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 26/10/2026
+[INFO] Time: 03:25
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 26/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 26/10/2026
+[INFO] Time: 03:25
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 26/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 26/10/2026
+[INFO] Time: 03:05
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 26/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 26/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 26/10/2026
 [INFO] Time: 05:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
+[INFO] Event: NHL
+[INFO] Date: 26/10/2026
+[INFO] Time: 02:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
+[INFO] Event: NHL
+[INFO] Date: 26/10/2026
+[INFO] Time: 07:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
-[INFO] Time: 05:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FCS
-[INFO] Date: 25/10/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
+[INFO] Event: NHL
+[INFO] Date: 26/10/2026
 [INFO] Time: 09:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 25/10/2026
+[INFO] Event: NHL
+[INFO] Date: 26/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: T20 International
+[INFO] Date: 27/10/2026
+[INFO] Time: 21:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: ICC World Test Championship
+[INFO] Date: 28/10/2026
+[INFO] Time: 11:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: ODI Tri-series in Pakistan
+[INFO] Date: 29/10/2026
+[INFO] Time: 15:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 26/10/2026
+[INFO] Time: 05:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 26/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 26/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 26/10/2026
+[INFO] Time: 04:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 26/10/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 26/10/2026
 [INFO] Time: 06:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NCAA Division FBS
+[INFO] Event: LaLiga
+[INFO] Date: 26/10/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: Ligue 1
 [INFO] Date: 25/10/2026
-[INFO] Time: 09:15
+[INFO] Time: 23:15
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: LaLiga
+[INFO] Date: 26/10/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: ICC Women's Championship
+[INFO] Date: 25/10/2026
+[INFO] Time: 15:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=61
-[SUMMARY] Streams=142
+[INFO] Event: ODI Tri-series in Pakistan
+[INFO] Date: 25/10/2026
+[INFO] Time: 15:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=62
+[SUMMARY] Streams=110
