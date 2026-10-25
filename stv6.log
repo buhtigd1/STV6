@@ -91,38 +91,22 @@
 [INFO] Event: NFL
 [INFO] Date: 25/10/2026
 [INFO] Time: 20:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] CRFY Stream
+[HLS] Cricfy SD
 
 [INFO] Event: Serie A
 [INFO] Date: 25/10/2026
 [INFO] Time: 21:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
 [HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Serie A
 [INFO] Date: 26/10/2026
 [INFO] Time: 02:45
 [INFO] Streams Found: 1
 [HLS] Cricfy HD
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 25/10/2026
-[INFO] Time: 19:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 25/10/2026
-[INFO] Time: 19:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: LaLiga
-[INFO] Date: 25/10/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
 
 [INFO] Event: Bundesliga
 [INFO] Date: 25/10/2026
@@ -134,13 +118,13 @@
 [INFO] Date: 25/10/2026
 [INFO] Time: 21:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] SporTV BR - AQ
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 25/10/2026
 [INFO] Time: 22:15
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: Serie A
 [INFO] Date: 26/10/2026
@@ -148,58 +132,54 @@
 [INFO] Streams Found: 1
 [HLS] Cricfy HD
 
-[INFO] Event: Serie A
-[INFO] Date: 25/10/2026
-[INFO] Time: 18:30
-[INFO] Streams Found: 6
-[DRM] PARAMOUNT+ - AQ
-[DRM] FUBO SPORTS - AQ
-[DRM] beIN ENGLISH - AQ
-[DRM] SPORT 1 CZ - AQ
-[HLS] PARAMOUNT+ HD
-[HLS] Low
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 25/10/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 25/10/2026
-[INFO] Time: 19:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: LaLiga
 [INFO] Date: 25/10/2026
 [INFO] Time: 22:15
-[INFO] Streams Found: 1
+[INFO] Streams Found: 6
+[DRM] PREMIER SPORTS - AQ
+[DRM] beIN ENGLISH - AQ
+[DRM] FANCODE - AQ
+[DRM] D SPORTS - AQ
 [HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Serie A
 [INFO] Date: 25/10/2026
 [INFO] Time: 21:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 8
+[DRM] PARAMOUNT+  - AQ
+[DRM] FUBO SPORTS - AQ
+[DRM] beIN ENGLISH - AQ
+[DRM] DAZN DE - AQ
 [HLS] Cricfy HD
+[HLS] CRFY Stream
+[HLS] Cricfy Live
+[HLS] Low
 
 [INFO] Event: Premier League
 [INFO] Date: 25/10/2026
 [INFO] Time: 21:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 3
+[DRM] PARAMOUNT+ - AQ
 [HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Premier League
 [INFO] Date: 25/10/2026
 [INFO] Time: 21:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Premier League
 [INFO] Date: 25/10/2026
 [INFO] Time: 21:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[DRM] FUBO SPORTS - AQ
+[DRM] FUBO SPORTS ALT- AQ
+[HLS] Cricfy HD
+[HLS] Low
+[HLS] PEACOCK TV HD
 
 [INFO] Event: Premier League
 [INFO] Date: 25/10/2026
@@ -210,14 +190,21 @@
 [INFO] Event: Premier League
 [INFO] Date: 25/10/2026
 [INFO] Time: 21:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 7
+[DRM] FUBO SPORTS FHD
+[DRM] CazéTV - AQ
 [HLS] Cricfy HD
+[HLS] PEACOCK TV HD
+[HLS] Low
+[HLS] beIN ARABIC FHD
+[HLS] Low
 
 [INFO] Event: Ligue 1
 [INFO] Date: 25/10/2026
 [INFO] Time: 23:15
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
 [HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Ligue 1
 [INFO] Date: 25/10/2026
@@ -234,8 +221,12 @@
 [INFO] Event: Ligue 1
 [INFO] Date: 25/10/2026
 [INFO] Time: 21:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 5
+[DRM] beIN SPORTS FHD
+[DRM] CazéTV FHD
 [HLS] Cricfy HD
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Ligue 1
 [INFO] Date: 25/10/2026
@@ -423,37 +414,15 @@
 [INFO] Event: ODI Tri-series in Pakistan
 [INFO] Date: 25/10/2026
 [INFO] Time: 15:00
-[INFO] Streams Found: 3
+[INFO] Streams Found: 8
+[DRM] WILLOW - FHD
+[DRM] WILLOW - ALT
 [HLS] SK CRICKET FHD
 [HLS] TAPMAD FHD
 [HLS] PTV SPORTS HD
+[HLS] WILLOW HD
+[HLS] CRICBUZZ HD
+[HLS] T SPORTS HD
 
-[INFO] Event: VriendenLoterij Eredivisie
-[INFO] Date: 25/10/2026
-[INFO] Time: 18:15
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: Indian Super League
-[INFO] Date: 25/10/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Indian Super League
-[INFO] Date: 25/10/2026
-[INFO] Time: 18:30
-[INFO] Streams Found: 3
-[DRM] PRIME VIDEO - AQ
-[HLS] SonyLiv (ENG)
-[HLS] SonyLiv (HIN)
-
-[INFO] Event: Scottish Premiership
-[INFO] Date: 25/10/2026
-[INFO] Time: 19:00
-[INFO] Streams Found: 2
-[DRM] PARAMOUNT+ - AQ
-[HLS] Low
-
-[SUMMARY] Events=66
-[SUMMARY] Streams=127
+[SUMMARY] Events=56
+[SUMMARY] Streams=146
