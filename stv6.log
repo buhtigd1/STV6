@@ -151,8 +151,13 @@
 [INFO] Event: Serie A
 [INFO] Date: 25/10/2026
 [INFO] Time: 18:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 6
+[DRM] PARAMOUNT+ - AQ
+[DRM] FUBO SPORTS - AQ
+[DRM] beIN ENGLISH - AQ
+[DRM] SPORT 1 CZ - AQ
+[HLS] PARAMOUNT+ HD
+[HLS] Low
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 25/10/2026
@@ -409,14 +414,46 @@
 [INFO] Event: ICC Women's Championship
 [INFO] Date: 25/10/2026
 [INFO] Time: 15:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] WILLOW FHD
+[DRM] TNT SPORTS FHD
+[DRM] WILLOW ALT
+[DRM] WILLOW HD
 
 [INFO] Event: ODI Tri-series in Pakistan
 [INFO] Date: 25/10/2026
 [INFO] Time: 15:00
+[INFO] Streams Found: 3
+[HLS] SK CRICKET FHD
+[HLS] TAPMAD FHD
+[HLS] PTV SPORTS HD
+
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 25/10/2026
+[INFO] Time: 18:15
+[INFO] Streams Found: 1
+[HLS] Low
+
+[INFO] Event: Indian Super League
+[INFO] Date: 25/10/2026
+[INFO] Time: 21:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=62
-[SUMMARY] Streams=110
+[INFO] Event: Indian Super League
+[INFO] Date: 25/10/2026
+[INFO] Time: 18:30
+[INFO] Streams Found: 3
+[DRM] PRIME VIDEO - AQ
+[HLS] SonyLiv (ENG)
+[HLS] SonyLiv (HIN)
+
+[INFO] Event: Scottish Premiership
+[INFO] Date: 25/10/2026
+[INFO] Time: 19:00
+[INFO] Streams Found: 2
+[DRM] PARAMOUNT+ - AQ
+[HLS] Low
+
+[SUMMARY] Events=66
+[SUMMARY] Streams=127
