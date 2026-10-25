@@ -70,27 +70,6 @@
 [HLS] CricFy (MAL)
 [HLS] Low
 
-[INFO] Event: Trendyol Süper Lig
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[TOKEN_API] Dazn 1 (embed)
-
-[INFO] Event: Serie A
-[INFO] Date: 24/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 10
-[DRM] TNT SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] SPORT 1 CZ FHD
-[DRM] CBS SPORTS FHD
-[DRM] CazéTV FHD
-[HLS] CRFY Stream
-[HLS] Cricfy Live
-[TOKEN_API] Cricfy HD (embed)
-[HLS] PARAMOUNT+ HD
-[HLS] Live Persian
-
 [INFO] Event: LaLiga 2
 [INFO] Date: 25/10/2026
 [INFO] Time: 20:00
@@ -100,12 +79,13 @@
 [INFO] Event: LaLiga
 [INFO] Date: 25/10/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 7
+[INFO] Streams Found: 8
 [DRM] beIN ENGLISH - AQ
 [DRM] FANCODE - AQ
 [DRM] D SPORTS  - AQ
 [DRM] CazéTV - AQ
 [HLS] CRFY Stream
+[HLS] CRFY Stream+
 [TOKEN_API] Cricfy HD (embed)
 [HLS] Low
 
@@ -131,8 +111,11 @@
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 25/10/2026
 [INFO] Time: 04:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] PREMIER SPORTS - AQ
+[DRM] PREMIERE BR - AQ
+[DRM] SportDigital Fussball - AQ
+[TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: Ligue 1
 [INFO] Date: 25/10/2026
@@ -149,7 +132,7 @@
 [INFO] Date: 25/10/2026
 [INFO] Time: 04:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] PREMIERE BR - AQ
 
 [INFO] Event: LaLiga
 [INFO] Date: 25/10/2026
@@ -177,7 +160,7 @@
 [INFO] Date: 25/10/2026
 [INFO] Time: 02:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] PREMIERE BR - AQ
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 25/10/2026
@@ -203,7 +186,7 @@
 [INFO] Date: 25/10/2026
 [INFO] Time: 02:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: Serie A
 [INFO] Date: 25/10/2026
@@ -382,7 +365,7 @@
 [INFO] Date: 25/10/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NFL
 
 [INFO] Event: NCAA Division FBS
 [INFO] Date: 25/10/2026
@@ -462,5 +445,5 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=63
-[SUMMARY] Streams=149
+[SUMMARY] Events=61
+[SUMMARY] Streams=142
