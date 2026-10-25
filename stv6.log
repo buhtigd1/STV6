@@ -1,6 +1,6 @@
 [INFO] Event: MotoGP
-[INFO] Date: 25/10/2026
-[INFO] Time: 12:00
+[INFO] Date: 30/10/2026
+[INFO] Time: 09:45
 [INFO] Streams Found: 10
 [DRM] TNT SPORTS - AQ
 [DRM] FANCODE - AQ
@@ -88,20 +88,6 @@
 [HLS] SonyLiv (TEL)
 [HLS] SonyLiv (KAN)
 
-[INFO] Event: NFL
-[INFO] Date: 25/10/2026
-[INFO] Time: 20:30
-[INFO] Streams Found: 2
-[HLS] CRFY Stream
-[HLS] Cricfy SD
-
-[INFO] Event: Serie A
-[INFO] Date: 25/10/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
 [INFO] Event: Serie A
 [INFO] Date: 26/10/2026
 [INFO] Time: 02:45
@@ -114,12 +100,6 @@
 [INFO] Streams Found: 1
 [HLS] Cricfy HD
 
-[INFO] Event: Bundesliga
-[INFO] Date: 25/10/2026
-[INFO] Time: 21:30
-[INFO] Streams Found: 1
-[DRM] SporTV BR - AQ
-
 [INFO] Event: LaLiga 2
 [INFO] Date: 25/10/2026
 [INFO] Time: 22:15
@@ -129,7 +109,11 @@
 [INFO] Event: Serie A
 [INFO] Date: 26/10/2026
 [INFO] Time: 00:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 5
+[DRM] PARAMOUNT+ FHD
+[DRM] beIN ENGLISH - AQ
+[DRM] CBS SPORTS - AQ
+[DRM] SPORT 1 CZ - AQ
 [HLS] Cricfy HD
 
 [INFO] Event: LaLiga
@@ -143,60 +127,19 @@
 [HLS] Cricfy HD
 [HLS] Low
 
-[INFO] Event: Serie A
-[INFO] Date: 25/10/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 8
-[DRM] PARAMOUNT+  - AQ
-[DRM] FUBO SPORTS - AQ
-[DRM] beIN ENGLISH - AQ
-[DRM] DAZN DE - AQ
-[HLS] Cricfy HD
-[HLS] CRFY Stream
-[HLS] Cricfy Live
-[HLS] Low
-
-[INFO] Event: Premier League
-[INFO] Date: 25/10/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 3
-[DRM] PARAMOUNT+ - AQ
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: Premier League
-[INFO] Date: 25/10/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: Premier League
-[INFO] Date: 25/10/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 5
-[DRM] FUBO SPORTS - AQ
-[DRM] FUBO SPORTS ALT- AQ
-[HLS] Cricfy HD
-[HLS] Low
-[HLS] PEACOCK TV HD
-
 [INFO] Event: Premier League
 [INFO] Date: 25/10/2026
 [INFO] Time: 23:30
-[INFO] Streams Found: 1
-[HLS] Cricfy HD
-
-[INFO] Event: Premier League
-[INFO] Date: 25/10/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 7
-[DRM] FUBO SPORTS FHD
-[DRM] CazéTV - AQ
-[HLS] Cricfy HD
+[INFO] Streams Found: 3
 [HLS] PEACOCK TV HD
+[HLS] Cricfy HD
 [HLS] Low
-[HLS] beIN ARABIC FHD
+
+[INFO] Event: Ligue 1
+[INFO] Date: 25/10/2026
+[INFO] Time: 23:15
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
 [HLS] Low
 
 [INFO] Event: Ligue 1
@@ -211,22 +154,6 @@
 [INFO] Time: 23:15
 [INFO] Streams Found: 1
 [HLS] Cricfy HD
-
-[INFO] Event: Ligue 1
-[INFO] Date: 25/10/2026
-[INFO] Time: 23:15
-[INFO] Streams Found: 1
-[HLS] Cricfy HD
-
-[INFO] Event: Ligue 1
-[INFO] Date: 25/10/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 5
-[DRM] beIN SPORTS FHD
-[DRM] CazéTV FHD
-[HLS] Cricfy HD
-[HLS] Cricfy HD
-[HLS] Low
 
 [INFO] Event: Ligue 1
 [INFO] Date: 25/10/2026
@@ -387,14 +314,19 @@
 [INFO] Event: LaLiga
 [INFO] Date: 26/10/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 5
+[DRM] PREMIER SPORTS - AQ
+[DRM] beIN ENGLISH - AQ
+[DRM] D SPORTS - AQ
+[DRM] CazéTV - AQ
 [HLS] Cricfy HD
 
 [INFO] Event: Ligue 1
 [INFO] Date: 25/10/2026
 [INFO] Time: 23:15
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
 [HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: LaLiga
 [INFO] Date: 26/10/2026
@@ -411,18 +343,11 @@
 [DRM] WILLOW ALT
 [DRM] WILLOW HD
 
-[INFO] Event: ODI Tri-series in Pakistan
-[INFO] Date: 25/10/2026
-[INFO] Time: 15:00
-[INFO] Streams Found: 8
-[DRM] WILLOW - FHD
-[DRM] WILLOW - ALT
-[HLS] SK CRICKET FHD
-[HLS] TAPMAD FHD
-[HLS] PTV SPORTS HD
-[HLS] WILLOW HD
-[HLS] CRICBUZZ HD
-[HLS] T SPORTS HD
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 26/10/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
 
-[SUMMARY] Events=56
-[SUMMARY] Streams=146
+[SUMMARY] Events=47
+[SUMMARY] Streams=116
