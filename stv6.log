@@ -1,3 +1,10 @@
+[INFO] Event: Ballon d'Or Ceremony 2026
+[INFO] Date: 27/10/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 2
+[DRM] CBS SPORTS - AQ
+[HLS] Low
+
 [INFO] Event: MotoGP
 [INFO] Date: 30/10/2026
 [INFO] Time: 09:45
@@ -63,13 +70,13 @@
 [TOKEN_API] Cricfy WWE (embed)
 
 [INFO] Event: ISL
-[INFO] Date: 26/10/2026
+[INFO] Date: 28/10/2026
 [INFO] Time: 21:00
 [INFO] Streams Found: 5
 [DRM] PRIME VIDEO - AQ
 [HLS] CricFy (ENG)
 [HLS] CricFy (HIN)
-[HLS] CricFy (MAL)
+[HLS] CricFy (ben)
 [HLS] Low
 
 [INFO] Event: T20 International
@@ -110,8 +117,9 @@
 [INFO] Event: AFC Champions League Elite
 [INFO] Date: 27/10/2026
 [INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Low
+[HLS] Cricfy HD
 
 [INFO] Event: Serie A
 [INFO] Date: 28/10/2026
@@ -119,23 +127,11 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 27/10/2026
-[INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: LaLiga 2
 [INFO] Date: 27/10/2026
 [INFO] Time: 02:30
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 26/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 27/10/2026
@@ -146,32 +142,42 @@
 [INFO] Event: LaLiga
 [INFO] Date: 27/10/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD +
 [HLS] Cricfy HD
 
 [INFO] Event: Trendyol Süper Lig
 [INFO] Date: 27/10/2026
 [INFO] Time: 01:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] beIN ENGLISH - AQ
+[HLS] Low
 
 [INFO] Event: Ligue 1
 [INFO] Date: 27/10/2026
 [INFO] Time: 02:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 7
+[DRM] CazéTV - AQ
+[HLS] Cricfy HD +
 [HLS] Cricfy HD
+[HLS] Cricfy HD +
+[HLS] bein 3
+[HLS] ligue 1 Live
+[HLS] Low
 
 [INFO] Event: Liga Portugal Betclic
 [INFO] Date: 27/10/2026
 [INFO] Time: 01:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] D Sports FHD
+[DRM] SportDigital Fussball
 
 [INFO] Event: AFC Champions League Elite
 [INFO] Date: 27/10/2026
 [INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy SD
+[HLS] Low
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 27/10/2026
@@ -184,18 +190,6 @@
 [INFO] Time: 23:00
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 26/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 26/10/2026
-[INFO] Time: 20:45
-[INFO] Streams Found: 1
-[TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: ODI Tri-series in Pakistan
 [INFO] Date: 27/10/2026
@@ -293,18 +287,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Ballon d'Or Ceremony 2026
-[INFO] Date: 27/10/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Trendyol Süper Lig
-[INFO] Date: 26/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: MLB
 [INFO] Date: 27/10/2026
 [INFO] Time: 07:00
@@ -312,8 +294,8 @@
 [HLS] Link 1
 
 [INFO] Event: Nepal Premier League, 2026
-[INFO] Date: 26/10/2026
-[INFO] Time: 18:15
+[INFO] Date: 27/10/2026
+[INFO] Time: 13:45
 [INFO] Streams Found: 5
 [DRM] FC HD - AQ
 [DRM] FANCODE SD - AQ
@@ -321,5 +303,5 @@
 [HLS] SS HD
 [HLS] FANCODE (IND)
 
-[SUMMARY] Events=45
-[SUMMARY] Streams=98
+[SUMMARY] Events=40
+[SUMMARY] Streams=105

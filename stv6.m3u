@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/Ballon.webp",01:00 - Ballon d'Or Ceremony 2026 | CBS SPORTS - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/Ballon.webp",01:00 - Ballon d'Or Ceremony 2026 | Low
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc
+http://193.47.62.50/hls/AFFF.m3u8
+
 #EXTINF:-1 group-title="30/10/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",09:45 - MotoGP | TNT SPORTS - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -168,37 +182,37 @@ https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Liv
 #KODIPROP:http-referrer=https://android-database1.firebase-api.com
 https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",21:00 - ISL | PRIME VIDEO - AQ
+#EXTINF:-1 group-title="28/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",21:00 - ISL | PRIME VIDEO - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b54aa1aba6165c7a71ddd65e76a129eb:1507d65af2642da9dd3e1928556f8257
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sswxx6matd/out/v1/a611dc3e04b34f26bf084d773e99835c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=08027012b8503449b674c090b486a313:e6109941ae6fcc32db5611870764fc59
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjl5sfdstk/out/v1/02ec949abe974874818496a14f5a0c2d/cenc.mpd
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",21:00 - ISL | CricFy (ENG)
+#EXTINF:-1 group-title="28/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",21:00 - ISL | CricFy (ENG)
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 #KODIPROP:http-referrer=https://www.sonyliv.com/
 #KODIPROP:http-origin=https://www.sonyliv.com
-#KODIPROP:http-x-playback-session-id=05b2695026040038c007f49d079213a0-1792752605073
-https://sonymtmnew.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792768221~acl=/*~id=5d79e7200a7fbda9d6f50dd33c3a77e0-1792725001088~hmac=65a65d76342c29377b3d084f8392744a72d07745f02c3e36d050b0da432deeab
+#KODIPROP:http-x-playback-session-id=ae16c639b8edcf138f4e5cc6a5d481b4-1793020202657
+https://sonymtmnew.akamaized.net/hls/live/2120303/Footlive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793045422~acl=/*~id=988e34563f961df0e625c95f16372115-1793002204638~hmac=3ceab43941236fcc2b9c29e572dd375007bb46449f1d20bf84bd26009f7fc9cb
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",21:00 - ISL | CricFy (HIN)
+#EXTINF:-1 group-title="28/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",21:00 - ISL | CricFy (HIN)
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 #KODIPROP:http-referrer=https://www.sonyliv.com/
 #KODIPROP:http-origin=https://www.sonyliv.com
-#KODIPROP:http-x-playback-session-id=05b2695026040038c007f49d079213a0-1792752605073
-https://sonymtmnew.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792768221~acl=/*~id=5d79e7200a7fbda9d6f50dd33c3a77e0-1792725001088~hmac=65a65d76342c29377b3d084f8392744a72d07745f02c3e36d050b0da432deeab
+#KODIPROP:http-x-playback-session-id=ae16c639b8edcf138f4e5cc6a5d481b4-1793020202657
+https://sonymtmnew.akamaized.net/hls/live/2120304/Footlive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793045422~acl=/*~id=988e34563f961df0e625c95f16372115-1793002204638~hmac=3ceab43941236fcc2b9c29e572dd375007bb46449f1d20bf84bd26009f7fc9cb
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",21:00 - ISL | CricFy (MAL)
+#EXTINF:-1 group-title="28/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",21:00 - ISL | CricFy (ben)
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
 #KODIPROP:http-referrer=https://www.sonyliv.com/
 #KODIPROP:http-origin=https://www.sonyliv.com
-#KODIPROP:http-x-playback-session-id=05b2695026040038c007f49d079213a0-1792752605073
-https://sonymtmnew.akamaized.net/hls/live/2094588/footlive2310/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792768221~acl=/*~id=5d79e7200a7fbda9d6f50dd33c3a77e0-1792725001088~hmac=65a65d76342c29377b3d084f8392744a72d07745f02c3e36d050b0da432deeab
+#KODIPROP:http-x-playback-session-id=ae16c639b8edcf138f4e5cc6a5d481b4-1793020202657
+https://sonymtmnew.akamaized.net/hls/live/2120302/Footlive2610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793045422~acl=/*~id=988e34563f961df0e625c95f16372115-1793002204638~hmac=3ceab43941236fcc2b9c29e572dd375007bb46449f1d20bf84bd26009f7fc9cb
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",21:00 - ISL | Low
+#EXTINF:-1 group-title="28/10/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/1900/image",21:00 - ISL | Low
 #KODIPROP:http-referrer=http://fawanews.sc/
-http://193.47.62.59/hls/f666.m3u8
+http://193.47.62.44/hls/EJJJAAAAA.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",14:00 - T20 International | WILLOW - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -265,48 +279,112 @@ http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 group-title="29/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark",15:00 - ODI Tri-series in Pakistan | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",01:15 - AFC Champions League Elite | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",01:15 - AFC Champions League Elite | Low
+#KODIPROP:http-referrer=http://fawanews.sc/
+http://193.47.62.44/hls/GGGG.m3u8
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",01:15 - AFC Champions League Elite | Cricfy HD
+#KODIPROP:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621449.m3u8?txSecret=921dc1b3873d4ff8b7475760983f660b&txTime=6ADFAC6E
 
 #EXTINF:-1 group-title="28/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",00:30 - Serie A | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",01:15 - AFC Champions League Elite | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
-
-#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",02:30 - LaLiga 2 | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
-
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",23:00 - AFC Champions League Elite | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",02:30 - LaLiga 2 | Low
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/GGGGAAA.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",06:00 - Campeonato Brasileiro Série A | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",03:00 - LaLiga | Cricfy HD +
+#KODIPROP:http-referrer=https://gooz.aapmains.net/
+https://chatgpt.hereisman.net/playlist/58698/load-playlist.m3u8?
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",03:00 - LaLiga | Cricfy HD
 #KODIPROP:http-referrer=https://embedcenter.st/
 https://edgestream4.pro/hls/377qj1h2727.m3u8
 
-#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",01:30 - Trendyol Süper Lig | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",01:30 - Trendyol Süper Lig | beIN ENGLISH - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",01:30 - Trendyol Süper Lig | Low
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc
+http://193.47.62.59/hls/FNNN.m3u8
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",02:30 - Ligue 1 | CazéTV - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",02:30 - Ligue 1 | Cricfy HD +
+#KODIPROP:http-referrer=https://gooz.aapmains.net/
+https://chatgpt.hereisman.net/playlist/58696/load-playlist.m3u8?
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",02:30 - Ligue 1 | Cricfy HD
 #KODIPROP:http-referrer=https://embedcenter.st/
 https://edgestream4.pro/hls/dza5z8f69.m3u8
 
-#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",01:45 - Liga Portugal Betclic | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",02:30 - Ligue 1 | Cricfy HD +
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=https://embedcenter.st
+#KODIPROP:http-origin=https://embedcenter.st
+https://edgestream1.pro/hls/griogoehvn2.m3u8
 
-#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",01:15 - AFC Champions League Elite | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",02:30 - Ligue 1 | bein 3
+https://sportsbite.org/tlive/lyon-v-paris-saint-germain-401876422-2e3uhhu1-3156?v=high&.m3u8
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",02:30 - Ligue 1 | ligue 1 Live
+https://sportsbite.org/st/admin-paris-saint-germain-vs-lyon-1?v=high&.m3u8
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",02:30 - Ligue 1 | Low
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc
+http://193.47.62.41/hls/D444FQQQQQA.m3u8
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",01:45 - Liga Portugal Betclic | D Sports FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",01:45 - Liga Portugal Betclic | SportDigital Fussball
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",01:15 - AFC Champions League Elite | Cricfy SD
+#KODIPROP:http-referrer=https://player.on8on8.com/
+https://live.vivo155.com/live/hd-en-1-4621476.m3u8?txSecret=0fff4ce619c428d33c8980a6d3ddcc2e&txTime=6ADFAC8B
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",01:15 - AFC Champions League Elite | Low
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#KODIPROP:http-referrer=http://www.fawanews.sc/
+#KODIPROP:http-origin=http://www.fawanews.sc
+http://193.47.62.44/hls/GGGGA.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",05:30 - Campeonato Brasileiro Série A | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/668/image/dark",23:00 - AFC Champions League Two | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
-
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",23:00 - AFC Champions League Elite | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark",15:00 - ODI Tri-series in Pakistan | Link 1
@@ -366,13 +444,10 @@ http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",07:15 - NFL | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",23:00 - Trendyol Süper Lig | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
-
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",07:00 - MLB | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",18:15 - Nepal Premier League, 2026 | FC HD - AQ
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",13:45 - Nepal Premier League, 2026 | FC HD - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -380,20 +455,20 @@ http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",18:15 - Nepal Premier League, 2026 | FANCODE SD - AQ
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",13:45 - Nepal Premier League, 2026 | FANCODE SD - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",18:15 - Nepal Premier League, 2026 | SS 2 - IN
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",13:45 - Nepal Premier League, 2026 | SS 2 - IN
 https://baila-lentoo.pages.dev/all-sp/373201.m3u8
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",18:15 - Nepal Premier League, 2026 | SS HD
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",13:45 - Nepal Premier League, 2026 | SS HD
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",18:15 - Nepal Premier League, 2026 | FANCODE (IND)
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",13:45 - Nepal Premier League, 2026 | FANCODE (IND)
 #KODIPROP:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #KODIPROP:http-referrer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8
