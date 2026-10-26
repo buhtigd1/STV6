@@ -147,7 +147,7 @@
 [INFO] Date: 27/10/2026
 [INFO] Time: 03:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Cricfy HD
 
 [INFO] Event: Trendyol Süper Lig
 [INFO] Date: 27/10/2026
@@ -159,7 +159,7 @@
 [INFO] Date: 27/10/2026
 [INFO] Time: 02:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Cricfy HD
 
 [INFO] Event: Liga Portugal Betclic
 [INFO] Date: 27/10/2026
@@ -195,7 +195,7 @@
 [INFO] Date: 26/10/2026
 [INFO] Time: 20:45
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] Cricfy HD (embed)
 
 [INFO] Event: ODI Tri-series in Pakistan
 [INFO] Date: 27/10/2026
@@ -213,19 +213,19 @@
 [INFO] Date: 27/10/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 27/10/2026
 [INFO] Time: 07:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NHL
 [INFO] Date: 27/10/2026
 [INFO] Time: 08:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] NHL
 
 [INFO] Event: NBA
 [INFO] Date: 27/10/2026
@@ -293,5 +293,33 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=41
-[SUMMARY] Streams=90
+[INFO] Event: Ballon d'Or Ceremony 2026
+[INFO] Date: 27/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 26/10/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: MLB
+[INFO] Date: 27/10/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Nepal Premier League, 2026
+[INFO] Date: 26/10/2026
+[INFO] Time: 18:15
+[INFO] Streams Found: 5
+[DRM] FC HD - AQ
+[DRM] FANCODE SD - AQ
+[HLS] SS 2 - IN
+[HLS] SS HD
+[HLS] FANCODE (IND)
+
+[SUMMARY] Events=45
+[SUMMARY] Streams=98

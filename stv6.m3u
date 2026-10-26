@@ -283,14 +283,16 @@ http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",06:00 - Campeonato Brasileiro Série A | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",03:00 - LaLiga | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",03:00 - LaLiga | Cricfy HD
+#KODIPROP:http-referrer=https://embedcenter.st/
+https://edgestream4.pro/hls/377qj1h2727.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",01:30 - Trendyol Süper Lig | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",02:30 - Ligue 1 | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",02:30 - Ligue 1 | Cricfy HD
+#KODIPROP:http-referrer=https://embedcenter.st/
+https://edgestream4.pro/hls/dza5z8f69.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",01:45 - Liga Portugal Betclic | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
@@ -307,53 +309,91 @@ http://cricfy-tv.net/promo/cricfy-promo.m3u8
 #EXTINF:-1 group-title="26/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",23:00 - AFC Champions League Elite | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="26/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark",20:45 - AFC Champions League Elite | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
-
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark",15:00 - ODI Tri-series in Pakistan | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",15:30 - ICC World Test Championship | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:00 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",06:00 - NHL | NHL
+#KODIPROP:http-referrer=https://embedcenter.st/
+https://edgestream4.pro/hls/uyopzarf50.m3u8
 
-#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",07:30 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",07:30 - NHL | NHL
+#KODIPROP:http-referrer=https://embedcenter.st/
+https://edgestream6.pro/hls/hjksgdfauzy51.m3u8
 
-#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",08:30 - NHL | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",08:30 - NHL | NHL
+#KODIPROP:http-referrer=https://embedcenter.st/
+https://edgestream3.pro/hls/lmdsjkfgv52.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",07:30 - NBA | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#KODIPROP:http-referrer=https://embedcenter.st/
+https://edgestream1.pro/hls/ztyarueaghj71.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",07:00 - NBA | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#KODIPROP:http-referrer=https://embedcenter.st/
+https://edgestream5.pro/hls/zeafwqvhfe69.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",09:00 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:00 - NBA | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#KODIPROP:http-referrer=https://embedcenter.st/
+https://edgestream4.pro/hls/377qj1h2727.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:30 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",07:00 - NBA | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#KODIPROP:http-referrer=https://embedcenter.st/
+https://edgestream4.pro/hls/bvnsqdfvgha70.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:30 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",07:00 - WNBA | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#KODIPROP:http-referrer=https://embedcenter.st/
+https://edgestream4.pro/hls/sdghjvqazhvg80.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",08:00 - NBA | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#KODIPROP:http-referrer=https://embedcenter.st/
+https://edgestream5.pro/hls/pllmazjkdzajh72.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark",06:00 - NBA | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
 #EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",07:15 - NFL | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
+
+#EXTINF:-1 group-title="26/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",23:00 - Trendyol Süper Lig | Link 1
+http://cricfy-tv.net/promo/cricfy-promo.m3u8
+
+#EXTINF:-1 group-title="27/10/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",07:00 - MLB | Link 1
+http://cricfy-tv.net/promo/cricfy-promo.m3u8
+
+#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",18:15 - Nepal Premier League, 2026 | FC HD - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",18:15 - Nepal Premier League, 2026 | FANCODE SD - AQ
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+
+#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",18:15 - Nepal Premier League, 2026 | SS 2 - IN
+https://baila-lentoo.pages.dev/all-sp/373201.m3u8
+
+#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",18:15 - Nepal Premier League, 2026 | SS HD
+https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="26/10/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",18:15 - Nepal Premier League, 2026 | FANCODE (IND)
+#KODIPROP:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#KODIPROP:http-referrer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4250355_english_hls_7b5a55758122143_1ta-di_h264/index.m3u8
