@@ -136,15 +136,21 @@
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 27/10/2026
 [INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] PREMIERE BR FHD
+[DRM] SporTV BR FHD
 
 [INFO] Event: LaLiga
 [INFO] Date: 27/10/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 2
+[INFO] Streams Found: 7
+[DRM] PREMIER SPORTS FHD
+[DRM] beIN ENGLISH FHD
+[DRM] CazéTV FHD
+[DRM] FANCODE FHD
 [HLS] Cricfy HD +
 [HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Trendyol Süper Lig
 [INFO] Date: 27/10/2026
@@ -183,7 +189,7 @@
 [INFO] Date: 27/10/2026
 [INFO] Time: 05:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] PREMIERE BR FHD
 
 [INFO] Event: AFC Champions League Two
 [INFO] Date: 27/10/2026
@@ -304,4 +310,4 @@
 [HLS] FANCODE (IND)
 
 [SUMMARY] Events=40
-[SUMMARY] Streams=105
+[SUMMARY] Streams=111
