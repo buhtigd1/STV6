@@ -52,7 +52,7 @@
 [TOKEN_API] Cricfy WWE (embed)
 
 [INFO] Event: ISL
-[INFO] Date: 28/10/2026
+[INFO] Date: 30/10/2026
 [INFO] Time: 21:00
 [INFO] Streams Found: 3
 [HLS] CricFy (ENG)
@@ -78,8 +78,8 @@
 [HLS] Link 1
 
 [INFO] Event: Nepal Premier League, 2026
-[INFO] Date: 28/10/2026
-[INFO] Time: 18:15
+[INFO] Date: 29/10/2026
+[INFO] Time: 13:45
 [INFO] Streams Found: 4
 [HLS] SS 2 - HD
 [HLS] CricFy Fast
@@ -98,8 +98,11 @@
 [INFO] Event: Serie A
 [INFO] Date: 29/10/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 4
+[DRM] PARAMOUNT+ - AQ
 [HLS] Cricfy HD
+[HLS] PARAMOUNT+ HD
+[HLS] Low
 
 [INFO] Event: Serie A
 [INFO] Date: 29/10/2026
@@ -110,20 +113,33 @@
 [INFO] Event: Serie A
 [INFO] Date: 29/10/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[DRM] TNT SPORTS - AQ
 [HLS] Cricfy HD
 
 [INFO] Event: Serie A
 [INFO] Date: 29/10/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 7
+[DRM] PARAMOUNT+ FHD
+[DRM] FUBO SPORTS - AQ
+[DRM] TNT SPORTS - AQ
+[HLS] PARAMOUNT+
 [HLS] Cricfy HD
+[HLS] Cricfy HD +
+[HLS] Low
 
 [INFO] Event: Serie A
 [INFO] Date: 29/10/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 7
+[DRM] PARAMOUNT+ - AQ
+[DRM] FUBO SPORTS - AQ
+[DRM] SPORT 1 CZ - AQ
 [HLS] Cricfy HD
+[HLS] PARAMOUNT+ HD
+[HLS] CRFY Stream
+[HLS] Low
 
 [INFO] Event: EFL Cup
 [INFO] Date: 29/10/2026
@@ -152,44 +168,14 @@
 [INFO] Event: EFL Cup
 [INFO] Date: 29/10/2026
 [INFO] Time: 02:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 7
+[DRM] PARAMOUNT+  - AQ
+[DRM] MANUNITED - AQ
+[DRM] beIN ENGLISH - AQ
 [HLS] Cricfy HD
-
-[INFO] Event: Copa del Rey
-[INFO] Date: 29/10/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Copa del Rey
-[INFO] Date: 29/10/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Copa del Rey
-[INFO] Date: 29/10/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Copa del Rey
-[INFO] Date: 29/10/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Copa del Rey
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Copa del Rey
-[INFO] Date: 29/10/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] MONO MAX HD
+[HLS] CRFY hD
+[HLS] Low
 
 [INFO] Event: UEFA Women's Champions League
 [INFO] Date: 29/10/2026
@@ -198,7 +184,7 @@
 [HLS] Link 1
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 28/10/2026
+[INFO] Date: 29/10/2026
 [INFO] Time: 15:30
 [INFO] Streams Found: 7
 [DRM] WILLOW HD - AQ
@@ -208,21 +194,6 @@
 [HLS] FOX CRICKET HD
 [HLS] A SPORTS HD
 [HLS] FANCODE (IND)
-
-[INFO] Event: ICC Women's Championship
-[INFO] Date: 28/10/2026
-[INFO] Time: 15:30
-[INFO] Streams Found: 4
-[DRM] WILLOW - AQ
-[DRM] TNT SPORTS - AQ
-[DRM] WILLOW ALT - AQ
-[DRM] WILLOW HD - AQ
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 28/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
 
 [INFO] Event: T20 International
 [INFO] Date: 29/10/2026
@@ -270,60 +241,17 @@
 [HLS] Low
 
 [INFO] Event: AFC Champions League Two
-[INFO] Date: 28/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 28/10/2026
-[INFO] Time: 19:15
-[INFO] Streams Found: 3
+[INFO] Date: 29/10/2026
+[INFO] Time: 01:15
+[INFO] Streams Found: 2
 [HLS] Cricfy HD
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 28/10/2026
-[INFO] Time: 19:15
-[INFO] Streams Found: 3
-[HLS] Cricfy HD
-[HLS] Cricfy Live
 [HLS] Low
 
 [INFO] Event: AFC Champions League Two
 [INFO] Date: 29/10/2026
 [INFO] Time: 01:15
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 28/10/2026
-[INFO] Time: 20:45
-[INFO] Streams Found: 3
-[HLS] Cricfy HD
-[HLS] CRFY Stream
 [HLS] Low
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 28/10/2026
-[INFO] Time: 20:45
-[INFO] Streams Found: 3
-[HLS] Cricfy HD
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 29/10/2026
-[INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 28/10/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
 
 [INFO] Event: AFC Champions League Two
 [INFO] Date: 29/10/2026
@@ -422,8 +350,8 @@
 [HLS] Link 1
 
 [INFO] Event: Tennis Evento
-[INFO] Date: 28/10/2026
-[INFO] Time: 18:30
+[INFO] Date: 29/10/2026
+[INFO] Time: 08:30
 [INFO] Streams Found: 5
 [DRM] DAZN SPORTS FHD
 [DRM] beIN ENGLISH FHD
@@ -431,5 +359,54 @@
 [DRM] TENNIS 2 FHD
 [HLS] Low
 
-[SUMMARY] Events=61
-[SUMMARY] Streams=128
+[INFO] Event: AEW Dynamite
+[INFO] Date: 29/10/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 5
+[DRM] TSN SPORTS - AQ
+[HLS] TBD SPORTS HD
+[DRM] Fox Sports - AQ
+[TOKEN_API] AEW FHD (embed)
+[HLS] Backup
+
+[INFO] Event: DFB Pokal
+[INFO] Date: 29/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 3
+[DRM] DAZN SPORTS - AQ
+[HLS] CRFY Stream
+[HLS] Low
+
+[INFO] Event: DFB Pokal
+[INFO] Date: 29/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 3
+[DRM] DAZN SPORTS - AQ
+[HLS] CRFY Stream
+[HLS] Low
+
+[INFO] Event: DFB Pokal
+[INFO] Date: 29/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 2
+[DRM] DAZN SPORTS - AQ
+[HLS] Cricfy SD
+
+[INFO] Event: DFB Pokal
+[INFO] Date: 29/10/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 3
+[DRM] DAZN SPORTS - AQ
+[HLS] Cricfy HD
+[HLS] Low
+
+[INFO] Event: UEFA Women's Champions League
+[INFO] Date: 29/10/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 3
+[DRM] PARAMOUNT+  - AQ
+[HLS] Cricfy HD
+[HLS] Low
+
+[SUMMARY] Events=53
+[SUMMARY] Streams=145
