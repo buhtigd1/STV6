@@ -97,91 +97,21 @@
 
 [INFO] Event: Serie A
 [INFO] Date: 29/10/2026
-[INFO] Time: 00:30
+[INFO] Time: 02:45
 [INFO] Streams Found: 4
-[DRM] PARAMOUNT+ - AQ
-[HLS] Cricfy HD
-[HLS] PARAMOUNT+ HD
-[HLS] Low
-
-[INFO] Event: Serie A
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Cricfy HD
-
-[INFO] Event: Serie A
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 2
-[DRM] TNT SPORTS - AQ
-[HLS] Cricfy HD
-
-[INFO] Event: Serie A
-[INFO] Date: 29/10/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 7
 [DRM] PARAMOUNT+ FHD
-[DRM] FUBO SPORTS - AQ
-[DRM] TNT SPORTS - AQ
-[HLS] PARAMOUNT+
-[HLS] Cricfy HD
-[HLS] Cricfy HD +
-[HLS] Low
-
-[INFO] Event: Serie A
-[INFO] Date: 29/10/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 7
-[DRM] PARAMOUNT+ - AQ
-[DRM] FUBO SPORTS - AQ
-[DRM] SPORT 1 CZ - AQ
-[HLS] Cricfy HD
-[HLS] PARAMOUNT+ HD
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: EFL Cup
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
+[DRM] PARAMOUNT+ FHD
+[HLS] CricFy
 [HLS] Cricfy HD
 
 [INFO] Event: EFL Cup
 [INFO] Date: 29/10/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 4
 [HLS] Cricfy HD
-
-[INFO] Event: EFL Cup
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Cricfy HD
-
-[INFO] Event: EFL Cup
-[INFO] Date: 29/10/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Cricfy HD
-
-[INFO] Event: EFL Cup
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 7
-[DRM] PARAMOUNT+  - AQ
-[DRM] MANUNITED - AQ
-[DRM] beIN ENGLISH - AQ
-[HLS] Cricfy HD
-[HLS] MONO MAX HD
-[HLS] CRFY hD
-[HLS] Low
-
-[INFO] Event: UEFA Women's Champions League
-[INFO] Date: 29/10/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] PARAMOUNT+ FHD
+[DRM] DAZN SPORTS FHD
+[HLS] CricFy HD
 
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 29/10/2026
@@ -207,29 +137,13 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Scottish Premiership
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: DFB Pokal
 [INFO] Date: 29/10/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: DFB Pokal
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: DFB Pokal
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] DAZN SPORTS FHD
+[HLS] CricFy HD
+[HLS] HD SERVER
 
 [INFO] Event: WWE NXT
 [INFO] Date: 04/11/2026
@@ -242,112 +156,105 @@
 
 [INFO] Event: AFC Champions League Two
 [INFO] Date: 29/10/2026
-[INFO] Time: 01:15
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 29/10/2026
-[INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 29/10/2026
 [INFO] Time: 14:45
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: EFL Cup
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: NCAA Division FBS
 [INFO] Date: 29/10/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] Link 1 (embed)
 
 [INFO] Event: NCAA Division FBS
 [INFO] Date: 29/10/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] CricFy Live (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] CRICFY LIVE
+[TOKEN_API] CricFy HD (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] CricFy Live
+[TOKEN_API] CricFy HD (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] CricFy Live (embed)
+[HLS] CricFy HD
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] CricFy HD (embed)
+[HLS] CricFy Live
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] CricFy HD (embed)
+[HLS] CricFy Live
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] CricFy Live (embed)
+[HLS] CricFy HD
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 09:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] CricFy HD
+[TOKEN_API] CricFy Live (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] CricFy HD (embed)
+[HLS] CricFy Live
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 08:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] CricFy Live (embed)
+[HLS] CricFy HD
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 06:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] CricFy Live (embed)
+[HLS] CricFy HD
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] CricFy Live (embed)
+[HLS] CricFy HD
 
 [INFO] Event: NBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 08:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] CricFy Live (embed)
+[HLS] CricFy HD
 
 [INFO] Event: Tennis Evento
 [INFO] Date: 29/10/2026
@@ -369,44 +276,20 @@
 [TOKEN_API] AEW FHD (embed)
 [HLS] Backup
 
-[INFO] Event: DFB Pokal
-[INFO] Date: 29/10/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 3
-[DRM] DAZN SPORTS - AQ
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: DFB Pokal
-[INFO] Date: 29/10/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 3
-[DRM] DAZN SPORTS - AQ
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: DFB Pokal
-[INFO] Date: 29/10/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 2
-[DRM] DAZN SPORTS - AQ
-[HLS] Cricfy SD
-
-[INFO] Event: DFB Pokal
-[INFO] Date: 29/10/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 3
-[DRM] DAZN SPORTS - AQ
-[HLS] Cricfy HD
-[HLS] Low
-
 [INFO] Event: UEFA Women's Champions League
 [INFO] Date: 29/10/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 3
-[DRM] PARAMOUNT+  - AQ
-[HLS] Cricfy HD
-[HLS] Low
+[INFO] Time: 03:00
+[INFO] Streams Found: 2
+[DRM] PARAMOUNT+ FHD
+[HLS] LOW QUALITY
 
-[SUMMARY] Events=53
-[SUMMARY] Streams=145
+[INFO] Event: Scottish Premiership
+[INFO] Date: 29/10/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 3
+[DRM] PARAMOUNT+ FHD
+[DRM] SportDigital Fussball
+[HLS] CricFy HD
+
+[SUMMARY] Events=35
+[SUMMARY] Streams=118
