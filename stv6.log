@@ -60,8 +60,8 @@
 [HLS] Cricfy HD
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 05/11/2026
-[INFO] Time: 10:30
+[INFO] Date: 30/10/2026
+[INFO] Time: 10:00
 [INFO] Streams Found: 7
 [DRM] FANCODE  - AQ
 [DRM] FANCODE HD - AQ
@@ -70,18 +70,6 @@
 [HLS] T SPORTS HD
 [HLS] FANCODE (IND)
 [HLS] RABBITHOLE FHD
-
-[INFO] Event: ODI Tri-series in Pakistan
-[INFO] Date: 29/10/2026
-[INFO] Time: 15:00
-[INFO] Streams Found: 7
-[DRM] WILLOW - AQ
-[DRM] WILLOW ALT - AQ
-[HLS] SKYCRICKET
-[HLS] PTV SPORTS HD
-[HLS] TAPMAD FHD
-[HLS] CRICBUZZ HD
-[HLS] Low
 
 [INFO] Event: Nepal Premier League, 2026
 [INFO] Date: 31/10/2026
@@ -102,7 +90,7 @@
 [HLS] CricFy Live
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 29/10/2026
+[INFO] Date: 30/10/2026
 [INFO] Time: 15:30
 [INFO] Streams Found: 7
 [DRM] WILLOW HD - AQ
@@ -176,8 +164,9 @@
 [INFO] Event: WNBA
 [INFO] Date: 29/10/2026
 [INFO] Time: 23:30
-[INFO] Streams Found: 3
+[INFO] Streams Found: 4
 [DRM] TSN SPORTS - AQ
+[HLS] CRFY Stream HD
 [HLS] NBA
 [TOKEN_API] Cricfy SD (embed)
 
@@ -192,12 +181,6 @@
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
 [HLS] NBA
-
-[INFO] Event: NCAA, Regular Season
-[INFO] Date: 30/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
 
 [INFO] Event: NCAA Division FBS
 [INFO] Date: 30/10/2026
@@ -227,33 +210,53 @@
 [INFO] Event: Saudi Pro League
 [INFO] Date: 30/10/2026
 [INFO] Time: 01:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Saudi Pro League
 [INFO] Date: 30/10/2026
 [INFO] Time: 01:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] FOX DEPORTES  - AQ
+[DRM] SportDigital FussBall - AQ
+[HLS] FOX SOCCER+ HD
+[HLS] Low
 
 [INFO] Event: Serie A
 [INFO] Date: 30/10/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 2
+[INFO] Streams Found: 10
+[DRM] PARAMOUNT+ - AQ
+[DRM] FUBO SPORTS - AQ
+[DRM] FUBO SPORTS ALT - AQ
+[DRM] SPORT 1 CZ - AQ
+[HLS] CRFY Stream HD
 [HLS] Cricfy HD
 [TOKEN_API] Cricfy NEW (embed)
+[HLS] CHD PLUS
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Serie A
 [INFO] Date: 30/10/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 6
+[DRM] beIN ENGLISH - AQ
+[DRM] SPORT 1 CZ - AQ
 [HLS] Cricfy HD
+[TOKEN_API] CRFY Stream + (embed)
+[HLS] StreamFast
+[HLS] Low
 
 [INFO] Event: EFL Cup
 [INFO] Date: 30/10/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 4
+[DRM] beIN ENGLISH - AQ
+[DRM] CBS SPORTS - AQ
 [HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: NHL
 [INFO] Date: 30/10/2026
@@ -333,5 +336,17 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
+[INFO] Event: MLB
+[INFO] Date: 01/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: MLB
+[INFO] Date: 31/10/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
 [SUMMARY] Events=43
-[SUMMARY] Streams=120
+[SUMMARY] Streams=135
