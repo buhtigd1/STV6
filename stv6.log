@@ -74,8 +74,12 @@
 [INFO] Event: ODI Tri-series in Pakistan
 [INFO] Date: 29/10/2026
 [INFO] Time: 15:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[DRM] WILLOW - AQ
+[DRM] WILLOW ALT - AQ
+[HLS] SKYCRICKET
+[HLS] PTV SPORTS HD
+[HLS] TAPMAD FHD
 
 [INFO] Event: Nepal Premier League, 2026
 [INFO] Date: 29/10/2026
@@ -94,24 +98,6 @@
 [HLS] HD Server
 [HLS] ALT SERVER
 [HLS] CricFy Live
-
-[INFO] Event: Serie A
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 4
-[DRM] PARAMOUNT+ FHD
-[DRM] PARAMOUNT+ FHD
-[HLS] CricFy
-[HLS] Cricfy HD
-
-[INFO] Event: EFL Cup
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 4
-[HLS] Cricfy HD
-[DRM] PARAMOUNT+ FHD
-[DRM] DAZN SPORTS FHD
-[HLS] CricFy HD
 
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 29/10/2026
@@ -137,14 +123,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: DFB Pokal
-[INFO] Date: 29/10/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 3
-[DRM] DAZN SPORTS FHD
-[HLS] CricFy HD
-[HLS] HD SERVER
-
 [INFO] Event: WWE NXT
 [INFO] Date: 04/11/2026
 [INFO] Time: 07:00
@@ -158,103 +136,7 @@
 [INFO] Date: 29/10/2026
 [INFO] Time: 14:45
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 29/10/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NCAA Division FBS
-[INFO] Date: 29/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[TOKEN_API] CricFy Live (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 2
-[HLS] CRICFY LIVE
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 2
-[HLS] CricFy Live
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[TOKEN_API] CricFy Live (embed)
-[HLS] CricFy HD
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 2
-[TOKEN_API] CricFy HD (embed)
-[HLS] CricFy Live
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[TOKEN_API] CricFy HD (embed)
-[HLS] CricFy Live
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[TOKEN_API] CricFy Live (embed)
-[HLS] CricFy HD
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 09:30
-[INFO] Streams Found: 2
-[HLS] CricFy HD
-[TOKEN_API] CricFy Live (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[TOKEN_API] CricFy HD (embed)
-[HLS] CricFy Live
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 08:30
-[INFO] Streams Found: 2
-[TOKEN_API] CricFy Live (embed)
-[HLS] CricFy HD
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 06:30
-[INFO] Streams Found: 2
-[TOKEN_API] CricFy Live (embed)
-[HLS] CricFy HD
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 2
-[TOKEN_API] CricFy Live (embed)
-[HLS] CricFy HD
-
-[INFO] Event: NBA
-[INFO] Date: 29/10/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 2
-[TOKEN_API] CricFy Live (embed)
-[HLS] CricFy HD
+[HLS] Cricfy HD
 
 [INFO] Event: Tennis Evento
 [INFO] Date: 29/10/2026
@@ -267,7 +149,7 @@
 [HLS] Low
 
 [INFO] Event: AEW Dynamite
-[INFO] Date: 29/10/2026
+[INFO] Date: 04/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 5
 [DRM] TSN SPORTS - AQ
@@ -276,20 +158,189 @@
 [TOKEN_API] AEW FHD (embed)
 [HLS] Backup
 
-[INFO] Event: UEFA Women's Champions League
-[INFO] Date: 29/10/2026
-[INFO] Time: 03:00
+[INFO] Event: NBA
+[INFO] Date: 30/10/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] NBA
+
+[INFO] Event: NBA
+[INFO] Date: 30/10/2026
+[INFO] Time: 07:00
 [INFO] Streams Found: 2
-[DRM] PARAMOUNT+ FHD
-[HLS] LOW QUALITY
+[HLS] NBA
+[TOKEN_API] Cricfy SD (embed)
 
-[INFO] Event: Scottish Premiership
+[INFO] Event: WNBA
 [INFO] Date: 29/10/2026
-[INFO] Time: 03:00
+[INFO] Time: 23:30
 [INFO] Streams Found: 3
-[DRM] PARAMOUNT+ FHD
-[DRM] SportDigital Fussball
-[HLS] CricFy HD
+[DRM] TSN SPORTS - AQ
+[HLS] NBA
+[TOKEN_API] Cricfy SD (embed)
 
-[SUMMARY] Events=35
-[SUMMARY] Streams=118
+[INFO] Event: Pre Campioni Del Domani
+[INFO] Date: 30/10/2026
+[INFO] Time: 20:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 30/10/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] NBA
+
+[INFO] Event: NCAA, Regular Season
+[INFO] Date: 30/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NCAA Division FBS
+[INFO] Date: 30/10/2026
+[INFO] Time: 06:30
+[INFO] Streams Found: 1
+[HLS] NFL
+
+[INFO] Event: NCAA Division FBS
+[INFO] Date: 30/10/2026
+[INFO] Time: 06:30
+[INFO] Streams Found: 1
+[HLS] NFL
+
+[INFO] Event: NFL
+[INFO] Date: 30/10/2026
+[INFO] Time: 07:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 29/10/2026
+[INFO] Time: 21:35
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 30/10/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Two
+[INFO] Date: 29/10/2026
+[INFO] Time: 17:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Two
+[INFO] Date: 29/10/2026
+[INFO] Time: 19:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Two
+[INFO] Date: 29/10/2026
+[INFO] Time: 19:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 30/10/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Two
+[INFO] Date: 29/10/2026
+[INFO] Time: 17:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 30/10/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[TOKEN_API] Cricfy NEW (embed)
+
+[INFO] Event: Serie A
+[INFO] Date: 30/10/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: EFL Cup
+[INFO] Date: 30/10/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Cricfy HD
+
+[INFO] Event: NHL
+[INFO] Date: 30/10/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] NHL
+
+[INFO] Event: NHL
+[INFO] Date: 30/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] NHL
+
+[INFO] Event: NHL
+[INFO] Date: 30/10/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] NHL
+
+[INFO] Event: NHL
+[INFO] Date: 30/10/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 30/10/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] NHL
+
+[INFO] Event: NHL
+[INFO] Date: 30/10/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] NHL
+
+[INFO] Event: NHL
+[INFO] Date: 30/10/2026
+[INFO] Time: 06:30
+[INFO] Streams Found: 1
+[HLS] NHL
+
+[INFO] Event: NHL
+[INFO] Date: 30/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] NHL
+
+[INFO] Event: NHL
+[INFO] Date: 30/10/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] NHL
+
+[INFO] Event: NHL
+[INFO] Date: 30/10/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] NHL
+
+[INFO] Event: NHL
+[INFO] Date: 30/10/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] NHL
+
+[SUMMARY] Events=46
+[SUMMARY] Streams=114
