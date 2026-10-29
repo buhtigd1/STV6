@@ -60,8 +60,8 @@
 [HLS] Cricfy HD
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 29/10/2026
-[INFO] Time: 11:00
+[INFO] Date: 05/11/2026
+[INFO] Time: 10:30
 [INFO] Streams Found: 7
 [DRM] FANCODE  - AQ
 [DRM] FANCODE HD - AQ
@@ -74,15 +74,17 @@
 [INFO] Event: ODI Tri-series in Pakistan
 [INFO] Date: 29/10/2026
 [INFO] Time: 15:00
-[INFO] Streams Found: 5
+[INFO] Streams Found: 7
 [DRM] WILLOW - AQ
 [DRM] WILLOW ALT - AQ
 [HLS] SKYCRICKET
 [HLS] PTV SPORTS HD
 [HLS] TAPMAD FHD
+[HLS] CRICBUZZ HD
+[HLS] Low
 
 [INFO] Event: Nepal Premier League, 2026
-[INFO] Date: 29/10/2026
+[INFO] Date: 31/10/2026
 [INFO] Time: 13:45
 [INFO] Streams Found: 4
 [HLS] SS 2 - HD
@@ -114,8 +116,12 @@
 [INFO] Event: T20 International
 [INFO] Date: 29/10/2026
 [INFO] Time: 21:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[DRM] WILLOW - AQ
+[DRM] FANCODE - AQ
+[DRM] WILLOW ALT - AQ
+[HLS] TAPMAD FHD
+[HLS] FANCODE (IND)
 
 [INFO] Event: T20 International
 [INFO] Date: 30/10/2026
@@ -132,21 +138,17 @@
 [TOKEN_API] NXT (embed)
 [HLS] Low
 
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 29/10/2026
-[INFO] Time: 14:45
-[INFO] Streams Found: 1
-[HLS] Cricfy HD
-
 [INFO] Event: Tennis Evento
-[INFO] Date: 29/10/2026
+[INFO] Date: 30/10/2026
 [INFO] Time: 08:30
-[INFO] Streams Found: 5
+[INFO] Streams Found: 7
 [DRM] DAZN SPORTS FHD
 [DRM] beIN ENGLISH FHD
 [DRM] SPOTV FHD
 [DRM] TENNIS 2 FHD
-[HLS] Low
+[HLS] Viana
+[HLS] Basel
+[HLS] Tokyo
 
 [INFO] Event: AEW Dynamite
 [INFO] Date: 04/11/2026
@@ -218,8 +220,9 @@
 [INFO] Event: Saudi Pro League
 [INFO] Date: 29/10/2026
 [INFO] Time: 21:35
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Saudi Pro League
 [INFO] Date: 30/10/2026
@@ -227,33 +230,9 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 29/10/2026
-[INFO] Time: 17:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 29/10/2026
-[INFO] Time: 19:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 29/10/2026
-[INFO] Time: 19:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: Saudi Pro League
 [INFO] Date: 30/10/2026
 [INFO] Time: 01:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 29/10/2026
-[INFO] Time: 17:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
@@ -342,5 +321,17 @@
 [INFO] Streams Found: 1
 [HLS] NHL
 
-[SUMMARY] Events=46
-[SUMMARY] Streams=114
+[INFO] Event: Ligue 1
+[INFO] Date: 31/10/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[TOKEN_API] Cricfy HD (embed)
+
+[INFO] Event: ODI Tri-series in Pakistan
+[INFO] Date: 31/10/2026
+[INFO] Time: 15:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=43
+[SUMMARY] Streams=120
