@@ -43,8 +43,7 @@
 [INFO] Event: Formula 1
 [INFO] Date: 31/10/2026
 [INFO] Time: 01:30
-[INFO] Streams Found: 11
-[DRM] TSN SPORTS FHD
+[INFO] Streams Found: 10
 [DRM] FANCODE - AQ
 [DRM] SporTV BR - AQ
 [HLS] SK SPorts F1
@@ -52,8 +51,8 @@
 [TOKEN_API] APPLE TV (embed)
 [HLS] SK sports F1
 [HLS] RUSSIA FEED
-[HLS] Low
 [TOKEN_API] DAZN ESPANOL [FHD] (embed)
+[HLS] SportCast
 [HLS] Low
 
 [INFO] Event: WWE Friday Night SmackDown
@@ -180,17 +179,6 @@
 [DRM] FOX DEPORTES - AQ
 [HLS] CricFy HD
 
-[INFO] Event: Ligue 1
-[INFO] Date: 31/10/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 6
-[DRM] beIN SPORTS - AQ
-[HLS] Cricfy HD
-[HLS] Cricfy HD
-[HLS] Cricfy HD +
-[HLS] CRFY Stream
-[HLS] Low
-
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 31/10/2026
 [INFO] Time: 19:00
@@ -202,14 +190,6 @@
 [INFO] Time: 19:00
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 31/10/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 3
-[HLS] Cricfy HD
-[HLS] CRFY Stream
-[HLS] Low
 
 [INFO] Event: Saudi Pro League
 [INFO] Date: 31/10/2026
@@ -217,55 +197,25 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Saudi Pro League
-[INFO] Date: 30/10/2026
-[INFO] Time: 21:50
-[INFO] Streams Found: 4
-[HLS] Cricfy HD +
-[HLS] Cricfy HD
-[TOKEN_API] Arabic (embed)
-[HLS] Low
-
-[INFO] Event: Ligue 1
-[INFO] Date: 31/10/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 7
-[DRM] beIN SPORTS - AQ
-[DRM] CazéTV - AQ
-[HLS] Cricfy HD
-[HLS] Cricfy HD +
-[HLS] Cricfy Live
-[HLS] CRFY Stream Pro
-[HLS] Low
-
 [INFO] Event: Ligue 1
 [INFO] Date: 31/10/2026
 [INFO] Time: 03:05
-[INFO] Streams Found: 1
+[INFO] Streams Found: 5
+[DRM] CazéTV - AQ
 [HLS] Cricfy HD
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 31/10/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 3
-[DRM] beIN ENGLISH - AQ
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 31/10/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 3
-[DRM] beIN ENGLISH - AQ
-[HLS] Cricfy HD
+[TOKEN_API] Cricfy HD (embed)
+[TOKEN_API] CRFY Stream (embed)
 [HLS] Low
 
 [INFO] Event: Bundesliga
 [INFO] Date: 31/10/2026
 [INFO] Time: 02:30
-[INFO] Streams Found: 2
+[INFO] Streams Found: 5
 [DRM] SporTV BR - AQ
 [HLS] Cricfy HD
+[HLS] Cricfy SD
+[HLS] CRFY Stream
+[HLS] Low
 
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 31/10/2026
@@ -294,10 +244,11 @@
 [INFO] Event: LaLiga
 [INFO] Date: 31/10/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 4
+[INFO] Streams Found: 5
 [DRM] beIN ENGLISH - AQ
 [DRM] D SPORTS - AQ
 [DRM] FANCODE - AQ
+[HLS] Cricfy HD Pro
 [HLS] Cricfy HD
 
 [INFO] Event: Hong Kong Sixes 2026
@@ -532,24 +483,21 @@
 [TOKEN_API] CricFy FHD (embed)
 [TOKEN_API] CricFy HD (embed)
 
-[INFO] Event: Trendyol Süper Lig
-[INFO] Date: 31/10/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
 [INFO] Event: Championship
 [INFO] Date: 31/10/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 4
+[DRM] beIN ENGLISH - AQ
+[DRM] CBS SPORTS - AQ
 [HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Liga Portugal Betclic
 [INFO] Date: 31/10/2026
 [INFO] Time: 03:15
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[DRM] D SPORT - AQ
 [HLS] Cricfy HD
 
-[SUMMARY] Events=72
-[SUMMARY] Streams=193
+[SUMMARY] Events=65
+[SUMMARY] Streams=176
