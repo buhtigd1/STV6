@@ -1,28 +1,3 @@
-[INFO] Event: LaLiga
-[INFO] Date: 01/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 8
-[DRM] beIN ENGLISH  - AQ
-[DRM] FANCODE - AQ
-[DRM] CazéTV - AQ
-[HLS] CricFy Live
-[HLS] ESPN DEPORTES HD
-[HLS] CRFY Stream
-[HLS] Cricfy HD +
-[HLS] Low
-
-[INFO] Event: Premier League
-[INFO] Date: 01/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 7
-[DRM] PEACOCK ENG - AQ
-[DRM] FUBO SPORTS - AQ
-[HLS] CricFy Live
-[TOKEN_API] CricFy HD (embed)
-[TOKEN_API] CricFy Live (embed)
-[HLS] CRFY Stream
-[HLS] Low
-
 [INFO] Event: T20 International
 [INFO] Date: 01/11/2026
 [INFO] Time: 14:00
@@ -41,7 +16,7 @@
 
 [INFO] Event: MotoGP
 [INFO] Date: 01/11/2026
-[INFO] Time: 14:00
+[INFO] Time: 12:00
 [INFO] Streams Found: 10
 [DRM] TNT SPORTS - AQ
 [DRM] FANCODE - AQ
@@ -66,8 +41,8 @@
 [HLS] Low
 
 [INFO] Event: Formula 1
-[INFO] Date: 01/11/2026
-[INFO] Time: 00:30
+[INFO] Date: 02/11/2026
+[INFO] Time: 03:00
 [INFO] Streams Found: 10
 [DRM] FANCODE - AQ
 [DRM] SporTV BR - AQ
@@ -163,67 +138,6 @@
 [TOKEN_API] AEW FHD (embed)
 [HLS] Backup
 
-[INFO] Event: MLB
-[INFO] Date: 01/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 01/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[HLS] NHL
-
-[INFO] Event: NHL
-[INFO] Date: 01/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 2
-[HLS] NHL
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 01/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 2
-[HLS] NHL
-[TOKEN_API] EXTRA SPORT14 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 01/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 2
-[HLS] NHL
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 01/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 2
-[HLS] NHL
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 01/11/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 2
-[HLS] NHL
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 01/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 2
-[HLS] NHL
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 01/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[HLS] NHL
-[TOKEN_API] CricFy HD (embed)
-
 [INFO] Event: ISL
 [INFO] Date: 01/11/2026
 [INFO] Time: 18:30
@@ -233,158 +147,6 @@
 [HLS] SonyLiv (HIN)
 [HLS] SonyLiv (TAM)
 [HLS] SonyLiv (MAL)
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 01/11/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: Ligue 1
-[INFO] Date: 01/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 6
-[DRM] beIN SPORTS - AQ
-[TOKEN_API] LIGUE 1 FR 1 (embed)
-[HLS] CricFy Live
-[HLS] CRFY Stream
-[HLS] Cricfy Live+
-[HLS] Low
-
-[INFO] Event: VriendenLoterij Eredivisie
-[INFO] Date: 01/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 3
-[DRM] SportDigital Fussball - AQ
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 01/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[TOKEN_API] Server 1 (embed)
-
-[INFO] Event: VriendenLoterij Eredivisie
-[INFO] Date: 01/11/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 01/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[HLS] Cricfy HD
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 01/11/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 2
-[DRM] PREMIERE BR - AQ
-[TOKEN_API] WINsport+ (embed)
-
-[INFO] Event: Liga Portugal Betclic
-[INFO] Date: 01/11/2026
-[INFO] Time: 03:30
-[INFO] Streams Found: 3
-[DRM] D SPORTS - AQ
-[TOKEN_API] beIN SPORT 2 (embed)
-[TOKEN_API] directv (embed)
-
-[INFO] Event: VriendenLoterij Eredivisie
-[INFO] Date: 01/11/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: Serie A
-[INFO] Date: 01/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 9
-[DRM] PARAMOUNT+ - AQ
-[DRM] FUBO SPORTS - AQ
-[DRM] beIN ENGLISH - AQ
-[DRM] FUBO SPORTS - AQ
-[DRM] CBS SPORTS - AQ
-[DRM] SPORT 1 CZ - AQ
-[HLS] CricFy Live
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: VriendenLoterij Eredivisie
-[INFO] Date: 01/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[TOKEN_API] NL ESPN 1 (embed)
-
-[INFO] Event: UFC
-[INFO] Date: 01/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 3
-[HLS] CricFy Live
-[TOKEN_API] CricFy HD (embed)
-[TOKEN_API] UFC PRO (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 01/11/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] NBA
-
-[INFO] Event: WNBA
-[INFO] Date: 01/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[HLS] NBA
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 01/11/2026
-[INFO] Time: 05:00
-[INFO] Streams Found: 2
-[HLS] NBA
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 01/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 2
-[HLS] NBA
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 01/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 3
-[HLS] NBA
-[TOKEN_API] EXTRA SPORT (embed)
-[TOKEN_API] ESPN 2 MX (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 01/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 2
-[HLS] NBA
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 01/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[HLS] NBA
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 01/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] CricFy HD (embed)
 
 [INFO] Event: Women's Big Bash League
 [INFO] Date: 01/11/2026
@@ -396,8 +158,259 @@
 [INFO] Event: Women's Big Bash League
 [INFO] Date: 01/11/2026
 [INFO] Time: 11:40
+[INFO] Streams Found: 6
+[DRM] WILLOW - AQ
+[HLS] SKY CRICKET
+[DRM] EUROSPORTS - AQ
+[HLS] CRICBUZZ HD
+[HLS] CRICBUZZ HD
+[HLS] FANCODE (IND)
+
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 01/11/2026
+[INFO] Time: 20:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=46
-[SUMMARY] Streams=171
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 01/11/2026
+[INFO] Time: 20:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 01/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Women's Super League
+[INFO] Date: 01/11/2026
+[INFO] Time: 19:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: 2. Bundesliga
+[INFO] Date: 01/11/2026
+[INFO] Time: 19:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 01/11/2026
+[INFO] Time: 18:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Women's Super League
+[INFO] Date: 01/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Bundesliga
+[INFO] Date: 01/11/2026
+[INFO] Time: 21:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: 2. Bundesliga
+[INFO] Date: 01/11/2026
+[INFO] Time: 19:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Premier League
+[INFO] Date: 01/11/2026
+[INFO] Time: 23:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 01/11/2026
+[INFO] Time: 18:15
+[INFO] Streams Found: 1
+[TOKEN_API] CricFy HD (embed)
+
+[INFO] Event: LaLiga
+[INFO] Date: 01/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Women's Super League
+[INFO] Date: 01/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Ligue 1
+[INFO] Date: 01/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 01/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Women's Super League
+[INFO] Date: 01/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 01/11/2026
+[INFO] Time: 17:30
+[INFO] Streams Found: 1
+[TOKEN_API] CricFy HD (embed)
+
+[INFO] Event: Women's Super League
+[INFO] Date: 01/11/2026
+[INFO] Time: 19:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 01/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 01/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: 2. Bundesliga
+[INFO] Date: 01/11/2026
+[INFO] Time: 19:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Women's Super League
+[INFO] Date: 01/11/2026
+[INFO] Time: 21:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 01/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 02/11/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Liga Portugal Betclic
+[INFO] Date: 02/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 02/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 02/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 01/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 01/11/2026
+[INFO] Time: 22:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 02/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Liga Portugal Betclic
+[INFO] Date: 02/11/2026
+[INFO] Time: 03:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 01/11/2026
+[INFO] Time: 22:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Liga Portugal Betclic
+[INFO] Date: 01/11/2026
+[INFO] Time: 22:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Bundesliga
+[INFO] Date: 01/11/2026
+[INFO] Time: 23:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Liga Portugal Betclic
+[INFO] Date: 02/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 02/11/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Ligue 1
+[INFO] Date: 01/11/2026
+[INFO] Time: 23:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Ligue 1
+[INFO] Date: 02/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Ligue 1
+[INFO] Date: 01/11/2026
+[INFO] Time: 23:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 01/11/2026
+[INFO] Time: 22:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 02/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=56
+[SUMMARY] Streams=134
