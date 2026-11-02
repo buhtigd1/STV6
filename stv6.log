@@ -1,3 +1,21 @@
+[INFO] Event: T20 International
+[INFO] Date: 04/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 13
+[DRM] WILLOW - AQ
+[DRM] PRIME ENG - AQ
+[DRM] PRIME HINDI - AQ
+[DRM] Willow - ALT
+[DRM] TNT SPORTS - AQ
+[HLS] CRICBUZZ
+[HLS] SonyLiv (ENG)
+[HLS] SonyLiv (HIN)
+[HLS] SonyLiv (TAM)
+[HLS] SonyLiv (TEL)
+[HLS] SonyLiv (KAN)
+[HLS] TAPMAD - AQ
+[HLS] Low
+
 [INFO] Event: MotoGP
 [INFO] Date: 06/11/2026
 [INFO] Time: 19:45
@@ -65,10 +83,11 @@
 [INFO] Event: Nepal Premier League, 2026
 [INFO] Date: 02/11/2026
 [INFO] Time: 13:45
-[INFO] Streams Found: 5
+[INFO] Streams Found: 6
+[DRM] FANCODE - AQ
+[DRM] FANCODE SD - AQ
 [HLS] CricFy Fast
 [HLS] StarSports HD
-[HLS] CRFY Stream+
 [HLS] Fancode - IN
 [HLS] CRFY Stream
 
@@ -113,20 +132,31 @@
 [INFO] Event: AFC Champions League Elite
 [INFO] Date: 02/11/2026
 [INFO] Time: 20:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[HLS] TAPMAD FHD
+[HLS] beIN SPORTS
+[HLS] CRFY Stream
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: AFC Champions League Elite
 [INFO] Date: 02/11/2026
 [INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[HLS] Bein 1
+[HLS] Cricfy HD
+[HLS] CRFY Stream
+[HLS] Low
 
 [INFO] Event: AFC Champions League Elite
 [INFO] Date: 02/11/2026
 [INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[HLS] CRFY Stream
+[TOKEN_API] EXTRA SPORT8 (embed)
+[HLS] Bein 2
+[HLS] Cricfy Live
+[HLS] Low
 
 [INFO] Event: AFC Champions League Elite
 [INFO] Date: 03/11/2026
@@ -138,61 +168,70 @@
 [INFO] Date: 03/11/2026
 [INFO] Time: 01:15
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] EXTRA SPORT9 (embed)
 
 [INFO] Event: AFC Champions League Elite
 [INFO] Date: 02/11/2026
 [INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[HLS] Cricfy HD
+[HLS] CRFY Stream
+[HLS] Low
 
 [INFO] Event: Trendyol Süper Lig
 [INFO] Date: 03/11/2026
 [INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 03/11/2026
 [INFO] Time: 03:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] ES LALIGA HYPERMOTION (embed)
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 02/11/2026
 [INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] LaLiga Hypermotion - AQ
+[HLS] Low
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 02/11/2026
 [INFO] Time: 22:15
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] LaLiga Hypermotion - AQ
+[TOKEN_API] LALIGA HYPERMOTION (embed)
+[HLS] Low
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 03/11/2026
 [INFO] Time: 00:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] PT SPORT 1 (embed)
 
 [INFO] Event: Serie A
 [INFO] Date: 03/11/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[TOKEN_API] ES m.laliga (embed)
+[TOKEN_API] ESPN Deportes (embed)
+[TOKEN_API] ESPN4 (embed)
 
 [INFO] Event: Serie A
 [INFO] Date: 03/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] IT Zona DAZN (embed)
+[TOKEN_API] ESPN4MX (embed)
 
 [INFO] Event: Ligue 1
 [INFO] Date: 03/11/2026
 [INFO] Time: 02:45
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] LIGUE 1 FR 1 (embed)
 
 [INFO] Event: Premier League
 [INFO] Date: 03/11/2026
@@ -284,5 +323,35 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=39
-[SUMMARY] Streams=91
+[INFO] Event: NHL
+[INFO] Date: 03/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 03/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 03/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 03/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 03/11/2026
+[INFO] Time: 08:15
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[SUMMARY] Events=45
+[SUMMARY] Streams=130
