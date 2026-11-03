@@ -81,7 +81,7 @@
 [HLS] RABBITHOLE FHD
 
 [INFO] Event: Nepal Premier League, 2026
-[INFO] Date: 03/11/2026
+[INFO] Date: 05/11/2026
 [INFO] Time: 13:45
 [INFO] Streams Found: 6
 [DRM] FANCODE - AQ
@@ -92,7 +92,7 @@
 [HLS] CRFY Stream
 
 [INFO] Event: Monday Night Raw
-[INFO] Date: 03/11/2026
+[INFO] Date: 10/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 6
 [HLS] CricFy HD
@@ -157,12 +157,6 @@
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 04/11/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 04/11/2026
 [INFO] Time: 03:00
 [INFO] Streams Found: 1
 [HLS] Link 1
@@ -182,8 +176,19 @@
 [INFO] Event: UEFA Champions League
 [INFO] Date: 04/11/2026
 [INFO] Time: 00:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 12
+[DRM] PARAMOUNT+ FHD
+[DRM] TNT SPORTS - AQ
+[HLS] SonyLiv (Asia)
+[DRM] SonyLiv PRIME FHD
+[DRM] VIX Español FHD
+[DRM] DAZN DE FHD
+[DRM] HBO MAX BR FHD
+[HLS] PARAMOUNT+ HD
+[HLS] Cricfy HD
+[HLS] TAPMAD FHD
+[HLS] Low
+[HLS] HD SERVER
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 05/11/2026
@@ -259,39 +264,24 @@
 
 [INFO] Event: AFC Champions League Two
 [INFO] Date: 03/11/2026
-[INFO] Time: 20:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 03/11/2026
 [INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 03/11/2026
-[INFO] Time: 19:15
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: AFC Champions League Elite
 [INFO] Date: 04/11/2026
 [INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 03/11/2026
-[INFO] Time: 19:15
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: AFC Champions League Elite
 [INFO] Date: 03/11/2026
 [INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Championship
 [INFO] Date: 04/11/2026
@@ -359,5 +349,88 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=49
-[SUMMARY] Streams=116
+[INFO] Event: NHL
+[INFO] Date: 04/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 04/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 04/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 04/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 04/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 04/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 04/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 04/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 04/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 04/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 04/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 04/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 12
+[DRM] PARAMOUNT+ - AQ
+[DRM] TNT SPORTS - AQ
+[DRM] SonyLiv PRIME - AQ
+[DRM] VIX Español - AQ
+[DRM] DAZN DE - AQ
+[DRM] CBS SPORTS - AQ
+[HLS] PARAMOUNT+ HD
+[HLS] Cricfy HD
+[HLS] SonyLiv (Asia)
+[HLS] CRFY Stream
+[TOKEN_API] BEIN 1 CRICFY (embed)
+[HLS] Low
+
+[SUMMARY] Events=57
+[SUMMARY] Streams=149
