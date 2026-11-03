@@ -131,73 +131,9 @@
 [HLS] SonyLiv (TAM)
 [HLS] SonyLiv (MAL)
 
-[INFO] Event: LaLiga 2
-[INFO] Date: 03/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 2
-[DRM] LaLiga HP - AQ
-[TOKEN_API] ES LALIGA HYPERMOTION (embed)
-
-[INFO] Event: Serie A
-[INFO] Date: 03/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 11
-[DRM] PARAMOUNT+ - AQ
-[DRM] DAZN ITALIAN - AQ
-[DRM] DAZN ENGLISH - AQ
-[DRM] TNT SPORTS - AQ
-[DRM] beIN ENGLISH - AQ
-[DRM] CBS SPORTS - AQ
-[DRM] SPORT 1 CZ - AQ
-[TOKEN_API] IT Zona DAZN (embed)
-[TOKEN_API] ESPN4MX (embed)
-[HLS] Hyper
-[HLS] Low
-
-[INFO] Event: Ligue 1
-[INFO] Date: 03/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 6
-[DRM] DAZN SPORTS - AQ
-[DRM] beIN ENGLISH - AQ
-[DRM] CazéTV - AQ
-[TOKEN_API] LIGUE 1 FR 1 (embed)
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: Premier League
-[INFO] Date: 03/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 5
-[DRM] FUBO SPORTS - AQ
-[DRM] SK SPORTS - AQ
-[HLS] USA NETWORK HD
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: Liga Portugal Betclic
-[INFO] Date: 03/11/2026
-[INFO] Time: 03:15
-[INFO] Streams Found: 3
-[DRM] beIN ENGLISH - AQ
-[DRM] D SPORTS - AQ
-[HLS] Low
-
-[INFO] Event: Liga Portugal Betclic
-[INFO] Date: 03/11/2026
-[INFO] Time: 03:15
-[INFO] Streams Found: 1
-[HLS] Low
-
 [INFO] Event: UEFA Champions League
 [INFO] Date: 04/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Youth League
-[INFO] Date: 03/11/2026
-[INFO] Time: 20:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
@@ -231,12 +167,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: UEFA Youth League
-[INFO] Date: 03/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: UEFA Champions League
 [INFO] Date: 04/11/2026
 [INFO] Time: 03:00
@@ -255,41 +185,179 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: UEFA Youth League
-[INFO] Date: 03/11/2026
-[INFO] Time: 18:00
+[INFO] Event: UEFA Champions League
+[INFO] Date: 05/11/2026
+[INFO] Time: 03:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NHL
-[INFO] Date: 03/11/2026
-[INFO] Time: 07:00
+[INFO] Event: UEFA Champions League
+[INFO] Date: 05/11/2026
+[INFO] Time: 03:00
 [INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
+[HLS] Link 1
 
-[INFO] Event: NHL
-[INFO] Date: 03/11/2026
-[INFO] Time: 09:00
+[INFO] Event: UEFA Champions League
+[INFO] Date: 05/11/2026
+[INFO] Time: 03:00
 [INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
+[HLS] Link 1
 
-[INFO] Event: NHL
-[INFO] Date: 03/11/2026
-[INFO] Time: 08:00
+[INFO] Event: UEFA Champions League
+[INFO] Date: 05/11/2026
+[INFO] Time: 00:45
 [INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
+[HLS] Link 1
 
-[INFO] Event: NHL
-[INFO] Date: 03/11/2026
-[INFO] Time: 07:00
+[INFO] Event: UEFA Champions League
+[INFO] Date: 05/11/2026
+[INFO] Time: 00:45
 [INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
+[HLS] Link 1
 
-[INFO] Event: NFL
-[INFO] Date: 03/11/2026
-[INFO] Time: 08:15
+[INFO] Event: UEFA Champions League
+[INFO] Date: 05/11/2026
+[INFO] Time: 03:00
 [INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
+[HLS] Link 1
 
-[SUMMARY] Events=34
-[SUMMARY] Streams=123
+[INFO] Event: UEFA Champions League
+[INFO] Date: 05/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 05/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 05/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Test Series
+[INFO] Date: 05/11/2026
+[INFO] Time: 12:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: SAFF Championship
+[INFO] Date: 05/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: SAFF Championship
+[INFO] Date: 05/11/2026
+[INFO] Time: 16:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Two
+[INFO] Date: 03/11/2026
+[INFO] Time: 20:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Two
+[INFO] Date: 03/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 03/11/2026
+[INFO] Time: 19:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 04/11/2026
+[INFO] Time: 01:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 03/11/2026
+[INFO] Time: 19:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 03/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 04/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 04/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 05/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 04/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 04/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 05/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 04/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 04/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 04/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 04/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 04/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=49
+[SUMMARY] Streams=116
