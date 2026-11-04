@@ -257,12 +257,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 04/11/2026
-[INFO] Time: 17:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 05/11/2026
 [INFO] Time: 05:30
@@ -272,8 +266,9 @@
 [INFO] Event: AFC Champions League Elite
 [INFO] Date: 04/11/2026
 [INFO] Time: 19:15
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 05/11/2026
@@ -290,18 +285,6 @@
 [INFO] Event: Championship
 [INFO] Date: 05/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 05/11/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 04/11/2026
-[INFO] Time: 17:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
@@ -345,7 +328,7 @@
 [INFO] Date: 04/11/2026
 [INFO] Time: 22:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] TNT SPORTS - AQ
 
 [INFO] Event: Championship
 [INFO] Date: 05/11/2026
@@ -395,5 +378,113 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=55
-[SUMMARY] Streams=122
+[INFO] Event: Women's Big Bash League
+[INFO] Date: 04/11/2026
+[INFO] Time: 15:10
+[INFO] Streams Found: 7
+[DRM] WILLOW - AQ
+[DRM] FANCODE - AQ
+[DRM] WILLOW ALT - AQ
+[DRM] EUROSPORTS - AQ
+[HLS] SK CRICKET
+[HLS] TAPMAD FHD
+[HLS] FANCODE (IND)
+
+[INFO] Event: AFC Champions League Two
+[INFO] Date: 04/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[TOKEN_API] EXTRA SPORT39 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[TOKEN_API] EXTRA SPORT35 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] EXTRA SPORT30 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[TOKEN_API] EXTRA SPORT38 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 09:30
+[INFO] Streams Found: 4
+[TOKEN_API] beIN SPORT 2 (embed)
+[TOKEN_API] EXTRA SPORT40 (embed)
+[TOKEN_API] ESPN2 (embed)
+[TOKEN_API] ESPN1MX (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 4
+[TOKEN_API] beIN SPORT 1 (embed)
+[TOKEN_API] EXTRA SPORT26 (embed)
+[TOKEN_API] ESPN2 (embed)
+[TOKEN_API] ESPN1MX (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 08:30
+[INFO] Streams Found: 1
+[TOKEN_API] EXTRA SPORT37 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] EXTRA SPORT31 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[TOKEN_API] EXTRA SPORT34 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] EXTRA SPORT27 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] EXTRA SPORT28 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 10:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 05/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=68
+[SUMMARY] Streams=148
