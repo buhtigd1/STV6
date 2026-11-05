@@ -71,25 +71,20 @@
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 05/11/2026
 [INFO] Time: 10:30
-[INFO] Streams Found: 7
-[DRM] FANCODE  - AQ
-[DRM] FANCODE HD - AQ
+[INFO] Streams Found: 6
 [HLS] TAPMAD FHD
-[HLS] TAPMAD HD
 [HLS] T SPORTS HD
+[HLS] ROBBITHOLE FHD
 [HLS] FANCODE (IND)
-[HLS] RABBITHOLE FHD
+[HLS] TAPMAD HD
+[HLS] T SPORTS SD
 
 [INFO] Event: Nepal Premier League, 2026
 [INFO] Date: 05/11/2026
 [INFO] Time: 13:45
-[INFO] Streams Found: 6
-[DRM] FANCODE - AQ
-[DRM] FANCODE SD - AQ
-[HLS] CricFy Fast
-[HLS] StarSports HD
-[HLS] Fancode - IN
-[HLS] CRFY Stream
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] FANCODE (IND)
 
 [INFO] Event: Monday Night Raw
 [INFO] Date: 10/11/2026
@@ -112,7 +107,7 @@
 [HLS] Low
 
 [INFO] Event: AEW Dynamite
-[INFO] Date: 05/11/2026
+[INFO] Date: 12/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 5
 [DRM] TSN SPORTS - AQ
@@ -131,79 +126,15 @@
 [HLS] SonyLiv (TAM)
 [HLS] SonyLiv (MAL)
 
-[INFO] Event: UEFA Champions League
-[INFO] Date: 05/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 4
-[DRM] PARAMOUNT+  - AQ
-[DRM] TNT SPORTS - AQ
-[DRM] DAZN DE - AQ
-[HLS] SonyLiv (Asia)
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 05/11/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 9
-[DRM] PARAMOUNT+ - AQ
-[DRM] TNT SPORTS - AQ
-[DRM] VIX Español - AQ
-[DRM] DAZN DE - AQ
-[HLS] SonyLiv (HIN)
-[HLS] SonyLiv (ENG)
-[HLS] SonyLiv (TAM)
-[HLS] SonyLiv (TEL)
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 05/11/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 12
-[DRM] PARAMOUNT+  - AQ
-[DRM] TNT SPORTS  - AQ
-[DRM] SonyLiv PRIME  - AQ
-[DRM] VIX Español  - AQ
-[DRM] DAZN DE  - AQ
-[DRM] HBO MAX BR  - AQ
-[HLS] PARAMOUNT+ HD
-[HLS] beIN SPORTS FHD
-[HLS] Cricfy Live
-[HLS] CRFY Stream
-[HLS] Cricfy Live +
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 05/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 4
-[DRM] PARAMOUNT+ - AQ
-[DRM] TNT SPORTS FHD
-[DRM] TNT SPORTS FHD
-[HLS] Server 2 [HIN]
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 05/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 6
-[DRM] PARAMOUNT+ FHD
-[DRM] TNT SPORTS FHD
-[DRM] DAZN SPORTS FHD
-[DRM] HBO MAX BRAZIL
-[HLS] SonyLiv (Asia)
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 05/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 3
-[DRM] PARAMOUNT+ - AQ
-[DRM] DAZN SPORTS - AQ
-[HLS] SonyLiv (Asia)
-
 [INFO] Event: Test Series
 [INFO] Date: 05/11/2026
-[INFO] Time: 12:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Time: 13:00
+[INFO] Streams Found: 5
+[DRM] WILLOW FHD
+[DRM] FANCODE FHD
+[DRM] WILLOW ALT
+[DRM] FANCODE SD
+[HLS] FANCODE (IND)
 
 [INFO] Event: SAFF Championship
 [INFO] Date: 05/11/2026
@@ -217,226 +148,44 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Championship
-[INFO] Date: 05/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 4
-[DRM] PARAMOUNT+ FHD
-[HLS] Cricfy HD
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: Championship
-[INFO] Date: 05/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 4
-[DRM] PARAMOUNT+ - AQ
-[HLS] Cricfy HD
-[HLS] Low
-[HLS] Cricfy HD
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 05/11/2026
-[INFO] Time: 07:30
+[INFO] Event: U19 Asia Cup
+[INFO] Date: 06/11/2026
+[INFO] Time: 12:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: AFC Champions League Two
+[INFO] Event: U19 Asia Cup
 [INFO] Date: 05/11/2026
-[INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 05/11/2026
-[INFO] Time: 03:00
+[INFO] Time: 12:00
 [INFO] Streams Found: 3
-[DRM] PARAMOUNT+ FHD
-[DRM] DAZN SPORTS FHD
-[DRM] ViX ESPANOL FHD
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 05/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 4
-[DRM] PARAMOUNT+ FHD
-[DRM] DAZN SPORTS FHD
-[DRM] ViX ESPANOL FHD
+[DRM] WILLOW FHD
+[DRM] WILLOW ALT
 [HLS] SonyLiv (Asia)
 
-[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Event: U19 Asia Cup
 [INFO] Date: 05/11/2026
-[INFO] Time: 05:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 05/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Championship
-[INFO] Date: 05/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[DRM] beIN ENGLISH - AQ
-
-[INFO] Event: League One
-[INFO] Date: 05/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 05/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 4
-[DRM] PARAMOUNT+ FHD
-[DRM] DAZN SPORTS FHD
-[DRM] ViX ESPANOL FHD
-[HLS] SonyLiv (Asia)
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 05/11/2026
-[INFO] Time: 05:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 05/11/2026
-[INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 05/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 4
-[DRM] PARAMOUNT+ FHD
-[DRM] DAZN SPORTS FHD
-[DRM] ViX ESPANOL FHD
+[INFO] Time: 12:00
+[INFO] Streams Found: 3
+[DRM] WILLOW FHD
+[DRM] WILLOW ALT
 [HLS] SonyLiv (Asia)
 
 [INFO] Event: U19 Asia Cup
 [INFO] Date: 06/11/2026
 [INFO] Time: 12:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U19 Asia Cup
-[INFO] Date: 05/11/2026
-[INFO] Time: 12:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U19 Asia Cup
-[INFO] Date: 05/11/2026
-[INFO] Time: 12:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U19 Asia Cup
-[INFO] Date: 06/11/2026
-[INFO] Time: 12:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT39 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT35 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT30 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT36 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT38 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 09:30
-[INFO] Streams Found: 4
-[TOKEN_API] beIN SPORT 2 (embed)
-[TOKEN_API] EXTRA SPORT40 (embed)
-[TOKEN_API] ESPN2 (embed)
-[TOKEN_API] ESPN1MX (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 4
-[TOKEN_API] beIN SPORT 1 (embed)
-[TOKEN_API] EXTRA SPORT26 (embed)
-[TOKEN_API] ESPN2 (embed)
-[TOKEN_API] ESPN1MX (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 08:30
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT37 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT31 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT34 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT27 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT28 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 10:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NBA
-[INFO] Date: 05/11/2026
-[INFO] Time: 10:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: Women's Big Bash League
 [INFO] Date: 05/11/2026
 [INFO] Time: 11:40
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 6
+[DRM] WILLOW FHD
+[DRM] FANCODE FHD
+[HLS] SKY CRICKET FHD
+[DRM] WILLOW ALT
+[DRM] WILLOW HD
+[HLS] TAPMAD FHD
 
 [INFO] Event: Women's Big Bash League
 [INFO] Date: 05/11/2026
@@ -444,5 +193,209 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 06/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
 [SUMMARY] Events=54
-[SUMMARY] Streams=176
+[SUMMARY] Streams=129
