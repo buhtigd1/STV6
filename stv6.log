@@ -19,17 +19,18 @@
 [INFO] Event: MotoGP
 [INFO] Date: 06/11/2026
 [INFO] Time: 19:45
-[INFO] Streams Found: 7
+[INFO] Streams Found: 8
 [DRM] TNT SPORTS - AQ
 [DRM] FANCODE - AQ
 [DRM] SPOTV - AQ
 [DRM] MotoGP - AQ
 [HLS] MOTO Cricfy
 [HLS] Cricfy HD
+[HLS] MotoGP Qatar
 [HLS] Low
 
 [INFO] Event: ONE Friday Fights
-[INFO] Date: 06/11/2026
+[INFO] Date: 13/11/2026
 [INFO] Time: 19:00
 [INFO] Streams Found: 6
 [DRM] One Fight - AQ
@@ -42,7 +43,7 @@
 [INFO] Event: Formula 1
 [INFO] Date: 06/11/2026
 [INFO] Time: 22:30
-[INFO] Streams Found: 11
+[INFO] Streams Found: 12
 [DRM] FANCODE - AQ
 [DRM] SporTV BR - AQ
 [HLS] SK SPorts F1
@@ -53,6 +54,7 @@
 [HLS] RUSSIA FEED
 [TOKEN_API] DAZN ESPANOL [FHD] (embed)
 [HLS] SportCast
+[HLS] Cricfy Live
 [HLS] Low
 
 [INFO] Event: WWE Friday Night SmackDown
@@ -67,7 +69,7 @@
 [TOKEN_API] Cricfy WWE (embed)
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 06/11/2026
+[INFO] Date: 07/11/2026
 [INFO] Time: 10:30
 [INFO] Streams Found: 7
 [DRM] FANCODE - AQ
@@ -79,8 +81,8 @@
 [HLS] FANCODE (IND)
 
 [INFO] Event: Nepal Premier League, 2026
-[INFO] Date: 06/11/2026
-[INFO] Time: 13:45
+[INFO] Date: 07/11/2026
+[INFO] Time: 17:45
 [INFO] Streams Found: 3
 [DRM] NPL LIVE - AQ
 [HLS] Cricfy HD
@@ -128,7 +130,7 @@
 [HLS] Low
 
 [INFO] Event: Test Series
-[INFO] Date: 06/11/2026
+[INFO] Date: 07/11/2026
 [INFO] Time: 13:00
 [INFO] Streams Found: 5
 [DRM] WILLOW FHD
@@ -136,39 +138,6 @@
 [DRM] WILLOW ALT
 [DRM] FANCODE SD
 [HLS] FANCODE (IND)
-
-[INFO] Event: U19 Asia Cup
-[INFO] Date: 06/11/2026
-[INFO] Time: 12:00
-[INFO] Streams Found: 4
-[DRM] WILLOW - AQ
-[DRM] SonyLiv PRIME - AQ
-[DRM] WILLOW ALT - AQ
-[HLS] SonyLiv (Asia)
-
-[INFO] Event: U19 Asia Cup
-[INFO] Date: 06/11/2026
-[INFO] Time: 12:00
-[INFO] Streams Found: 4
-[DRM] WILLOW  - AQ
-[DRM] SonyLiv PRIME - AQ
-[DRM] WILLOW ALT - AQ
-[HLS] SonyLiv (Asia)
-
-[INFO] Event: Women's Big Bash League
-[INFO] Date: 06/11/2026
-[INFO] Time: 15:10
-[INFO] Streams Found: 4
-[DRM] WILLOW - AQ
-[DRM] WILLOW ALT - AQ
-[HLS] SK CRICKET FHD
-[HLS] TAPMAD
-
-[INFO] Event: Women's Big Bash League
-[INFO] Date: 07/11/2026
-[INFO] Time: 15:10
-[INFO] Streams Found: 1
-[HLS] Link 1
 
 [INFO] Event: U19 Asia Cup
 [INFO] Date: 07/11/2026
@@ -394,12 +363,13 @@
 
 [INFO] Event: Tennis  Evento
 [INFO] Date: 06/11/2026
-[INFO] Time: 17:00
-[INFO] Streams Found: 4
+[INFO] Time: 20:00
+[INFO] Streams Found: 5
 [DRM] beIN ENGLISH - AQ
 [DRM] SK TOP EVENT - AQ
 [DRM] SK TOP EVENT ALT - AQ
 [DRM] TENNIS 2 - AQ
+[HLS] Hong Kong
 
 [INFO] Event: NHL
 [INFO] Date: 07/11/2026
@@ -473,5 +443,11 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=66
-[SUMMARY] Streams=145
+[INFO] Event: WBBL | Womens Big Bash League
+[INFO] Date: 07/11/2026
+[INFO] Time: 11:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=63
+[SUMMARY] Streams=136
