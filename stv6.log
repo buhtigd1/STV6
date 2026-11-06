@@ -178,26 +178,32 @@
 [INFO] Event: Ligue 1
 [INFO] Date: 07/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] beIN ENGLISH - AQ
+[DRM] CazéTV - AQ
+[HLS] Cricfy HD
 
 [INFO] Event: Serie A
 [INFO] Date: 07/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] beIN ENGLISH  - AQ
+[DRM] SPORT 1 CZ - AQ
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Premier League
 [INFO] Date: 07/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] SK SPORT PL - AQ
+[DRM] FUBO SPORTS - AQ
 
 [INFO] Event: Liga Portugal Betclic
 [INFO] Date: 07/11/2026
 [INFO] Time: 03:45
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: Premier League
 [INFO] Date: 07/11/2026
@@ -209,31 +215,37 @@
 [INFO] Date: 07/11/2026
 [INFO] Time: 02:45
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] TNT SPORTS - AQ
 
 [INFO] Event: Trendyol Süper Lig
 [INFO] Date: 07/11/2026
 [INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: LaLiga
 [INFO] Date: 07/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] PREMIER SPORTS - AQ
+[DRM] FANCODE - AQ
+[DRM] CazéTV - AQ
 
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 07/11/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] beIN ENGLISH - AQ
+[HLS] Low
 
 [INFO] Event: Bundesliga
 [INFO] Date: 07/11/2026
 [INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] SKY TOP EVENT - AQ
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: LaLiga
 [INFO] Date: 07/11/2026
@@ -244,20 +256,21 @@
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 07/11/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] beIN ENGLISH - AQ
+[HLS] Low
 
 [INFO] Event: VriendenLoterij Eredivisie
 [INFO] Date: 07/11/2026
 [INFO] Time: 02:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: Championship
 [INFO] Date: 07/11/2026
 [INFO] Time: 03:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] beIN ENGLISH  - AQ
 
 [INFO] Event: Serie A
 [INFO] Date: 07/11/2026
@@ -393,61 +406,76 @@
 [INFO] Date: 07/11/2026
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 07/11/2026
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 07/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 07/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 07/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 07/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 07/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 07/11/2026
 [INFO] Time: 07:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 07/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: WBBL | Womens Big Bash League
 [INFO] Date: 07/11/2026
 [INFO] Time: 11:30
+[INFO] Streams Found: 4
+[DRM] WILLOW - FHD
+[HLS] SKY CRICKET FHD
+[DRM] WILLOW - ALT
+[HLS] TAPMAD - FHD
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 07/11/2026
+[INFO] Time: 06:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=63
-[SUMMARY] Streams=136
+[INFO] Event: LaLiga 2
+[INFO] Date: 07/11/2026
+[INFO] Time: 02:30
+[INFO] Streams Found: 1
+[DRM] LaLiga Hypermotion  - AQ
+
+[SUMMARY] Events=65
+[SUMMARY] Streams=154
