@@ -2,9 +2,9 @@
 [INFO] Date: 07/11/2026
 [INFO] Time: 09:00
 [INFO] Streams Found: 13
-[DRM] WILLOW - AQ
-[DRM] PRIME ENG - AQ
+[DRM] PRIME VIDEO (ENG)
 [DRM] PRIME HINDI - AQ
+[DRM] WILLOW - FHD
 [DRM] Willow - ALT
 [DRM] TNT SPORTS - AQ
 [HLS] CRICBUZZ
@@ -17,8 +17,8 @@
 [HLS] Low
 
 [INFO] Event: MotoGP
-[INFO] Date: 06/11/2026
-[INFO] Time: 19:45
+[INFO] Date: 07/11/2026
+[INFO] Time: 21:00
 [INFO] Streams Found: 8
 [DRM] TNT SPORTS - AQ
 [DRM] FANCODE - AQ
@@ -41,8 +41,8 @@
 [HLS] Low
 
 [INFO] Event: Formula 1
-[INFO] Date: 06/11/2026
-[INFO] Time: 22:30
+[INFO] Date: 07/11/2026
+[INFO] Time: 12:00
 [INFO] Streams Found: 12
 [DRM] FANCODE - AQ
 [DRM] SporTV BR - AQ
@@ -58,7 +58,7 @@
 [HLS] Low
 
 [INFO] Event: WWE Friday Night SmackDown
-[INFO] Date: 07/11/2026
+[INFO] Date: 14/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 6
 [HLS] Cricfy WWE
@@ -119,8 +119,8 @@
 [HLS] Backup
 
 [INFO] Event: ISL
-[INFO] Date: 06/11/2026
-[INFO] Time: 21:00
+[INFO] Date: 07/11/2026
+[INFO] Time: 18:30
 [INFO] Streams Found: 6
 [DRM] PRIME VIDEO - AQ
 [HLS] HD QUALITY
@@ -129,21 +129,12 @@
 [HLS] Cricfy Live
 [HLS] Low
 
-[INFO] Event: Test Series
-[INFO] Date: 07/11/2026
-[INFO] Time: 13:00
-[INFO] Streams Found: 5
-[DRM] WILLOW FHD
-[DRM] FANCODE FHD
-[DRM] WILLOW ALT
-[DRM] FANCODE SD
-[HLS] FANCODE (IND)
-
 [INFO] Event: U19 Asia Cup
 [INFO] Date: 07/11/2026
 [INFO] Time: 12:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] WILLOW - AQ
+[DRM] WILLOW  ALT - AQ
 
 [INFO] Event: U19 Asia Cup
 [INFO] Date: 08/11/2026
@@ -172,38 +163,10 @@
 [INFO] Event: U19 Asia Cup
 [INFO] Date: 07/11/2026
 [INFO] Time: 12:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Ligue 1
-[INFO] Date: 07/11/2026
-[INFO] Time: 02:45
 [INFO] Streams Found: 3
-[DRM] beIN ENGLISH - AQ
-[DRM] CazéTV - AQ
-[HLS] Cricfy HD
-
-[INFO] Event: Serie A
-[INFO] Date: 07/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 4
-[DRM] beIN ENGLISH  - AQ
-[DRM] SPORT 1 CZ - AQ
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: Premier League
-[INFO] Date: 07/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 2
-[DRM] SK SPORT PL - AQ
-[DRM] FUBO SPORTS - AQ
-
-[INFO] Event: Liga Portugal Betclic
-[INFO] Date: 07/11/2026
-[INFO] Time: 03:45
-[INFO] Streams Found: 1
-[HLS] Low
+[DRM] WILLOW  - AQ
+[DRM] WILLOW  ALT - AQ
+[HLS] SonyLiv (ENG)
 
 [INFO] Event: Premier League
 [INFO] Date: 07/11/2026
@@ -211,66 +174,11 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: FA Cup
-[INFO] Date: 07/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[DRM] TNT SPORTS - AQ
-
-[INFO] Event: Trendyol Süper Lig
-[INFO] Date: 07/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: LaLiga
-[INFO] Date: 07/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 3
-[DRM] PREMIER SPORTS - AQ
-[DRM] FANCODE - AQ
-[DRM] CazéTV - AQ
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 07/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 2
-[DRM] beIN ENGLISH - AQ
-[HLS] Low
-
-[INFO] Event: Bundesliga
-[INFO] Date: 07/11/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 3
-[DRM] SKY TOP EVENT - AQ
-[HLS] Cricfy HD
-[HLS] Low
-
 [INFO] Event: LaLiga
 [INFO] Date: 07/11/2026
 [INFO] Time: 20:00
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 07/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 2
-[DRM] beIN ENGLISH - AQ
-[HLS] Low
-
-[INFO] Event: VriendenLoterij Eredivisie
-[INFO] Date: 07/11/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: Championship
-[INFO] Date: 07/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[DRM] beIN ENGLISH  - AQ
 
 [INFO] Event: Serie A
 [INFO] Date: 07/11/2026
@@ -375,8 +283,8 @@
 [HLS] Link 1
 
 [INFO] Event: Tennis  Evento
-[INFO] Date: 06/11/2026
-[INFO] Time: 20:00
+[INFO] Date: 07/11/2026
+[INFO] Time: 13:00
 [INFO] Streams Found: 5
 [DRM] beIN ENGLISH - AQ
 [DRM] SK TOP EVENT - AQ
@@ -384,98 +292,238 @@
 [DRM] TENNIS 2 - AQ
 [HLS] Hong Kong
 
-[INFO] Event: NHL
-[INFO] Date: 07/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 07/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 07/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: NBA
 [INFO] Date: 07/11/2026
 [INFO] Time: 10:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[HLS] CricFy HD
 [TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 07/11/2026
 [INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 07/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 07/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 07/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 07/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 07/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 07/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 07/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[HLS] CricFy HD
 [TOKEN_API] NBA (embed)
 
 [INFO] Event: WBBL | Womens Big Bash League
 [INFO] Date: 07/11/2026
-[INFO] Time: 11:30
+[INFO] Time: 15:10
 [INFO] Streams Found: 4
 [DRM] WILLOW - FHD
 [HLS] SKY CRICKET FHD
 [DRM] WILLOW - ALT
 [HLS] TAPMAD - FHD
 
-[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Event: Test Series
 [INFO] Date: 07/11/2026
-[INFO] Time: 06:00
+[INFO] Time: 13:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Women's Big Bash League
+[INFO] Date: 07/11/2026
+[INFO] Time: 15:10
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 07/11/2026
+[INFO] Time: 17:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: 2. Bundesliga
+[INFO] Date: 07/11/2026
+[INFO] Time: 19:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: 2. Bundesliga
+[INFO] Date: 07/11/2026
+[INFO] Time: 19:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: 2. Bundesliga
+[INFO] Date: 07/11/2026
+[INFO] Time: 19:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 07/11/2026
+[INFO] Time: 19:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 07/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 07/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 07/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 07/11/2026
+[INFO] Time: 19:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 07/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 07/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 07/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 07/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 07/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 07/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 07/11/2026
+[INFO] Time: 19:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 07/11/2026
+[INFO] Time: 22:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Liga Portugal Betclic
+[INFO] Date: 07/11/2026
+[INFO] Time: 22:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 07/11/2026
+[INFO] Time: 22:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 07/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 07/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 08/11/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Scottish Premiership
+[INFO] Date: 08/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 08/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Liga Portugal Betclic
+[INFO] Date: 08/11/2026
+[INFO] Time: 03:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: FA Cup
+[INFO] Date: 08/11/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Liga Portugal Betclic
+[INFO] Date: 08/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 08/11/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: 2. Bundesliga
+[INFO] Date: 08/11/2026
 [INFO] Time: 02:30
 [INFO] Streams Found: 1
-[DRM] LaLiga Hypermotion  - AQ
+[HLS] Link 1
 
-[SUMMARY] Events=65
-[SUMMARY] Streams=154
+[INFO] Event: Scottish Premiership
+[INFO] Date: 08/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 08/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: FA Cup
+[INFO] Date: 08/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: VriendenLoterij Eredivisie
+[INFO] Date: 08/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=75
+[SUMMARY] Streams=152
