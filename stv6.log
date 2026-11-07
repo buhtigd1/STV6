@@ -128,33 +128,10 @@
 [INFO] Event: Serie A
 [INFO] Date: 08/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 2
-[DRM] CBS SPORTS FHD
-[DRM] SPORT 1 CZ FHD
-
-[INFO] Event: Bundesliga
-[INFO] Date: 08/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: LaLiga
-[INFO] Date: 07/11/2026
-[INFO] Time: 22:15
-[INFO] Streams Found: 6
-[DRM] DAZN SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] D SPORTS FHD
-[DRM] CazéTV FHD
-[HLS] ESPN DEPORTES HD
-[HLS] Low
-
-[INFO] Event: Serie A
-[INFO] Date: 08/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 6
+[INFO] Streams Found: 7
 [DRM] PARAMOUNT+ FHD
-[DRM] DAZN ITALIA FHD
+[DRM] FUBO SPORTS FHD
+[DRM] DAZN DE FHD
 [DRM] PEACOCK FHD
 [DRM] CBS SPORTS FHD
 [DRM] SPORT 1 CZ FHD
@@ -163,47 +140,22 @@
 [INFO] Event: LaLiga
 [INFO] Date: 08/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Premier League
-[INFO] Date: 08/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 8
-[DRM] PEACOCK ENG FHD
-[DRM] NBC SPORTS FHD
-[DRM] SK SPORT PL FHD
-[DRM] FUBO SPORTS FHD
-[HLS] NBC SPORTS HD
-[HLS] SK SPORTS EPL
-[HLS] Cricfy Live
+[INFO] Streams Found: 7
+[DRM] DAZN SPORTS FHD
+[DRM] beIN ENGLISH FHD
+[DRM] FANCODE FHD
+[DRM] D SPORTS FHD
+[DRM] CazéTV FHD
+[DRM] FANCODE SD
 [HLS] Low
 
 [INFO] Event: Ligue 1
 [INFO] Date: 08/11/2026
 [INFO] Time: 03:05
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: LaLiga
-[INFO] Date: 08/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 7
-[DRM] DAZN SPORTS FHD
-[DRM] PREMIER SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] CazéTV FHD
-[HLS] Low
-[DRM] FANCODE FHD
-[HLS] ESPN DEPORTES HD
-
-[INFO] Event: Ligue 1
-[INFO] Date: 08/11/2026
-[INFO] Time: 01:00
 [INFO] Streams Found: 3
 [DRM] beIN ENGLISH FHD
+[DRM] beIN Español FHD
 [DRM] CazéTV FHD
-[HLS] Low
 
 [INFO] Event: Tennis  Evento
 [INFO] Date: 07/11/2026
@@ -234,72 +186,12 @@
 [HLS] A SPORTS HD
 [HLS] FANCODE (IND)
 
-[INFO] Event: LaLiga 2
-[INFO] Date: 07/11/2026
-[INFO] Time: 22:15
-[INFO] Streams Found: 2
-[DRM] LaLiga Hypermotion  FHD
-[HLS] Low
-
-[INFO] Event: Liga Portugal Betclic
-[INFO] Date: 07/11/2026
-[INFO] Time: 22:30
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: VriendenLoterij Eredivisie
-[INFO] Date: 07/11/2026
-[INFO] Time: 22:30
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: Trendyol Süper Lig
-[INFO] Date: 07/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 2
-[DRM] beIN ENGLISH FHD
-[HLS] Low
-
-[INFO] Event: Trendyol Süper Lig
-[INFO] Date: 07/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 08/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 2
-[DRM] LaLiga Hypermotion
-[HLS] Low
-
-[INFO] Event: Scottish Premiership
-[INFO] Date: 08/11/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 4
-[DRM] beIN ENGLISH FHD
-[DRM] SportDigital Fussball FHD
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: VriendenLoterij Eredivisie
-[INFO] Date: 08/11/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
 [INFO] Event: Liga Portugal Betclic
 [INFO] Date: 08/11/2026
 [INFO] Time: 03:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: FA Cup
-[INFO] Date: 08/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 1
-[DRM] TNT SPORTS FHD
+[INFO] Streams Found: 2
+[DRM] SportDigital Fussball
+[DRM] D SPORTS FHD
 
 [INFO] Event: Liga Portugal Betclic
 [INFO] Date: 08/11/2026
@@ -307,42 +199,35 @@
 [INFO] Streams Found: 1
 [HLS] Low
 
-[INFO] Event: LaLiga 2
-[INFO] Date: 08/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 2
-[DRM] LaLiga Hypermotion
-[HLS] Low
-
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 08/11/2026
 [INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] DAZN SPORTS FHD
+[DRM] SKY BUNDESLIGA FHD
+[HLS] Low
 
 [INFO] Event: Scottish Premiership
 [INFO] Date: 08/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: LaLiga
-[INFO] Date: 08/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] PARAMOUNT+ FHD
+[DRM] beIN ENGLISH FHD
+[HLS] Low
 
 [INFO] Event: FA Cup
 [INFO] Date: 08/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] DAZN SPORTS FHD
+[DRM] TNT SPORTS FHD
+[HLS] Low
 
 [INFO] Event: VriendenLoterij Eredivisie
 [INFO] Date: 08/11/2026
 [INFO] Time: 03:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: One Day International
 [INFO] Date: 10/11/2026
@@ -374,13 +259,5 @@
 [HLS] Cricfy HD
 [HLS] Cricfy Live
 
-[INFO] Event: WWE Crown Jewel
-[INFO] Date: 08/11/2026
-[INFO] Time: 00:35
-[INFO] Streams Found: 3
-[HLS] WWE LIVE FHD
-[HLS] CricFy HD
-[HLS] HD QUALITY
-
-[SUMMARY] Events=45
-[SUMMARY] Streams=159
+[SUMMARY] Events=27
+[SUMMARY] Streams=126
