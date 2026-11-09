@@ -1,6 +1,6 @@
 [INFO] Event: MotoGP
-[INFO] Date: 08/11/2026
-[INFO] Time: 23:00
+[INFO] Date: 20/11/2026
+[INFO] Time: 17:45
 [INFO] Streams Found: 9
 [DRM] TNT SPORTS FHD
 [DRM] FANCODE FHD
@@ -24,8 +24,8 @@
 [HLS] Low
 
 [INFO] Event: Formula 1
-[INFO] Date: 08/11/2026
-[INFO] Time: 23:55
+[INFO] Date: 20/11/2026
+[INFO] Time: 07:30
 [INFO] Streams Found: 14
 [DRM] FANCODE - AQ
 [DRM] SK SPORT F1 FHD
@@ -56,19 +56,21 @@
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 09/11/2026
 [INFO] Time: 10:30
-[INFO] Streams Found: 6
+[INFO] Streams Found: 7
 [DRM] FANCODE FHD
 [HLS] TAPMAD FHD
 [HLS] T SPORTS HD
 [DRM] FANCODE SD
 [HLS] T SPORTS SD
 [HLS] FANCODE (IND)
+[HLS] TAPMAD HD
 
 [INFO] Event: Nepal Premier League, 2026
 [INFO] Date: 09/11/2026
 [INFO] Time: 13:45
-[INFO] Streams Found: 3
+[INFO] Streams Found: 4
 [DRM] NPL LIVE FHD
+[DRM] NPL LIVE SD
 [HLS] Cricfy HD
 [HLS] FANCODE (IND)
 
@@ -114,7 +116,7 @@
 
 [INFO] Event: Tennis  Evento
 [INFO] Date: 09/11/2026
-[INFO] Time: 03:00
+[INFO] Time: 11:45
 [INFO] Streams Found: 4
 [DRM] beIN ENGLISH FHD
 [DRM] TSN5 SPORTS FHD
@@ -165,20 +167,29 @@
 [INFO] Event: U19 Asia Cup
 [INFO] Date: 09/11/2026
 [INFO] Time: 12:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] WILLOW FHD
+[DRM] SonyLiv PRIME FHD
+[DRM] WILLOW ALT
+[HLS] SonyLiv
 
 [INFO] Event: U19 Asia Cup
 [INFO] Date: 09/11/2026
 [INFO] Time: 12:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] WILLOW FHD
+[DRM] SonyLiv PRIME FHD
+[DRM] WILLOW ALT
+[HLS] SonyLiv
 
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 09/11/2026
 [INFO] Time: 11:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] Willow FHD
+[DRM] WILLOW ALT
+[HLS] PTV SPORTS HD
+[HLS] TAPMAD FHD
 
 [INFO] Event: One Day International
 [INFO] Date: 13/11/2026
@@ -187,8 +198,8 @@
 [HLS] Link 1
 
 [INFO] Event: NFL Redzone
-[INFO] Date: 09/11/2026
-[INFO] Time: 00:55
+[INFO] Date: 16/11/2026
+[INFO] Time: 01:00
 [INFO] Streams Found: 7
 [DRM] RedZone - Week 9
 [DRM] REDZONE FHD
@@ -198,5 +209,29 @@
 [HLS] CRFY Stream
 [HLS] Low
 
-[SUMMARY] Events=20
-[SUMMARY] Streams=100
+[INFO] Event: U19 Asia Cup
+[INFO] Date: 10/11/2026
+[INFO] Time: 12:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U19 Asia Cup
+[INFO] Date: 10/11/2026
+[INFO] Time: 12:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 10/11/2026
+[INFO] Time: 02:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: FA Cup
+[INFO] Date: 10/11/2026
+[INFO] Time: 02:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=24
+[SUMMARY] Streams=115

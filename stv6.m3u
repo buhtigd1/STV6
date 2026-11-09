@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",23:00 - MotoGP | TNT SPORTS FHD
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",17:45 - MotoGP | TNT SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -8,21 +8,21 @@
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",23:00 - MotoGP | FANCODE FHD
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",17:45 - MotoGP | FANCODE FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",23:00 - MotoGP | SPOTV  FHD
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",17:45 - MotoGP | SPOTV  FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",23:00 - MotoGP | MotoGP FHD
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",17:45 - MotoGP | MotoGP FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -30,26 +30,26 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",23:00 - MotoGP | SK SPORT MIX FHD
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",17:45 - MotoGP | SK SPORT MIX FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",23:00 - MotoGP | MOTO Cricfy
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",17:45 - MotoGP | MOTO Cricfy
 #KODIPROP:http-referrer=https://gooz.aapmains.net/
 https://chatgpt.hereisman.net/playlist/57392/load-playlist.m3u8?
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",23:00 - MotoGP | Cricfy HD
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",17:45 - MotoGP | Cricfy HD
 #KODIPROP:http-referrer=http://fawanews.sc/
 https://tedesco.formaturamaxi.com.br/f1.m3u8
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",23:00 - MotoGP | MotoGP Qatar
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",17:45 - MotoGP | MotoGP Qatar
 #KODIPROP:http-referrer=https://gooz.aapmains.net/
 https://chatgpt.hereisman.net/playlist/59363/load-playlist.m3u8?
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",23:00 - MotoGP | Low
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",17:45 - MotoGP | Low
 #KODIPROP:http-referrer=http://fawanews.sc/
 http://193.47.62.44/hls/ziii.m3u8
 
@@ -82,7 +82,7 @@ https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636
 #KODIPROP:http-referrer=https://gooz.aapmains.net/
 https://chatgpt.hereisman.net/playlist/58874/load-playlist.m3u8?
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | FANCODE - AQ
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | FANCODE - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -90,21 +90,21 @@ https://chatgpt.hereisman.net/playlist/58874/load-playlist.m3u8?
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | SK SPORT F1 FHD
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | SK SPORT F1 FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l1pw9fzori/out/v1/68469cf8a4ba49608a0e0fab18d45aee/cenc.mpd
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | SK TOP EVENT FHD
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | SK TOP EVENT FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | SporTV BR FHD
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | SporTV BR FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -112,36 +112,36 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | FANCODE SD
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | FANCODE SD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | CGPT LIVE
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | CGPT LIVE
 #KODIPROP:http-referrer=https://gooz.aapmains.net/
 https://chatgpt.hereisman.net/playlist/59362/load-playlist.m3u8?
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | CGPT ALT
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | CGPT ALT
 #KODIPROP:http-referrer=https://gooz.aapmains.net/
 https://chatgpt.hereisman.net/playlist/59362/load-playlist.m3u8?
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | SK sports F1
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | SK sports F1
 https://admin2.formaturamaxi.com.br/f1.m3u8
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | RUSSIA FEED
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | RUSSIA FEED
 #KODIPROP:http-user-agent=Mozilla
 https://bl.rutube.ru/livestream/d11d0145804d4321a677aacb62984de8/index.m3u8?s=k9d3abxTJHkJWs65bDRXjg&e=1791806247&scheme=https
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | SportCast
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | SportCast
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58464152-0ce6-4e18-a3c1-393ba5669a09/master.m3u8
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | Cricfy Live
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | Cricfy Live
 #KODIPROP:http-referrer=http://fawanews.sc/
 https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/01d9a0cb-902a-4045-bc6c-7672230a7cfd/master.m3u8
 
-#EXTINF:-1 group-title="08/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",23:55 - Formula 1 | Low
+#EXTINF:-1 group-title="20/11/2026" tvg-logo="https://scdnmain.net/assets/tournament/40-c.png",07:30 - Formula 1 | Low
 #KODIPROP:http-referrer=http://fawanews.sc/
 http://193.47.62.44/hls/EAEAEAAAAAA.m3u8
 
@@ -170,7 +170,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 
 #EXTINF:-1 group-title="09/11/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",10:30 - ICC World Test Championship | TAPMAD FHD
 #KODIPROP:http-referrer=https://tapmad.com/
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+https://multiregion-asia-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8?
 
 #EXTINF:-1 group-title="09/11/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",10:30 - ICC World Test Championship | T SPORTS HD
 http://103.16.24.4:8083/14.m3u8
@@ -190,12 +190,24 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #KODIPROP:http-referrer=https://fancode.com/
 https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458425280_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",10:30 - ICC World Test Championship | TAPMAD HD
+#KODIPROP:http-referrer=https://tapmad.com/
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8?
+
 #EXTINF:-1 group-title="09/11/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",13:45 - Nepal Premier League, 2026 | NPL LIVE FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://ott-lb.nettv.com.np/npl/live_match/index.mpd
+
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",13:45 - Nepal Premier League, 2026 | NPL LIVE SD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 group-title="09/11/2026" tvg-logo="https://sportzfyhd.org/wp-content/uploads/2026/10/NPL.webp",13:45 - Nepal Premier League, 2026 | Cricfy HD
 http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
@@ -296,14 +308,14 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive0711/BEN/std_lrh
 #KODIPROP:http-x-playback-session-id=55d1c3519fa130d9ef3a140f2050099d-1794058203021
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6HCGvfwZ7-OXmPZijYh0NP1qqN5uYC6rdd5HQr_yNQ&s",03:00 - Tennis  Evento | beIN ENGLISH FHD
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6HCGvfwZ7-OXmPZijYh0NP1qqN5uYC6rdd5HQr_yNQ&s",11:45 - Tennis  Evento | beIN ENGLISH FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6HCGvfwZ7-OXmPZijYh0NP1qqN5uYC6rdd5HQr_yNQ&s",03:00 - Tennis  Evento | TSN5 SPORTS FHD
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6HCGvfwZ7-OXmPZijYh0NP1qqN5uYC6rdd5HQr_yNQ&s",11:45 - Tennis  Evento | TSN5 SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -311,14 +323,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6HCGvfwZ7-OXmPZijYh0NP1qqN5uYC6rdd5HQr_yNQ&s",03:00 - Tennis  Evento | SK TOP EVENT ALT
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6HCGvfwZ7-OXmPZijYh0NP1qqN5uYC6rdd5HQr_yNQ&s",11:45 - Tennis  Evento | SK TOP EVENT ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8d550a86ee5c31e6b62f5fa287db43d:11184b37c42d384033b966dbea535b4f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymojggb3li/out/v1/4e528b82e63f499c886b3a34e89eaf9b/cenc.mpd
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6HCGvfwZ7-OXmPZijYh0NP1qqN5uYC6rdd5HQr_yNQ&s",03:00 - Tennis  Evento | TENNIS CHANNEL 2
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA6HCGvfwZ7-OXmPZijYh0NP1qqN5uYC6rdd5HQr_yNQ&s",11:45 - Tennis  Evento | TENNIS CHANNEL 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -359,15 +371,15 @@ https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f6cef23a9b2d9b21e04cd96753f7d01:3f260e0025a8b3273ece982cff0562e0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d006e8b41e37c259818c8d491904d3e7:2f7eceaab743d906957b9958152c8972
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd
 
 #EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",13:00 - Test Series | WILLOW ALT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f6cef23a9b2d9b21e04cd96753f7d01:3f260e0025a8b3273ece982cff0562e0
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0anti1gqwp/out/v1/318c6b0fc3184ab3aced919fccc017f9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d006e8b41e37c259818c8d491904d3e7:2f7eceaab743d906957b9958152c8972
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd
 
 #EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",13:00 - Test Series | A SPORTS HD
 https://live.msnetworks.net/a-sports/master.m3u8
@@ -375,7 +387,7 @@ https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",13:00 - Test Series | FANCODE (IND)
 #KODIPROP:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #KODIPROP:http-referrer=https://fancode.com/
-https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83418752_1ta-di_h264/index.m3u8
+https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf8341075_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="10/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",09:00 - One Day International | PRIME ENG FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -455,26 +467,96 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",20:45 - Abu Dhabi T10 League | A SPORTS HD
 https://live.msnetworks.net/a-sports/master.m3u8
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | WILLOW FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94c450ba03f839dd6175a412dfefde4c:4a374f703bfce7300320f01e4791f432
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oeuezuu9ni/out/v1/691776d1daca435596877bab1ae167e3/cenc.mpd
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | SonyLiv PRIME FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef8ec3d7781779ed00ee749237c093c4:f6dd88b99050c805e2e84e5005169300
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lmd0oo0ics/out/v1/a58b8300d49c4d28b80c38c6a1de142d/cenc.mpd
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",11:30 - ICC World Test Championship | Link 1
-http://cricfy-tv.net/promo/cricfy-promo.m3u8
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | WILLOW ALT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94c450ba03f839dd6175a412dfefde4c:4a374f703bfce7300320f01e4791f432
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oeuezuu9ni/out/v1/691776d1daca435596877bab1ae167e3/cenc.mpd
+
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | SonyLiv
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#KODIPROP:http-referrer=https://www.sonyliv.com/
+#KODIPROP:http-origin=https://www.sonyliv.com
+#KODIPROP:http-x-playback-session-id=ffb60155174015ded1320c80619f6bb3-1794198603263
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8
+
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | WILLOW FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73de12852269196bb475042be070e659:2d30fe5b6f743afc0e6b0babb86ac70d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o4trsdzewu/out/v1/7aea1afda5854baaba3ddeb967f79fb6/cenc.mpd
+
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | SonyLiv PRIME FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95903984c253e3fd47b112b72166caea:1283b49097f2481707da62f95b1d02ca
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mipdvyxmgk/out/v1/5b1fe1ff59024887a998945d1fcef329/cenc.mpd
+
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | WILLOW ALT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73de12852269196bb475042be070e659:2d30fe5b6f743afc0e6b0babb86ac70d
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o4trsdzewu/out/v1/7aea1afda5854baaba3ddeb967f79fb6/cenc.mpd
+
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | SonyLiv
+#KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#KODIPROP:http-referrer=https://www.sonyliv.com/
+#KODIPROP:http-origin=https://www.sonyliv.com
+#KODIPROP:http-x-playback-session-id=ffb60155174015ded1320c80619f6bb3-1794198603263
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8
+
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",11:30 - ICC World Test Championship | Willow FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71de63b5c5236b41d3289458a0d3612e:91e5a59da86b054fef6a06ab6da82935
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd
+
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",11:30 - ICC World Test Championship | WILLOW ALT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71de63b5c5236b41d3289458a0d3612e:91e5a59da86b054fef6a06ab6da82935
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd
+
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",11:30 - ICC World Test Championship | PTV SPORTS HD
+https://live.msnetworks.net/ptv-sports/master.m3u8
+
+#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",11:30 - ICC World Test Championship | TAPMAD FHD
+#KODIPROP:http-referrer=https://tapmad.com/
+https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 
 #EXTINF:-1 group-title="13/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",10:30 - One Day International | Link 1
 http://cricfy-tv.net/promo/cricfy-promo.m3u8
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",00:55 - NFL Redzone | RedZone - Week 9
+#EXTINF:-1 group-title="16/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",01:00 - NFL Redzone | RedZone - Week 9
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff4a1e48d06619919d2d36ebdb2b67fb:0a6d7d953cd47b8261ac14dc13916182
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lz1p95hcxk/out/v1/d5f91ece0e304a1283b28266a072ddc2/cenc.mpd
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",00:55 - NFL Redzone | REDZONE FHD
+#EXTINF:-1 group-title="16/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",01:00 - NFL Redzone | REDZONE FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -482,24 +564,36 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lz1p95hcxk/
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",00:55 - NFL Redzone | NFL RedZone HD
+#EXTINF:-1 group-title="16/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",01:00 - NFL Redzone | NFL RedZone HD
 #KODIPROP:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/59065/load-playlist?
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",00:55 - NFL Redzone | Cricfy HD
+#EXTINF:-1 group-title="16/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",01:00 - NFL Redzone | Cricfy HD
 #KODIPROP:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/59029/load-playlist?
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",00:55 - NFL Redzone | Cricfy Live
+#EXTINF:-1 group-title="16/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",01:00 - NFL Redzone | Cricfy Live
 #KODIPROP:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/59028/load-playlist?
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",00:55 - NFL Redzone | CRFY Stream
+#EXTINF:-1 group-title="16/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",01:00 - NFL Redzone | CRFY Stream
 #KODIPROP:http-referrer=https://gooz.aapmains.net
 https://chatgpt.hereisman.net/playlist/59065/load-playlist?
 
-#EXTINF:-1 group-title="09/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",00:55 - NFL Redzone | Low
+#EXTINF:-1 group-title="16/11/2026" tvg-logo="https://static.flashscore.com/res/image/data/W6t8omXI-prCDKdX1.png",01:00 - NFL Redzone | Low
 #KODIPROP:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #KODIPROP:http-referrer=http://www.fawanews.sc/
 #KODIPROP:http-origin=http://www.fawanews.sc
 http://193.47.62.44/hls/kikikiAAAA.m3u8
+
+#EXTINF:-1 group-title="10/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | Link 1
+http://cricfy-tv.net/promo/cricfy-promo.m3u8
+
+#EXTINF:-1 group-title="10/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11486/image/dark",12:00 - U19 Asia Cup | Link 1
+http://cricfy-tv.net/promo/cricfy-promo.m3u8
+
+#EXTINF:-1 group-title="10/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",02:30 - LaLiga 2 | Link 1
+http://cricfy-tv.net/promo/cricfy-promo.m3u8
+
+#EXTINF:-1 group-title="10/11/2026" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19/image/dark",02:30 - FA Cup | Link 1
+http://cricfy-tv.net/promo/cricfy-promo.m3u8
