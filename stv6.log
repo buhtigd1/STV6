@@ -1,3 +1,33 @@
+[INFO] Event: One Day International
+[INFO] Date: 10/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 10
+[DRM] PRIME ENG FHD
+[DRM] WILLOW FHD
+[DRM] PRIME HINDI FHD
+[DRM] TNT SPORTS FHD
+[DRM] WILLOW  ALT
+[HLS] SonyLiv (ENG)
+[HLS] SonyLiv (HIN)
+[HLS] SonyLiv (TEL)
+[HLS] SonyLiv (TAM)
+[HLS] SonyLiv (KAN)
+
+[INFO] Event: U19 Asia Cup
+[INFO] Date: 10/11/2026
+[INFO] Time: 12:00
+[INFO] Streams Found: 4
+[DRM] WILLOW FHD
+[DRM] SonyLiv PRIME FHD
+[DRM] WILLOW ALT
+[HLS] SonyLiv (Asia)
+
+[INFO] Event: SAFF Championship
+[INFO] Date: 11/11/2026
+[INFO] Time: 16:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
 [INFO] Event: MotoGP
 [INFO] Date: 20/11/2026
 [INFO] Time: 17:45
@@ -63,7 +93,7 @@
 [HLS] FANCODE (IND)
 
 [INFO] Event: Monday Night Raw
-[INFO] Date: 10/11/2026
+[INFO] Date: 17/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 5
 [HLS] CricFy HD
@@ -113,36 +143,13 @@
 [INFO] Event: WBBL | Womens Big Bash League
 [INFO] Date: 10/11/2026
 [INFO] Time: 15:10
-[INFO] Streams Found: 5
+[INFO] Streams Found: 6
 [DRM] WILLOW FHD
 [HLS] SKY CRICKET FHD
 [DRM] WILLOW ALT
 [DRM] WILLOW HD
 [HLS] TAPMAD FHD
-
-[INFO] Event: Test Series
-[INFO] Date: 10/11/2026
-[INFO] Time: 13:00
-[INFO] Streams Found: 4
-[DRM] WILLOW FHD
-[DRM] WILLOW ALT
-[HLS] A SPORTS HD
 [HLS] FANCODE (IND)
-
-[INFO] Event: One Day International
-[INFO] Date: 10/11/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 10
-[DRM] PRIME ENG FHD
-[DRM] WILLOW FHD
-[DRM] PRIME HINDI FHD
-[DRM] TNT SPORTS FHD
-[DRM] WILLOW  ALT
-[HLS] SonyLiv (ENG)
-[HLS] SonyLiv (HIN)
-[HLS] SonyLiv (TEL)
-[HLS] SonyLiv (TAM)
-[HLS] SonyLiv (KAN)
 
 [INFO] Event: Abu Dhabi T10 League
 [INFO] Date: 10/11/2026
@@ -157,11 +164,12 @@
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 10/11/2026
 [INFO] Time: 11:30
-[INFO] Streams Found: 4
+[INFO] Streams Found: 5
 [DRM] Willow FHD
 [DRM] WILLOW ALT
 [HLS] PTV SPORTS HD
 [HLS] TAPMAD FHD
+[HLS] TAPMAD ALT
 
 [INFO] Event: One Day International
 [INFO] Date: 13/11/2026
@@ -184,85 +192,11 @@
 [INFO] Event: U19 Asia Cup
 [INFO] Date: 10/11/2026
 [INFO] Time: 12:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U19 Asia Cup
-[INFO] Date: 10/11/2026
-[INFO] Time: 12:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NBA
-[INFO] Date: 10/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT7 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 10/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 10/11/2026
-[INFO] Time: 08:30
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT13 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 10/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT16 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 10/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 5
-[TOKEN_API] beIN SPORT 1 (embed)
-[TOKEN_API] EXTRA SPORT8 (embed)
-[TOKEN_API] TNT sport arg (embed)
-[TOKEN_API] TNTCHILE Premium (embed)
-[TOKEN_API] ESPN2MX (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 10/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT6 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 10/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT9 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 10/11/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 10/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT11 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 10/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 2
-[TOKEN_API] beIN SPORT max 5 (embed)
-[TOKEN_API] EXTRA SPORT17 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 10/11/2026
-[INFO] Time: 09:30
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT15 (embed)
+[INFO] Streams Found: 4
+[DRM] WILLOW FHD
+[DRM] SonyLiv PRIME FHD
+[DRM] WILLOW ALT
+[HLS] SonyLiv (Asia)
 
 [INFO] Event: International Friendly Games
 [INFO] Date: 13/11/2026
@@ -374,12 +308,6 @@
 
 [INFO] Event: SAFF Championship
 [INFO] Date: 11/11/2026
-[INFO] Time: 16:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: SAFF Championship
-[INFO] Date: 11/11/2026
 [INFO] Time: 21:00
 [INFO] Streams Found: 1
 [HLS] Link 1
@@ -390,5 +318,23 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=51
-[SUMMARY] Streams=137
+[INFO] Event: One Day International
+[INFO] Date: 13/11/2026
+[INFO] Time: 10:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Test Series
+[INFO] Date: 13/11/2026
+[INFO] Time: 13:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: International Friendly Games
+[INFO] Date: 14/11/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=42
+[SUMMARY] Streams=128
