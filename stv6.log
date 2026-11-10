@@ -65,13 +65,12 @@
 [INFO] Event: Monday Night Raw
 [INFO] Date: 10/11/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 6
+[INFO] Streams Found: 5
 [HLS] CricFy HD
 [HLS] HD Server
-[HLS] ALT SERVER
-[HLS] CricFy Live
 [HLS] RAW LIve
 [HLS] RAW Stream
+[HLS] Low
 
 [INFO] Event: WWE NXT
 [INFO] Date: 11/11/2026
@@ -133,16 +132,17 @@
 [INFO] Event: One Day International
 [INFO] Date: 10/11/2026
 [INFO] Time: 09:00
-[INFO] Streams Found: 9
+[INFO] Streams Found: 10
 [DRM] PRIME ENG FHD
 [DRM] WILLOW FHD
 [DRM] PRIME HINDI FHD
 [DRM] TNT SPORTS FHD
 [DRM] WILLOW  ALT
-[HLS] TAPMAD FHD
 [HLS] SonyLiv (ENG)
 [HLS] SonyLiv (HIN)
+[HLS] SonyLiv (TEL)
 [HLS] SonyLiv (TAM)
+[HLS] SonyLiv (KAN)
 
 [INFO] Event: Abu Dhabi T10 League
 [INFO] Date: 10/11/2026
@@ -192,21 +192,6 @@
 [INFO] Time: 12:00
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 10/11/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 3
-[DRM] LaLiga Hypermotion
-[DRM] DAZN SPORTS FHD
-[TOKEN_API] ES LALIGA HYPERMOTION (embed)
-
-[INFO] Event: FA Cup
-[INFO] Date: 10/11/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 2
-[DRM] TNT SPORTS FHD
-[TOKEN_API] UK TNT SPORT (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 10/11/2026
@@ -387,5 +372,23 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=50
-[SUMMARY] Streams=139
+[INFO] Event: SAFF Championship
+[INFO] Date: 11/11/2026
+[INFO] Time: 16:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: SAFF Championship
+[INFO] Date: 11/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: International Friendly Games
+[INFO] Date: 12/11/2026
+[INFO] Time: 13:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=51
+[SUMMARY] Streams=137
