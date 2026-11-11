@@ -16,8 +16,9 @@
 [INFO] Event: SAFF Championship
 [INFO] Date: 11/11/2026
 [INFO] Time: 16:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] MYCO FHD
+[HLS] Cricfy HD
 
 [INFO] Event: MotoGP
 [INFO] Date: 20/11/2026
@@ -94,7 +95,7 @@
 [HLS] Low
 
 [INFO] Event: WWE NXT
-[INFO] Date: 11/11/2026
+[INFO] Date: 18/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 4
 [TOKEN_API] NXT FHD (embed)
@@ -136,7 +137,7 @@
 [INFO] Time: 15:10
 [INFO] Streams Found: 6
 [DRM] WILLOW FHD
-[HLS] SKY CRICKET FHD
+[HLS] SK CRICKET FHD
 [DRM] WILLOW ALT
 [DRM] WILLOW HD
 [HLS] TAPMAD FHD
@@ -155,12 +156,13 @@
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 11/11/2026
 [INFO] Time: 11:30
-[INFO] Streams Found: 5
+[INFO] Streams Found: 6
 [DRM] Willow FHD
 [DRM] WILLOW ALT
 [HLS] PTV SPORTS HD
 [HLS] TAPMAD FHD
 [HLS] TAPMAD ALT
+[HLS] Low
 
 [INFO] Event: One Day International
 [INFO] Date: 13/11/2026
@@ -300,93 +302,12 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: One Day International
-[INFO] Date: 13/11/2026
-[INFO] Time: 10:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: Test Series
 [INFO] Date: 13/11/2026
 [INFO] Time: 13:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: International Friendly Games
-[INFO] Date: 14/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Copa del Rey
-[INFO] Date: 11/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 2
-[HLS] CricFy
-[HLS] CricFy HD
-
-[INFO] Event: UEFA Women's Champions League
-[INFO] Date: 11/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[DRM] PARAMOUNT+ FHD
-
-[INFO] Event: UEFA Women's Champions League
-[INFO] Date: 11/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[DRM] PARAMOUNT+ FHD
-
-[INFO] Event: UEFA Women's Champions League
-[INFO] Date: 11/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[DRM] PARAMOUNT+ FHD
-
-[INFO] Event: NBA
-[INFO] Date: 11/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 2
-[TOKEN_API] NBA FHD (embed)
-[TOKEN_API] EXTRA SPORT HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 11/11/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 11/11/2026
-[INFO] Time: 11:00
-[INFO] Streams Found: 1
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 11/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 11/11/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 11/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 2
-[TOKEN_API] CricFy HD (embed)
-[DRM] Nova Sports HD
-
-[INFO] Event: NHL
-[INFO] Date: 11/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[DRM] TSN FHD
-
 [INFO] Event: NHL
 [INFO] Date: 12/11/2026
 [INFO] Time: 09:00
@@ -398,12 +319,6 @@
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 11/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[DRM] TSN 3 FHD
 
 [INFO] Event: NHL
 [INFO] Date: 12/11/2026
@@ -412,24 +327,6 @@
 [HLS] Link 1
 
 [INFO] Event: NHL
-[INFO] Date: 11/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] CricFy FHD (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 11/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] CricFy FHD (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 11/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[DRM] TSN FHD
-
-[INFO] Event: NHL
 [INFO] Date: 12/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
@@ -442,24 +339,10 @@
 [HLS] Link 1
 
 [INFO] Event: NHL
-[INFO] Date: 11/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 3
-[DRM] TSN 2 FHD
-[DRM] Nova Sports HD
-[DRM] Premier Sports HD
-
-[INFO] Event: NHL
-[INFO] Date: 11/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] CricFy FHD (embed)
-
-[INFO] Event: NHL
 [INFO] Date: 12/11/2026
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=63
-[SUMMARY] Streams=148
+[SUMMARY] Events=44
+[SUMMARY] Streams=126
