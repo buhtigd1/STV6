@@ -13,13 +13,6 @@
 [HLS] SonyLiv (TAM)
 [HLS] SonyLiv (KAN)
 
-[INFO] Event: SAFF Championship
-[INFO] Date: 11/11/2026
-[INFO] Time: 16:30
-[INFO] Streams Found: 2
-[HLS] MYCO FHD
-[HLS] Cricfy HD
-
 [INFO] Event: MotoGP
 [INFO] Date: 20/11/2026
 [INFO] Time: 17:45
@@ -154,7 +147,7 @@
 [HLS] A SPORTS HD
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 11/11/2026
+[INFO] Date: 12/11/2026
 [INFO] Time: 11:30
 [INFO] Streams Found: 6
 [DRM] Willow FHD
@@ -209,12 +202,6 @@
 [INFO] Event: UEFA Nations League
 [INFO] Date: 13/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: International Friendly Games
-[INFO] Date: 11/11/2026
-[INFO] Time: 19:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
@@ -293,8 +280,10 @@
 [INFO] Event: SAFF Championship
 [INFO] Date: 11/11/2026
 [INFO] Time: 21:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[HLS] MYCO FHD
+[HLS] Cricfy HD
+[HLS] T SPORTS HD
 
 [INFO] Event: International Friendly Games
 [INFO] Date: 12/11/2026
@@ -312,37 +301,105 @@
 [INFO] Date: 12/11/2026
 [INFO] Time: 09:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] EXTRA SPORT37 (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 12/11/2026
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] EXTRA SPORT42 (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 12/11/2026
 [INFO] Time: 09:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] NHL (embed)
+[TOKEN_API] EXTRA SPORT39 (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 12/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NHL (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 12/11/2026
 [INFO] Time: 07:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] EXTRA SPORT30 (embed)
+[TOKEN_API] beIN SPORT max 5 (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 12/11/2026
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] EXTRA SPORT41 (embed)
 
-[SUMMARY] Events=44
-[SUMMARY] Streams=126
+[INFO] Event: NBA
+[INFO] Date: 12/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 12/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 12/11/2026
+[INFO] Time: 09:30
+[INFO] Streams Found: 4
+[TOKEN_API] beIN SPORT 1 (embed)
+[TOKEN_API] EXTRA SPORT38 (embed)
+[TOKEN_API] ESPN2 (embed)
+[TOKEN_API] ESPN1MX (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 12/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] EXTRA SPORT26 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 12/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[TOKEN_API] EXTRA SPORT40 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 12/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 12/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 12/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 12/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 12/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 4
+[TOKEN_API] beIN SPORT 1 (embed)
+[TOKEN_API] EXTRA SPORT27 (embed)
+[TOKEN_API] ESPN2 (embed)
+[TOKEN_API] ESPN1MX (embed)
+
+[SUMMARY] Events=52
+[SUMMARY] Streams=143
