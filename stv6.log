@@ -279,14 +279,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: SAFF Championship
-[INFO] Date: 11/11/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 3
-[HLS] MYCO FHD
-[HLS] Cricfy HD
-[HLS] T SPORTS HD
-
 [INFO] Event: International Friendly Games
 [INFO] Date: 12/11/2026
 [INFO] Time: 13:00
@@ -324,40 +316,9 @@
 
 [INFO] Event: NHL
 [INFO] Date: 12/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 4
-[DRM] PREMIERE SPORTS FHD
-[DRM] NOVA SPORTS FHD
-[TOKEN_API] NHL (embed)
-[TOKEN_API] NHL LIVE FHD (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 12/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 3
-[TOKEN_API] EXTRA SPORT30 (embed)
-[TOKEN_API] beIN SPORT max 5 (embed)
-[TOKEN_API] NHL LIVE (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 12/11/2026
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
 [TOKEN_API] EXTRA SPORT41 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 12/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 2
-[TOKEN_API] NBA LIVE (embed)
-[TOKEN_API] CricFy Live (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 12/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 2
-[TOKEN_API] NBA LIVE (embed)
-[TOKEN_API] CricFy HD (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 12/11/2026
@@ -370,25 +331,9 @@
 
 [INFO] Event: NBA
 [INFO] Date: 12/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[TOKEN_API] EXTRA SPORT26 (embed)
-[TOKEN_API] NBA LIVE (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 12/11/2026
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
 [TOKEN_API] EXTRA SPORT40 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 12/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 4
-[DRM] TSN4 SPORTS FHD
-[DRM] TSN SPORTS FHD
-[DRM] SKY SPORTS MIX FHD
-[TOKEN_API] NBA LIVE (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 12/11/2026
@@ -396,29 +341,6 @@
 [INFO] Streams Found: 1
 [TOKEN_API] Link 1 (embed)
 
-[INFO] Event: NBA
-[INFO] Date: 12/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 12/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 12/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 6
-[TOKEN_API] ESPN DEPORTES HD (embed)
-[TOKEN_API] ESPN USA HD (embed)
-[TOKEN_API] beIN SPORT 1 (embed)
-[TOKEN_API] EXTRA SPORT27 (embed)
-[TOKEN_API] ESPN2 (embed)
-[TOKEN_API] ESPN1MX (embed)
-
 [INFO] Event: U19 Asia Cup
 [INFO] Date: 12/11/2026
 [INFO] Time: 12:00
@@ -431,5 +353,5 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=54
-[SUMMARY] Streams=163
+[SUMMARY] Events=44
+[SUMMARY] Streams=135
