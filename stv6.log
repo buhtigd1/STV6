@@ -390,9 +390,10 @@
 [INFO] Event: NBA
 [INFO] Date: 13/11/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 2
+[INFO] Streams Found: 3
+[DRM] NBA FHD
 [TOKEN_API] beIN SPORT 1 (embed)
-[TOKEN_API] EXTRA SPORT27 (embed)
+[TOKEN_API] CricFy Fast (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 14/11/2026
@@ -409,8 +410,9 @@
 [INFO] Event: NBA
 [INFO] Date: 13/11/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
+[INFO] Streams Found: 2
+[TOKEN_API] CricFy Live (embed)
+[TOKEN_API] CricFy HD (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 14/11/2026
@@ -439,8 +441,9 @@
 [INFO] Event: NHL
 [INFO] Date: 13/11/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
+[INFO] Streams Found: 2
+[TOKEN_API] CricFy Fast (embed)
+[TOKEN_API] CricFy HD (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 13/11/2026
@@ -457,13 +460,15 @@
 [INFO] Event: NHL
 [INFO] Date: 13/11/2026
 [INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
+[INFO] Streams Found: 2
+[DRM] TSN HD
+[TOKEN_API] CricFy Live (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 13/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
+[INFO] Time: 10:00
+[INFO] Streams Found: 2
+[DRM] TSN FHD
 [TOKEN_API] Link 1 (embed)
 
 [INFO] Event: NHL
@@ -493,13 +498,15 @@
 [INFO] Event: NHL
 [INFO] Date: 13/11/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
+[INFO] Streams Found: 2
+[DRM] TSN FHD
+[TOKEN_API] CricFy HD (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 13/11/2026
 [INFO] Time: 10:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[DRM] NOVA 1 FHD
 [TOKEN_API] NHL (embed)
 
 [INFO] Event: NHL
@@ -509,4 +516,4 @@
 [TOKEN_API] Link 1 (embed)
 
 [SUMMARY] Events=64
-[SUMMARY] Streams=190
+[SUMMARY] Streams=197
