@@ -1,5 +1,5 @@
 [INFO] Event: One Day International
-[INFO] Date: 13/11/2026
+[INFO] Date: 15/11/2026
 [INFO] Time: 09:00
 [INFO] Streams Found: 10
 [DRM] PRIME ENG FHD
@@ -29,7 +29,7 @@
 
 [INFO] Event: ONE Friday Fights
 [INFO] Date: 13/11/2026
-[INFO] Time: 19:00
+[INFO] Time: 20:30
 [INFO] Streams Found: 6
 [DRM] One Fight - AQ
 [DRM] WWE - AQ
@@ -69,12 +69,12 @@
 [TOKEN_API] Cricfy WWE (embed)
 
 [INFO] Event: Nepal Premier League, 2026
-[INFO] Date: 13/11/2026
-[INFO] Time: 13:45
+[INFO] Date: 14/11/2026
+[INFO] Time: 18:15
 [INFO] Streams Found: 4
 [DRM] FANCODE FHD
 [DRM] FANCODE SD
-[HLS] STAR SPORTS HD
+[TOKEN_API] STAR SPORTS HD (sp)
 [HLS] FANCODE (IND)
 
 [INFO] Event: Monday Night Raw
@@ -149,7 +149,7 @@
 [HLS] A SPORTS HD
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 13/11/2026
+[INFO] Date: 17/11/2026
 [INFO] Time: 11:30
 [INFO] Streams Found: 6
 [DRM] Willow FHD
@@ -157,18 +157,6 @@
 [HLS] PTV SPORTS HD
 [HLS] TAPMAD FHD
 [HLS] TAPMAD ALT
-[HLS] Low
-
-[INFO] Event: One Day International
-[INFO] Date: 13/11/2026
-[INFO] Time: 10:30
-[INFO] Streams Found: 7
-[DRM] WILLOW FHD
-[DRM] TNT SPORTS FHD
-[DRM] FANCODE FHD
-[DRM] WILLOW ALT
-[DRM] EUROSPORT FHD
-[DRM] WILLOW HD
 [HLS] Low
 
 [INFO] Event: NFL Redzone
@@ -194,40 +182,6 @@
 [INFO] Time: 17:15
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: Test Series
-[INFO] Date: 13/11/2026
-[INFO] Time: 13:00
-[INFO] Streams Found: 4
-[DRM] WILLOW FHD
-[DRM] WILLOW ALT
-[HLS] A SPORTS HD
-[HLS] FANCODE (IND)
-
-[INFO] Event: Womens Emerging Nations Trophy
-[INFO] Date: 13/11/2026
-[INFO] Time: 12:00
-[INFO] Streams Found: 1
-[DRM] ICC TV FHD
-
-[INFO] Event: Womens Emerging Nations Trophy
-[INFO] Date: 13/11/2026
-[INFO] Time: 16:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Womens Emerging Nations Trophy
-[INFO] Date: 13/11/2026
-[INFO] Time: 16:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Womens Emerging Nations Trophy
-[INFO] Date: 13/11/2026
-[INFO] Time: 12:00
-[INFO] Streams Found: 2
-[DRM] ICC TV FHD
-[DRM] ICC TV ALT
 
 [INFO] Event: NBA
 [INFO] Date: 14/11/2026
@@ -355,56 +309,18 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Golf Eventos
-[INFO] Date: 13/11/2026
-[INFO] Time: 13:30
-[INFO] Streams Found: 4
-[DRM] PRIME VIDEO FHD
-[DRM] SKY GOLF FHD
-[HLS] SonyLiv (Asia)
-[HLS] Low
-
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 13/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: International Friendly Games
 [INFO] Date: 14/11/2026
 [INFO] Time: 19:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: International Friendly Games
-[INFO] Date: 13/11/2026
-[INFO] Time: 19:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: International Friendly Games
-[INFO] Date: 13/11/2026
-[INFO] Time: 19:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 13/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 13/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: Africa Cup of Nations Qual.
 [INFO] Date: 13/11/2026
 [INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] beIN SPORTS FHD
+[DRM] beIN ENGLISH FHD
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
@@ -415,8 +331,9 @@
 [INFO] Event: International Friendly Games
 [INFO] Date: 13/11/2026
 [INFO] Time: 21:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
@@ -428,13 +345,14 @@
 [INFO] Date: 13/11/2026
 [INFO] Time: 22:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: International Friendly Games
 [INFO] Date: 13/11/2026
 [INFO] Time: 21:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Africa Cup of Nations Qual.
 [INFO] Date: 13/11/2026
@@ -463,8 +381,9 @@
 [INFO] Event: International Friendly Games
 [INFO] Date: 13/11/2026
 [INFO] Time: 21:10
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Africa Cup of Nations Qual.
 [INFO] Date: 14/11/2026
@@ -484,17 +403,11 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: International Friendly Games
-[INFO] Date: 13/11/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: Africa Cup of Nations Qual.
 [INFO] Date: 13/11/2026
 [INFO] Time: 23:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=67
-[SUMMARY] Streams=163
+[SUMMARY] Events=54
+[SUMMARY] Streams=141
