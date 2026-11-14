@@ -28,8 +28,8 @@
 [HLS] Low
 
 [INFO] Event: ONE Friday Fights
-[INFO] Date: 13/11/2026
-[INFO] Time: 20:30
+[INFO] Date: 20/11/2026
+[INFO] Time: 19:00
 [INFO] Streams Found: 6
 [DRM] One Fight - AQ
 [DRM] WWE - AQ
@@ -139,7 +139,7 @@
 [TOKEN_API] SKY UK (embed)
 
 [INFO] Event: Abu Dhabi T10 League
-[INFO] Date: 13/11/2026
+[INFO] Date: 14/11/2026
 [INFO] Time: 18:30
 [INFO] Streams Found: 5
 [DRM] WILLOW FHD
@@ -252,62 +252,73 @@
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] FOX SPORTS FHD
+[DRM] beIN ENGLISH FHD
+[HLS] SonyLiv (Asia)
+[HLS] Low
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 14/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 2
+[HLS] SonyLiv (Asia)
+[HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:45
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 6
+[DRM] beIN ENGLISH FHD
+[DRM] FUBO SPORTS FHD
+[DRM] TVE La 1 FHD
+[DRM] SPORT 1 CZ FHD
+[HLS] SonyLiv (Asia)
+[HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 14/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Low
+[HLS] SonyLiv (Asia)
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy Live
+[HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] SonyLiv (Asia)
+[HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy Live
+[HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 14/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy Live
+[HLS] Low
 
 [INFO] Event: International Friendly Games
 [INFO] Date: 14/11/2026
@@ -315,99 +326,64 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 13/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 2
-[DRM] beIN SPORTS FHD
-[DRM] beIN ENGLISH FHD
-
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: International Friendly Games
-[INFO] Date: 13/11/2026
-[INFO] Time: 21:45
-[INFO] Streams Found: 2
+[INFO] Streams Found: 4
 [HLS] Cricfy HD
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy Live
 [HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: International Friendly Games
-[INFO] Date: 13/11/2026
-[INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: International Friendly Games
-[INFO] Date: 13/11/2026
-[INFO] Time: 21:30
 [INFO] Streams Found: 2
-[HLS] Cricfy HD
 [HLS] Low
-
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 13/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 13/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] SonyLiv (Asia)
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 13/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: International Friendly Games
-[INFO] Date: 13/11/2026
-[INFO] Time: 21:10
 [INFO] Streams Found: 2
-[HLS] Cricfy HD
+[DRM] LaLiga Hypermotion
 [HLS] Low
 
 [INFO] Event: Africa Cup of Nations Qual.
 [INFO] Date: 14/11/2026
 [INFO] Time: 02:00
+[INFO] Streams Found: 3
+[DRM] beIN SPORTS FHD
+[HLS] Cricfy Live
+[HLS] Low
+
+[INFO] Event: Africa Cup of Nations Qual.
+[INFO] Date: 14/11/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 4
+[DRM] beIN SPORTS FHD
+[HLS] Cricfy HD
+[HLS] Low
+[HLS] Cricfy Live
+
+[INFO] Event: U19 Asia Cup
+[INFO] Date: 14/11/2026
+[INFO] Time: 12:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: Africa Cup of Nations Qual.
 [INFO] Date: 14/11/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Time: 03:00
+[INFO] Streams Found: 2
+[DRM] beIN SPORTS FHD
+[HLS] Low
 
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 13/11/2026
-[INFO] Time: 23:00
+[INFO] Event: Copa del Rey
+[INFO] Date: 14/11/2026
+[INFO] Time: 03:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 13/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[SUMMARY] Events=54
-[SUMMARY] Streams=141
+[SUMMARY] Events=46
+[SUMMARY] Streams=157
