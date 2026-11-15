@@ -172,96 +172,6 @@
 [HLS] CRFY Stream
 [HLS] Low
 
-[INFO] Event: LaLiga 2
-[INFO] Date: 15/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Women's Super League
-[INFO] Date: 15/11/2026
-[INFO] Time: 00:15
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 15/11/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 2
-[DRM] beIN SPORTS FHD
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 15/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 4
-[DRM] FOX SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] SporTV BR FHD
-[DRM] SPORT 1 CZ FHD
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 15/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 2
-[DRM] LaLiga Hypermotion
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 15/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 4
-[DRM] FOX SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] SPORT 1 CZ FHD
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 15/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 3
-[DRM] beIN ENGLISH FHD
-[DRM] SporTV BR FHD
-[HLS] Low
-
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 15/11/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 3
-[DRM] beIN SPORTS FHD
-[DRM] beIN Español FHD
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 15/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 15/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 15/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 15/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[DRM] FUBO SPORTS FHD
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 15/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: One Day International
 [INFO] Date: 15/11/2026
 [INFO] Time: 10:30
@@ -285,5 +195,227 @@
 [HLS] ATN SPORTS SD
 [HLS] FANCODE (IND)
 
-[SUMMARY] Events=31
-[SUMMARY] Streams=132
+[INFO] Event: UEFA Nations League
+[INFO] Date: 16/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 16/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 16/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 15/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 16/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 16/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 15/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 16/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Women's Super League
+[INFO] Date: 15/11/2026
+[INFO] Time: 23:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 16/11/2026
+[INFO] Time: 05:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 16/11/2026
+[INFO] Time: 04:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 16/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 16/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 16/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 16/11/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 16/11/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 16/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 16/11/2026
+[INFO] Time: 04:30
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 16/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 16/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 16/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 15/11/2026
+[INFO] Time: 21:30
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 16/11/2026
+[INFO] Time: 04:05
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 16/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 16/11/2026
+[INFO] Time: 04:25
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 16/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 16/11/2026
+[INFO] Time: 08:20
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 16/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 16/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 16/11/2026
+[INFO] Time: 04:05
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 16/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 16/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 16/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 15/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 15/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 16/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 16/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=55
+[SUMMARY] Streams=144
