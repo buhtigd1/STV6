@@ -72,7 +72,7 @@
 [INFO] Date: 15/11/2026
 [INFO] Time: 13:45
 [INFO] Streams Found: 5
-[DRM] FANCODE FHD
+[HLS] FANCODE FHD
 [DRM] FANCODE SD
 [DRM] CRFY FHD
 [TOKEN_API] STAR SPORTS HD (sp)
@@ -118,8 +118,8 @@
 [HLS] SonyLiv (TAM)
 
 [INFO] Event: Tennis  Evento
-[INFO] Date: 13/11/2026
-[INFO] Time: 14:00
+[INFO] Date: 15/11/2026
+[INFO] Time: 16:00
 [INFO] Streams Found: 4
 [DRM] beIN ENGLISH FHD
 [DRM] TSN5 SPORTS FHD
@@ -127,8 +127,8 @@
 [DRM] TENNIS CHANNEL 2
 
 [INFO] Event: WBBL | Womens Big Bash League
-[INFO] Date: 15/11/2026
-[INFO] Time: 07:00
+[INFO] Date: 16/11/2026
+[INFO] Time: 15:10
 [INFO] Streams Found: 8
 [DRM] WILLOW FHD
 [HLS] SK CRICKET FHD
@@ -175,14 +175,17 @@
 [INFO] Event: One Day International
 [INFO] Date: 15/11/2026
 [INFO] Time: 10:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Womens Emerging Nations Trophy
-[INFO] Date: 15/11/2026
-[INFO] Time: 16:15
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 10
+[DRM] WILLOW FHD
+[DRM] TNT SPORTS FHD
+[DRM] FANCODE FHD
+[DRM] WILLOW ALT
+[DRM] EUROSPORT FHD
+[HLS] TAPMAD FHD
+[HLS] TEN SPORTS HD
+[DRM] WILLOW HD
+[HLS] FANCODE (IND)
+[HLS] Low
 
 [INFO] Event: Test Series
 [INFO] Date: 15/11/2026
@@ -394,18 +397,6 @@
 [HLS] Link 1
 
 [INFO] Event: NHL
-[INFO] Date: 15/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 15/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
 [INFO] Date: 16/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
@@ -417,5 +408,17 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=55
-[SUMMARY] Streams=144
+[INFO] Event: ICC World Test Championship
+[INFO] Date: 15/11/2026
+[INFO] Time: 15:00
+[INFO] Streams Found: 7
+[DRM] WILLOW FHD
+[DRM] FANCODE FHD
+[HLS] SKY CRICKET FHD
+[DRM] WILLOW ALT
+[HLS] T SPORTS HD
+[DRM] FANCODE HD
+[HLS] LOW SERVER
+
+[SUMMARY] Events=53
+[SUMMARY] Streams=157
