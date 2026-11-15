@@ -126,8 +126,8 @@
 [TOKEN_API] SKY UK (embed)
 
 [INFO] Event: Abu Dhabi T10 League
-[INFO] Date: 15/11/2026
-[INFO] Time: 18:30
+[INFO] Date: 16/11/2026
+[INFO] Time: 20:45
 [INFO] Streams Found: 5
 [DRM] WILLOW FHD
 [DRM] PREMIER SPORTS FHD
@@ -187,20 +187,40 @@
 [INFO] Event: UEFA Nations League
 [INFO] Date: 16/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 6
+[DRM] DAZN SPORTS FHD
+[DRM] PRIME VIDEO FHD
+[DRM] beIN ENGLISH FHD
+[DRM] TVE La 1 FHD
+[DRM] SporTV BR FHD
+[DRM] SPORT 1 CZ FHD
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 16/11/2026
 [INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 8
+[DRM] DAZN SPORTS FHD
+[DRM] PRIME VIDEO FHD
+[DRM] beIN ENGLISH FHD
+[DRM] VIX Español FHD
+[DRM] DAZN DE FHD
+[HLS] Cricfy HD
+[HLS] SonyLiv (Asia)
+[HLS] M
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 16/11/2026
 [INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 9
+[DRM] DAZN SPORTS FHD
+[DRM] PRIME VIDEO FHD
+[DRM] beIN ENGLISH FHD
+[DRM] VIX Español FHD
+[DRM] DAZN DE FHD
+[DRM] SporTV BR FHD
+[HLS] Cricfy HD
+[HLS] SonyLiv (Asia)
+[HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 15/11/2026
@@ -217,14 +237,22 @@
 [INFO] Event: UEFA Nations League
 [INFO] Date: 16/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 6
+[DRM] DAZN SPORTS FHD
+[DRM] PRIME VIDEO FHD
+[DRM] VIX Español FHD
+[DRM] DAZN DE FHD
+[HLS] FOX SOCCER+ HD
+[HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 16/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] Link 1
+[DRM] DAZN SPORTS FHD
+[DRM] PRIME VIDEO FHD
+[DRM] VIX Español FHD
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 15/11/2026
@@ -242,8 +270,11 @@
 [INFO] Event: UEFA Nations League
 [INFO] Date: 16/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] DAZN SPORTS FHD
+[DRM] PRIME VIDEO FHD
+[DRM] beIN ENGLISH FHD
+[DRM] VIX Español FHD
 
 [INFO] Event: Women's Super League
 [INFO] Date: 15/11/2026
@@ -442,8 +473,9 @@
 [INFO] Event: LaLiga 2
 [INFO] Date: 16/11/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] LaLiga Hypermotion
+[HLS] Low
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 15/11/2026
@@ -457,7 +489,7 @@
 [INFO] Date: 16/11/2026
 [INFO] Time: 00:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: Women's Super League
 [INFO] Date: 15/11/2026
@@ -475,4 +507,4 @@
 [HLS] Low
 
 [SUMMARY] Events=58
-[SUMMARY] Streams=186
+[SUMMARY] Streams=218
