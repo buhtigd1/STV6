@@ -103,8 +103,8 @@
 [HLS] SonyLiv (TAM)
 
 [INFO] Event: Tennis  Evento
-[INFO] Date: 15/11/2026
-[INFO] Time: 16:00
+[INFO] Date: 16/11/2026
+[INFO] Time: 17:30
 [INFO] Streams Found: 5
 [DRM] beIN ENGLISH FHD
 [DRM] TSN5 SPORTS FHD
@@ -147,7 +147,7 @@
 [HLS] Low
 
 [INFO] Event: NFL Redzone
-[INFO] Date: 16/11/2026
+[INFO] Date: 23/11/2026
 [INFO] Time: 01:00
 [INFO] Streams Found: 7
 [DRM] RedZone - Week 9
@@ -184,327 +184,101 @@
 [HLS] ATN SPORTS SD
 [HLS] FANCODE (IND)
 
-[INFO] Event: UEFA Nations League
-[INFO] Date: 16/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 6
-[DRM] DAZN SPORTS FHD
-[DRM] PRIME VIDEO FHD
-[DRM] beIN ENGLISH FHD
-[DRM] TVE La 1 FHD
-[DRM] SporTV BR FHD
-[DRM] SPORT 1 CZ FHD
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 16/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 8
-[DRM] DAZN SPORTS FHD
-[DRM] PRIME VIDEO FHD
-[DRM] beIN ENGLISH FHD
-[DRM] VIX Español FHD
-[DRM] DAZN DE FHD
-[HLS] Cricfy HD
-[HLS] SonyLiv (Asia)
-[HLS] M
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 16/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 9
-[DRM] DAZN SPORTS FHD
-[DRM] PRIME VIDEO FHD
-[DRM] beIN ENGLISH FHD
-[DRM] VIX Español FHD
-[DRM] DAZN DE FHD
-[DRM] SporTV BR FHD
-[HLS] Cricfy HD
-[HLS] SonyLiv (Asia)
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 15/11/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 7
-[DRM] DAZN SPORTS FHD
-[DRM] PRIME VIDEO FHD
-[DRM] beIN ENGLISH FHD
-[DRM] VIX Español FHD
-[DRM] DAZN DE FHD
-[HLS] FOX SOCCER+ HD
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 16/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 6
-[DRM] DAZN SPORTS FHD
-[DRM] PRIME VIDEO FHD
-[DRM] VIX Español FHD
-[DRM] DAZN DE FHD
-[HLS] FOX SOCCER+ HD
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 16/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 4
-[DRM] Link 1
-[DRM] DAZN SPORTS FHD
-[DRM] PRIME VIDEO FHD
-[DRM] VIX Español FHD
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 15/11/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 8
-[DRM] DAZN SPORTS FHD
-[DRM] PRIME VIDEO FHD
-[DRM] FOX SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] DAZN DE FHD
-[DRM] VIX Español FHD
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 16/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 4
-[DRM] DAZN SPORTS FHD
-[DRM] PRIME VIDEO FHD
-[DRM] beIN ENGLISH FHD
-[DRM] VIX Español FHD
-
-[INFO] Event: Women's Super League
-[INFO] Date: 15/11/2026
-[INFO] Time: 23:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NBA
-[INFO] Date: 16/11/2026
-[INFO] Time: 05:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 16/11/2026
-[INFO] Time: 04:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 16/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NBA
-[INFO] Date: 16/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 16/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NBA
-[INFO] Date: 16/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 16/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NBA
-[INFO] Date: 16/11/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NBA
-[INFO] Date: 16/11/2026
-[INFO] Time: 04:30
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 16/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 16/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 16/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 15/11/2026
-[INFO] Time: 21:30
-[INFO] Streams Found: 14
-[DRM] NFL GAMEPASS FHD
-[DRM] NFL Multi Commentary
-[DRM] FOX DEPORTES FHD
-[DRM] TSN SPORTS FHD
-[DRM] SKY TOP EVENT FHD
-[TOKEN_API] NFL (embed)
-[TOKEN_API] beIN SPORT 2 (embed)
-[TOKEN_API] EXTRA SPORT16 (uefa m+LdC 10) (embed)
-[TOKEN_API] equipe (embed)
-[TOKEN_API] ESPN4 (embed)
-[TOKEN_API] ESPN1MX (embed)
-[HLS] Cricfy HD
-[HLS] Cricfy Live
-[HLS] Low
-
-[INFO] Event: NFL
-[INFO] Date: 16/11/2026
-[INFO] Time: 04:05
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 16/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 16/11/2026
-[INFO] Time: 04:25
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 16/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 16/11/2026
-[INFO] Time: 08:20
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 16/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 16/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 16/11/2026
-[INFO] Time: 04:05
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 16/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 16/11/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 16/11/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 16/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 16/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 15/11/2026
+[INFO] Date: 16/11/2026
 [INFO] Time: 15:00
 [INFO] Streams Found: 7
 [DRM] WILLOW FHD
 [DRM] FANCODE FHD
-[HLS] SKY CRICKET FHD
 [DRM] WILLOW ALT
+[DRM] FANCODE SD
+[HLS] SK CRICKET FHD
 [HLS] T SPORTS HD
-[DRM] FANCODE HD
-[HLS] LOW SERVER
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 15/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 2
-[DRM] LaLiga Hypermotion
 [HLS] Low
 
-[INFO] Event: LaLiga 2
-[INFO] Date: 16/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 2
-[DRM] LaLiga Hypermotion
-[HLS] Low
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 15/11/2026
-[INFO] Time: 22:15
-[INFO] Streams Found: 3
-[DRM] LaLiga Hypermotion
-[TOKEN_API] ES LALIGA HYPERMOTION (embed)
-[HLS] Laliga Tv
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 16/11/2026
-[INFO] Time: 00:30
+[INFO] Event: UEFA Nations League
+[INFO] Date: 17/11/2026
+[INFO] Time: 02:45
 [INFO] Streams Found: 1
-[HLS] Low
+[HLS] Link 1
 
-[INFO] Event: Women's Super League
-[INFO] Date: 15/11/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 2
-[DRM] PARAMOUNT+ FHD
-[HLS] Low
+[INFO] Event: UEFA Nations League
+[INFO] Date: 17/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
 
-[INFO] Event: Women's Super League
-[INFO] Date: 15/11/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 3
-[DRM] PARAMOUNT+ FHD
-[DRM] CBS SPORTS FHD
-[HLS] Low
+[INFO] Event: UEFA Nations League
+[INFO] Date: 16/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
 
-[SUMMARY] Events=58
-[SUMMARY] Streams=218
+[INFO] Event: UEFA Nations League
+[INFO] Date: 17/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 17/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 17/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 17/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 17/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 16/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 17/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Africa Cup of Nations Qual.
+[INFO] Date: 16/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Africa Cup of Nations Qual.
+[INFO] Date: 16/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 17/11/2026
+[INFO] Time: 02:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: International Friendly Games
+[INFO] Date: 17/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=31
+[SUMMARY] Streams=127
