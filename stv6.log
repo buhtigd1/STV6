@@ -54,17 +54,17 @@
 [TOKEN_API] Cricfy WWE (embed)
 
 [INFO] Event: Nepal Premier League, 2026
-[INFO] Date: 17/11/2026
+[INFO] Date: 18/11/2026
 [INFO] Time: 18:15
 [INFO] Streams Found: 5
-[HLS] FANCODE FHD
+[DRM] FANCODE FHD
 [DRM] FANCODE SD
 [DRM] CRFY FHD
 [TOKEN_API] STAR SPORTS HD (sp)
 [HLS] FANCODE (IND)
 
 [INFO] Event: Monday Night Raw
-[INFO] Date: 17/11/2026
+[INFO] Date: 24/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 5
 [HLS] CricFy HD
@@ -105,16 +105,15 @@
 [INFO] Event: Tennis  Evento
 [INFO] Date: 16/11/2026
 [INFO] Time: 17:30
-[INFO] Streams Found: 5
+[INFO] Streams Found: 4
 [DRM] beIN ENGLISH FHD
-[DRM] TSN5 SPORTS FHD
 [DRM] SK TOP EVENT ALT
 [DRM] TENNIS CHANNEL 2
 [HLS] Low
 
 [INFO] Event: WBBL | Womens Big Bash League
-[INFO] Date: 17/11/2026
-[INFO] Time: 15:10
+[INFO] Date: 19/11/2026
+[INFO] Time: 11:40
 [INFO] Streams Found: 9
 [DRM] WILLOW FHD
 [HLS] SK CRICKET FHD
@@ -127,7 +126,7 @@
 [HLS] Low
 
 [INFO] Event: Abu Dhabi T10 League
-[INFO] Date: 17/11/2026
+[INFO] Date: 18/11/2026
 [INFO] Time: 20:45
 [INFO] Streams Found: 5
 [DRM] WILLOW FHD
@@ -137,7 +136,7 @@
 [HLS] A SPORTS HD
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 17/11/2026
+[INFO] Date: 18/11/2026
 [INFO] Time: 11:30
 [INFO] Streams Found: 6
 [DRM] Willow FHD
@@ -174,19 +173,8 @@
 [HLS] FANCODE (IND)
 [HLS] Low
 
-[INFO] Event: Test Series
-[INFO] Date: 18/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 6
-[DRM] WILLOW FHD
-[DRM] WILLOW ALT
-[HLS] TAPMAD - FHD
-[HLS] A SPORTS HD
-[HLS] ATN SPORTS SD
-[HLS] FANCODE (IND)
-
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 17/11/2026
+[INFO] Date: 18/11/2026
 [INFO] Time: 15:00
 [INFO] Streams Found: 7
 [DRM] WILLOW FHD
@@ -197,142 +185,126 @@
 [HLS] T SPORTS HD
 [HLS] Low
 
+[INFO] Event: International Friendly Games
+[INFO] Date: 18/11/2026
+[INFO] Time: 04:00
+[INFO] Streams Found: 4
+[DRM] SporTV BR FHD
+[DRM] D SPORTS FHD
+[DRM] SporTV BR ALT
+[HLS] HD QUALITY
+
+[INFO] Event: Africa Cup of Nations Qual.
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
+
+[INFO] Event: Africa Cup of Nations Qual.
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 2
+[HLS] Server 1
+[HLS] Low
+
+[INFO] Event: Africa Cup of Nations Qual.
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 4
+[DRM] beIN SPORTS FHD
+[HLS] Cricfy HD
+[HLS] Cricfy Live
+[HLS] Low
+
+[INFO] Event: Africa Cup of Nations Qual.
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 2
+[HLS] Cricfy Live Plus
+[HLS] Low
+
+[INFO] Event: Africa Cup of Nations Qual.
+[INFO] Date: 18/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Low
+
+[INFO] Event: Africa Cup of Nations Qual.
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 4
+[DRM] beIN SPORTS FHD
+[HLS] Cricfy HD
+[HLS] Cricfy Live
+[HLS] Low
+
 [INFO] Event: UEFA Nations League
-[INFO] Date: 17/11/2026
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 5
+[DRM] beIN ENGLISH FHD
+[DRM] SporTV BR FHD
+[DRM] SPORT 2 CZ FHD
+[HLS] FS2
+[HLS] Low
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Low
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
 [INFO] Time: 02:45
 [INFO] Streams Found: 4
-[HLS] Cricfy HD Plus
-[HLS] SonyLiv (Asia)
-[HLS] Cricfy Live
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 17/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 6
-[HLS] beIN ARABIC HD
-[HLS] Cricfy HD
-[HLS] SonyLiv (Asia)
-[HLS] Cricfy Live Plus
-[HLS] Cricfy Live
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 17/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 3
-[HLS] Cricfy HD Plus
-[HLS] SonyLiv (Asia)
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 17/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 11
-[DRM] FOX SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] TVE La 1 FHD
 [DRM] SPORT 1 CZ FHD
-[HLS] FOX SPORTS HD
-[HLS] SonyLiv (Asia)
-[HLS] Cricfy Live
-[HLS] Cricfy HD
-[HLS] Cricfy Live
-[HLS] Low
-[HLS] Arabic
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 17/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 7
 [DRM] FOX SPORTS FHD
 [DRM] beIN ENGLISH FHD
-[DRM] SPORT 2 CZ FHD
-[HLS] FOX SPORTS HD
-[HLS] SonyLiv (Asia)
-[HLS] Arabic
 [HLS] Low
 
-[INFO] Event: LaLiga 2
-[INFO] Date: 17/11/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 2
-[DRM] LaLiga Hypermotion
-[HLS] Low
-
-[INFO] Event: International Friendly Games
-[INFO] Date: 17/11/2026
-[INFO] Time: 01:00
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
 [INFO] Streams Found: 1
 [HLS] Low
 
-[INFO] Event: NBA
-[INFO] Date: 17/11/2026
-[INFO] Time: 09:00
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 2
+[DRM] FOX SPORTS FHD
+[HLS] Low
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
 [INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
+[HLS] Low
 
-[INFO] Event: NBA
-[INFO] Date: 17/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[DRM] Cricfy HD Plus
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 17/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 2
-[TOKEN_API] NBA (embed)
-[DRM] Cricfy HD Plus
-
-[INFO] Event: NBA
-[INFO] Date: 17/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[TOKEN_API] NBA (embed)
-[DRM] Cricfy HD Plus
-
-[INFO] Event: NBA
-[INFO] Date: 17/11/2026
-[INFO] Time: 08:00
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
 [INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
+[HLS] Low
 
-[INFO] Event: NBA
-[INFO] Date: 17/11/2026
-[INFO] Time: 07:30
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
 [INFO] Streams Found: 2
-[TOKEN_API] NBA (embed)
-[DRM] Cricfy HD Plus
+[HLS] Cricfy HD
+[HLS] Low
 
-[INFO] Event: NBA
-[INFO] Date: 17/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
+[INFO] Event: Test Series
+[INFO] Date: 18/11/2026
+[INFO] Time: 13:00
+[INFO] Streams Found: 5
+[DRM] WILLOW FHD
+[DRM] WILLOW ALT
+[HLS] A SPORTS HD
+[HLS] Low
+[HLS] FANCODE (IND)
 
-[INFO] Event: NBA
-[INFO] Date: 17/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[TOKEN_API] NBA (embed)
-[DRM] Cricfy HD Plus
-
-[INFO] Event: NHL
-[INFO] Date: 17/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 3
-[DRM] PREMIER SPORTS FHD
-[DRM] SKY SPORTS MIX
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 17/11/2026
-[INFO] Time: 09:30
-[INFO] Streams Found: 2
-[DRM] PREMIER SPORTS FHD
-[TOKEN_API] NHL (embed)
-
-[SUMMARY] Events=34
-[SUMMARY] Streams=166
+[SUMMARY] Events=32
+[SUMMARY] Streams=148
