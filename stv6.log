@@ -127,7 +127,7 @@
 [HLS] Low
 
 [INFO] Event: Abu Dhabi T10 League
-[INFO] Date: 16/11/2026
+[INFO] Date: 17/11/2026
 [INFO] Time: 20:45
 [INFO] Streams Found: 5
 [DRM] WILLOW FHD
@@ -200,29 +200,8 @@
 [INFO] Event: UEFA Nations League
 [INFO] Date: 17/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 4
 [HLS] Cricfy HD Plus
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 17/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 17/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 5
-[DRM] beIN ENGLISH FHD
-[DRM] FUBO SPORTS FHD
-[HLS] Cricfy HD Plus
-[HLS] SonyLiv (Asia)
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 17/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 3
 [HLS] SonyLiv (Asia)
 [HLS] Cricfy Live
 [HLS] Low
@@ -230,63 +209,61 @@
 [INFO] Event: UEFA Nations League
 [INFO] Date: 17/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 17/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 4
-[DRM] FOX SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] TVE La 1 FHD
-[DRM] SPORT 1 CZ FHD
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 17/11/2026
-[INFO] Time: 00:00
 [INFO] Streams Found: 6
-[DRM] FOX SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] SporTV BR FHD
-[DRM] SPORT 2 CZ FHD
+[HLS] beIN ARABIC HD
+[HLS] Cricfy HD
 [HLS] SonyLiv (Asia)
+[HLS] Cricfy Live Plus
+[HLS] Cricfy Live
 [HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 17/11/2026
 [INFO] Time: 02:45
 [INFO] Streams Found: 3
+[HLS] Cricfy HD Plus
+[HLS] SonyLiv (Asia)
+[HLS] Low
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 17/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 11
+[DRM] FOX SPORTS FHD
+[DRM] beIN ENGLISH FHD
+[DRM] TVE La 1 FHD
+[DRM] SPORT 1 CZ FHD
+[HLS] FOX SPORTS HD
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy Live
+[HLS] Cricfy HD
+[HLS] Cricfy Live
+[HLS] Low
+[HLS] Arabic
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 17/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 7
 [DRM] FOX SPORTS FHD
 [DRM] beIN ENGLISH FHD
 [DRM] SPORT 2 CZ FHD
+[HLS] FOX SPORTS HD
+[HLS] SonyLiv (Asia)
+[HLS] Arabic
+[HLS] Low
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 17/11/2026
 [INFO] Time: 02:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
 [DRM] LaLiga Hypermotion
+[HLS] Low
 
 [INFO] Event: International Friendly Games
 [INFO] Date: 17/11/2026
 [INFO] Time: 01:00
 [INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 16/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 2
-[DRM] beIN SPORTS FHD
-[HLS] Low
-
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 16/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 4
-[DRM] beIN Español FHD
-[HLS] Cricfy Live
-[HLS] Cricfy HD Plus
 [HLS] Low
 
 [INFO] Event: NBA
@@ -298,20 +275,23 @@
 [INFO] Event: NBA
 [INFO] Date: 17/11/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[DRM] Cricfy HD Plus
 [TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 17/11/2026
 [INFO] Time: 08:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
 [TOKEN_API] NBA (embed)
+[DRM] Cricfy HD Plus
 
 [INFO] Event: NBA
 [INFO] Date: 17/11/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
 [TOKEN_API] NBA (embed)
+[DRM] Cricfy HD Plus
 
 [INFO] Event: NBA
 [INFO] Date: 17/11/2026
@@ -322,8 +302,9 @@
 [INFO] Event: NBA
 [INFO] Date: 17/11/2026
 [INFO] Time: 07:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
 [TOKEN_API] NBA (embed)
+[DRM] Cricfy HD Plus
 
 [INFO] Event: NBA
 [INFO] Date: 17/11/2026
@@ -334,20 +315,24 @@
 [INFO] Event: NBA
 [INFO] Date: 17/11/2026
 [INFO] Time: 07:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
 [TOKEN_API] NBA (embed)
+[DRM] Cricfy HD Plus
 
 [INFO] Event: NHL
 [INFO] Date: 17/11/2026
 [INFO] Time: 07:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 3
+[DRM] PREMIER SPORTS FHD
+[DRM] SKY SPORTS MIX
 [TOKEN_API] NHL (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 17/11/2026
 [INFO] Time: 09:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
+[DRM] PREMIER SPORTS FHD
 [TOKEN_API] NHL (embed)
 
-[SUMMARY] Events=39
-[SUMMARY] Streams=156
+[SUMMARY] Events=34
+[SUMMARY] Streams=166
