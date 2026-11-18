@@ -102,9 +102,9 @@
 [HLS] SonyLiv (BEN)
 [HLS] SonyLiv (TAM)
 
-[INFO] Event: Tennis  Evento
-[INFO] Date: 16/11/2026
-[INFO] Time: 17:30
+[INFO] Event: Tennis
+[INFO] Date: 18/11/2026
+[INFO] Time: 03:10
 [INFO] Streams Found: 4
 [DRM] beIN ENGLISH FHD
 [DRM] SK TOP EVENT ALT
@@ -197,22 +197,15 @@
 [INFO] Event: Africa Cup of Nations Qual.
 [INFO] Date: 18/11/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 2
+[INFO] Streams Found: 3
 [HLS] Cricfy HD
+[HLS] Cricfy HD Plus
 [HLS] Low
 
 [INFO] Event: Africa Cup of Nations Qual.
 [INFO] Date: 18/11/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 2
-[HLS] Server 1
-[HLS] Low
-
-[INFO] Event: Africa Cup of Nations Qual.
-[INFO] Date: 18/11/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 4
-[DRM] beIN SPORTS FHD
+[INFO] Streams Found: 3
 [HLS] Cricfy HD
 [HLS] Cricfy Live
 [HLS] Low
@@ -220,80 +213,116 @@
 [INFO] Event: Africa Cup of Nations Qual.
 [INFO] Date: 18/11/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 2
+[INFO] Streams Found: 5
+[DRM] beIN SPORTS FHD
+[HLS] Cricfy HD
+[HLS] Cricfy Live
+[HLS] Cricfy HD Plus
+[HLS] Low
+
+[INFO] Event: Africa Cup of Nations Qual.
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 3
 [HLS] Cricfy Live Plus
+[HLS] Cricfy HD
 [HLS] Low
 
 [INFO] Event: Africa Cup of Nations Qual.
 [INFO] Date: 18/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 3
+[DRM] beIN SPORTS FHD
+[HLS] Cricfy HD Plus
 [HLS] Low
 
 [INFO] Event: Africa Cup of Nations Qual.
 [INFO] Date: 18/11/2026
 [INFO] Time: 02:00
-[INFO] Streams Found: 4
+[INFO] Streams Found: 5
 [DRM] beIN SPORTS FHD
+[HLS] Cricfy HD Plus
 [HLS] Cricfy HD
 [HLS] Cricfy Live
+[HLS] Low
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 7
+[DRM] beIN ENGLISH FHD
+[DRM] SporTV BR FHD
+[DRM] SPORT 2 CZ FHD
+[HLS] FS2
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy Live
+[HLS] Low
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 3
+[HLS] Cricfy HD Plus
+[HLS] SonyLiv (Asia)
+[HLS] Low
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 6
+[DRM] SPORT 1 CZ FHD
+[DRM] FOX SPORTS FHD
+[DRM] beIN ENGLISH FHD
+[HLS] Cricfy HD Plus
+[HLS] SonyLiv (Asia)
+[HLS] Low
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 2
+[HLS] Cricfy HD Plus
+[HLS] Low
+
+[INFO] Event: UEFA Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 6
+[DRM] FOX SPORTS FHD
+[HLS] SonyLiv (Asia)
+[HLS] FOX SPORTS HD
+[HLS] Cricfy Live
+[HLS] Cricfy HD Plus
 [HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 18/11/2026
 [INFO] Time: 02:45
 [INFO] Streams Found: 5
-[DRM] beIN ENGLISH FHD
-[DRM] SporTV BR FHD
-[DRM] SPORT 2 CZ FHD
-[HLS] FS2
+[HLS] Cricfy HD Plus
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy Live
+[HLS] Cricfy HD Plus
 [HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 18/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 6
+[DRM] FUBO SPORTS FHD
+[HLS] Cricfy HD
+[HLS] Cricfy Live
+[HLS] Cricfy HD Plus
+[HLS] SonyLiv (Asia)
 [HLS] Low
 
 [INFO] Event: UEFA Nations League
 [INFO] Date: 18/11/2026
 [INFO] Time: 02:45
 [INFO] Streams Found: 4
-[DRM] SPORT 1 CZ FHD
-[DRM] FOX SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 18/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 18/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 2
-[DRM] FOX SPORTS FHD
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 18/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 18/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: UEFA Nations League
-[INFO] Date: 18/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 2
+[HLS] Cricfy Live
 [HLS] Cricfy HD
+[HLS] SonyLiv (Asia)
 [HLS] Low
 
 [INFO] Event: Test Series
@@ -306,5 +335,458 @@
 [HLS] Low
 [HLS] FANCODE (IND)
 
-[SUMMARY] Events=32
-[SUMMARY] Streams=148
+[INFO] Event: CONCACAF Nations League
+[INFO] Date: 18/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Cricfy HD Plus
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 18/11/2026
+[INFO] Time: 11:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 18/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] CricFy FHD (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 09:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 18/11/2026
+[INFO] Time: 10:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 19/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 21/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 21/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 20/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 20/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 21/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 21/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 20/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 21/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 21/11/2026
+[INFO] Time: 09:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 21/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 20/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 21/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 21/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 23/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 23/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 22/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 22/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 23/11/2026
+[INFO] Time: 03:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 23/11/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 23/11/2026
+[INFO] Time: 08:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 22/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 22/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 22/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 22/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 23/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 23/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 19/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 19/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 18/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[DRM] TSN FHD
+
+[INFO] Event: NHL
+[INFO] Date: 18/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[DRM] NOVA SPORTS FHD
+
+[INFO] Event: NHL
+[INFO] Date: 18/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 2
+[DRM] TSN FHD
+[DRM] TSN ALT
+
+[INFO] Event: NHL
+[INFO] Date: 19/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 09:40
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 20/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 03:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NHL
+[INFO] Date: 22/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 18/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 3
+[DRM] TSN FHD
+[DRM] SKy Top FHD
+[DRM] NOVA 2 FHD
+
+[SUMMARY] Events=107
+[SUMMARY] Streams=255
