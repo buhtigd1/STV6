@@ -186,84 +186,6 @@
 [HLS] Low
 
 [INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT30 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 4
-[TOKEN_API] beIN SPORT 1 (embed)
-[TOKEN_API] EXTRA SPORT18 (embed)
-[TOKEN_API] ESPN2 (embed)
-[TOKEN_API] ESPN1MX (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 09:30
-[INFO] Streams Found: 2
-[TOKEN_API] beIN SPORT 1 (embed)
-[TOKEN_API] EXTRA SPORT27 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 3
-[TOKEN_API] beIN SPORT 1 (embed)
-[TOKEN_API] NBA (embed)
-[TOKEN_API] ESPN1MX (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT26 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT25 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] EXTRA SPORT19 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 19/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
 [INFO] Date: 21/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
@@ -418,24 +340,6 @@
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 19/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 19/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 19/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 20/11/2026
@@ -593,39 +497,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: UEFA Women's Champions League
-[INFO] Date: 19/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 3
-[DRM] CBS SPORTS FHD
-[TOKEN_API] ESPN4 (embed)
-[TOKEN_API] ESPN Deportes (embed)
-
-[INFO] Event: UEFA Women's Champions League
-[INFO] Date: 19/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 3
-[DRM] CBS SPORTS FHD
-[HLS] Cricfy HD Plus
-[TOKEN_API] EXTRA SPORT7 (embed)
-
-[INFO] Event: UEFA Women's Champions League
-[INFO] Date: 19/11/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 5
-[HLS] Cricfy HD
-[HLS] Cricfy Live
-[TOKEN_API] ESPN1 (embed)
-[TOKEN_API] ESPN Deportes (embed)
-[HLS] Low
-
-[INFO] Event: UEFA Women's Champions League
-[INFO] Date: 19/11/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 2
-[TOKEN_API] EXTRA SPORT6 (embed)
-[HLS] Low
-
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 19/11/2026
 [INFO] Time: 05:00
@@ -641,41 +512,5 @@
 [HLS] SonyLiv (TAM)
 [HLS] SonyLiv (KAN)
 
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 19/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 19/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 19/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[DRM] Cricfy FHD
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 19/11/2026
-[INFO] Time: 06:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 19/11/2026
-[INFO] Time: 05:30
-[INFO] Streams Found: 1
-[DRM] PREMIERE BR FHD
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 19/11/2026
-[INFO] Time: 06:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[SUMMARY] Events=94
-[SUMMARY] Streams=209
+[SUMMARY] Events=69
+[SUMMARY] Streams=169
