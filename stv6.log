@@ -83,8 +83,8 @@
 [HLS] Low
 
 [INFO] Event: AEW Dynamite
-[INFO] Date: 19/11/2026
-[INFO] Time: 07:00
+[INFO] Date: 26/11/2026
+[INFO] Time: 08:00
 [INFO] Streams Found: 5
 [DRM] TSN SPORTS FHD
 [DRM] FOX SPORTS FHD
@@ -104,7 +104,7 @@
 
 [INFO] Event: Tennis
 [INFO] Date: 19/11/2026
-[INFO] Time: 04:11
+[INFO] Time: 21:31
 [INFO] Streams Found: 4
 [DRM] beIN ENGLISH FHD
 [DRM] SK TOP EVENT ALT
@@ -112,8 +112,8 @@
 [HLS] Low
 
 [INFO] Event: WBBL | Womens Big Bash League
-[INFO] Date: 19/11/2026
-[INFO] Time: 11:40
+[INFO] Date: 21/11/2026
+[INFO] Time: 08:00
 [INFO] Streams Found: 9
 [DRM] WILLOW FHD
 [HLS] SK CRICKET FHD
@@ -128,15 +128,16 @@
 [INFO] Event: Abu Dhabi T10 League
 [INFO] Date: 19/11/2026
 [INFO] Time: 18:30
-[INFO] Streams Found: 5
+[INFO] Streams Found: 6
 [DRM] WILLOW FHD
 [DRM] PREMIER SPORTS FHD
 [DRM] WILLOW ALT
 [HLS] MYCO LIVE HD
 [HLS] A SPORTS HD
+[HLS] TAMASHA FHD
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 19/11/2026
+[INFO] Date: 20/11/2026
 [INFO] Time: 11:30
 [INFO] Streams Found: 6
 [DRM] Willow FHD
@@ -174,7 +175,7 @@
 [HLS] Low
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 19/11/2026
+[INFO] Date: 23/11/2026
 [INFO] Time: 15:00
 [INFO] Streams Found: 7
 [DRM] WILLOW FHD
@@ -498,7 +499,7 @@
 [HLS] Link 1
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 19/11/2026
+[INFO] Date: 20/11/2026
 [INFO] Time: 05:00
 [INFO] Streams Found: 10
 [HLS] TAPMAD FHD
@@ -512,5 +513,113 @@
 [HLS] SonyLiv (TAM)
 [HLS] SonyLiv (KAN)
 
-[SUMMARY] Events=69
-[SUMMARY] Streams=169
+[INFO] Event: UEFA Women's Champions League
+[INFO] Date: 20/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Women's Champions League
+[INFO] Date: 20/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Women's Champions League
+[INFO] Date: 20/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Women's Champions League
+[INFO] Date: 20/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Women's Champions League
+[INFO] Date: 20/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 20/11/2026
+[INFO] Time: 05:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 20/11/2026
+[INFO] Time: 05:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 20/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Men's Asia Cup Rising Stars 2026
+[INFO] Date: 19/11/2026
+[INFO] Time: 13:00
+[INFO] Streams Found: 2
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy HD
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 19/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 19/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 19/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 3
+[DRM] FOX SPORTS FHD
+[HLS] HD QUALITY
+[HLS] Low
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 19/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 2
+[DRM] D SPORTS FHD
+[HLS] Cricfy Live
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 19/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 19/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 19/11/2026
+[INFO] Time: 20:30
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 19/11/2026
+[INFO] Time: 22:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=86
+[SUMMARY] Streams=193
