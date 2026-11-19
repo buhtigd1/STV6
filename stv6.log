@@ -103,8 +103,8 @@
 [HLS] SonyLiv (TAM)
 
 [INFO] Event: Tennis
-[INFO] Date: 18/11/2026
-[INFO] Time: 18:00
+[INFO] Date: 19/11/2026
+[INFO] Time: 04:11
 [INFO] Streams Found: 4
 [DRM] beIN ENGLISH FHD
 [DRM] SK TOP EVENT ALT
@@ -126,8 +126,8 @@
 [HLS] Low
 
 [INFO] Event: Abu Dhabi T10 League
-[INFO] Date: 18/11/2026
-[INFO] Time: 20:45
+[INFO] Date: 19/11/2026
+[INFO] Time: 18:30
 [INFO] Streams Found: 5
 [DRM] WILLOW FHD
 [DRM] PREMIER SPORTS FHD
@@ -159,8 +159,8 @@
 [HLS] Low
 
 [INFO] Event: One Day International
-[INFO] Date: 18/11/2026
-[INFO] Time: 10:30
+[INFO] Date: 21/11/2026
+[INFO] Time: 15:15
 [INFO] Streams Found: 10
 [DRM] WILLOW FHD
 [DRM] TNT SPORTS FHD
@@ -174,7 +174,7 @@
 [HLS] Low
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 18/11/2026
+[INFO] Date: 19/11/2026
 [INFO] Time: 15:00
 [INFO] Streams Found: 7
 [DRM] WILLOW FHD
@@ -201,7 +201,7 @@
 [INFO] Date: 19/11/2026
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] EXTRA SPORT30 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 19/11/2026
@@ -215,8 +215,9 @@
 [INFO] Event: NBA
 [INFO] Date: 19/11/2026
 [INFO] Time: 09:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] beIN SPORT 1 (embed)
+[TOKEN_API] EXTRA SPORT27 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 19/11/2026
@@ -236,13 +237,13 @@
 [INFO] Date: 19/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] EXTRA SPORT25 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 19/11/2026
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 19/11/2026
@@ -422,7 +423,7 @@
 [INFO] Date: 19/11/2026
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] Link 1 (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 19/11/2026
@@ -434,7 +435,7 @@
 [INFO] Date: 19/11/2026
 [INFO] Time: 07:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] Link 1 (embed)
 
 [INFO] Event: NHL
 [INFO] Date: 20/11/2026
@@ -628,8 +629,17 @@
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 19/11/2026
 [INFO] Time: 05:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 10
+[HLS] TAPMAD FHD
+[DRM] WILLOW FHD
+[DRM] PRIME HINDI FHD
+[DRM] TNT SPORTS FHD
+[DRM] WILLOW ALT
+[HLS] SonyLiv (ENG)
+[HLS] SonyLiv (HIN)
+[HLS] SonyLiv (TEL)
+[HLS] SonyLiv (TAM)
+[HLS] SonyLiv (KAN)
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 19/11/2026
@@ -647,7 +657,7 @@
 [INFO] Date: 19/11/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] Cricfy FHD
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 19/11/2026
@@ -659,7 +669,7 @@
 [INFO] Date: 19/11/2026
 [INFO] Time: 05:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] PREMIERE BR FHD
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 19/11/2026
@@ -668,4 +678,4 @@
 [HLS] Link 1
 
 [SUMMARY] Events=94
-[SUMMARY] Streams=199
+[SUMMARY] Streams=209
