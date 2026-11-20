@@ -24,8 +24,8 @@
 [HLS] Low
 
 [INFO] Event: Formula 1
-[INFO] Date: 20/11/2026
-[INFO] Time: 07:30
+[INFO] Date: 21/11/2026
+[INFO] Time: 06:30
 [INFO] Streams Found: 14
 [DRM] FANCODE - AQ
 [DRM] SporTV BR FHD
@@ -93,7 +93,7 @@
 [HLS] Backup
 
 [INFO] Event: ISL
-[INFO] Date: 20/11/2026
+[INFO] Date: 21/11/2026
 [INFO] Time: 18:30
 [INFO] Streams Found: 6
 [DRM] PRIME VIDEO FHD
@@ -104,8 +104,8 @@
 [HLS] SonyLiv (TAM)
 
 [INFO] Event: Tennis
-[INFO] Date: 20/11/2026
-[INFO] Time: 06:00
+[INFO] Date: 21/11/2026
+[INFO] Time: 00:00
 [INFO] Streams Found: 4
 [DRM] beIN ENGLISH FHD
 [DRM] SK TOP EVENT ALT
@@ -113,8 +113,8 @@
 [HLS] Low
 
 [INFO] Event: WBBL | Womens Big Bash League
-[INFO] Date: 20/11/2026
-[INFO] Time: 15:10
+[INFO] Date: 21/11/2026
+[INFO] Time: 08:00
 [INFO] Streams Found: 9
 [DRM] WILLOW FHD
 [HLS] SK CRICKET FHD
@@ -136,17 +136,6 @@
 [HLS] MYCO LIVE HD
 [HLS] A SPORTS HD
 [HLS] TAMASHA FHD
-
-[INFO] Event: ICC World Test Championship
-[INFO] Date: 20/11/2026
-[INFO] Time: 11:30
-[INFO] Streams Found: 6
-[DRM] Willow FHD
-[DRM] WILLOW ALT
-[HLS] PTV SPORTS HD
-[HLS] TAPMAD FHD
-[HLS] TAPMAD ALT
-[HLS] Low
 
 [INFO] Event: NFL Redzone
 [INFO] Date: 23/11/2026
@@ -257,13 +246,13 @@
 [INFO] Date: 22/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] Link 1 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 22/11/2026
 [INFO] Time: 10:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] Link 1 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 23/11/2026
@@ -287,7 +276,7 @@
 [INFO] Date: 22/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] Link 1 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 22/11/2026
@@ -299,7 +288,7 @@
 [INFO] Date: 22/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] Link 1 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 22/11/2026
@@ -404,7 +393,7 @@
 [HLS] Link 1
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 20/11/2026
+[INFO] Date: 21/11/2026
 [INFO] Time: 05:00
 [INFO] Streams Found: 12
 [DRM] WILLOW FHD
@@ -420,98 +409,21 @@
 [HLS] SonyLiv (TAM)
 [HLS] SonyLiv (KAN)
 
-[INFO] Event: Men's Asia Cup Rising Stars 2026
-[INFO] Date: 20/11/2026
-[INFO] Time: 13:00
-[INFO] Streams Found: 9
-[DRM] WILLOW FHD
-[DRM] STARZPLAY FHD
-[DRM] STARZPLAY FHD
-[DRM] WILLOW ALT
-[HLS] SonyLiv (Asia)
-[HLS] TEN SPORTS HD
-[HLS] SONY TEN HD
-[HLS] Cricfy HD
-[HLS] TAMASHA (PAK)
-
-[INFO] Event: Men's Asia Cup Rising Stars 2026
-[INFO] Date: 20/11/2026
-[INFO] Time: 17:00
-[INFO] Streams Found: 8
-[DRM] WILLOW FHD
-[DRM] WILLOW ALT
-[HLS] SonyLiv (ENG)
-[HLS] SonyLiv (HIN)
-[HLS] SonyLiv (TEL)
-[HLS] SonyLiv (TAM)
-[HLS] SonyLiv (KAN)
-[HLS] TEN SPORTS HD
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: Saudi Pro League
 [INFO] Date: 21/11/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] FOX DEPORTES FHD
+[DRM] SportDigital Fussball
+[HLS] Cricfy HD
 
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 21/11/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] beIN ENGLISH FHD
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 21/11/2026
@@ -522,32 +434,37 @@
 [INFO] Event: Bundesliga
 [INFO] Date: 21/11/2026
 [INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] beIN ENGLISH FHD
+[DRM] SK TOP EVENT FHD
+[HLS] Cricfy HD
 
 [INFO] Event: League One
 [INFO] Date: 21/11/2026
 [INFO] Time: 03:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] beIN ENGLISH FHD
 
 [INFO] Event: LaLiga
 [INFO] Date: 21/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] PREMIER SPORTS FHD
+[DRM] D SPORTS FHD
+[HLS] Cricfy HD
 
 [INFO] Event: Ligue 1
 [INFO] Date: 21/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] beIN XTRA FHD
+[HLS] Cricfy HD
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 21/11/2026
 [INFO] Time: 02:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] LaLiga Hypermotion
 
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 21/11/2026
@@ -576,8 +493,9 @@
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 21/11/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Premier League
 [INFO] Date: 21/11/2026
@@ -729,35 +647,26 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: UEFA Nations League - Play Off Draw
-[INFO] Date: 20/11/2026
-[INFO] Time: 18:00
-[INFO] Streams Found: 1
-[DRM] FOX SPORTS FHD
-
 [INFO] Event: U17 World Championship
 [INFO] Date: 20/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Time: 23:00
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: U17 World Championship
 [INFO] Date: 20/11/2026
 [INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 20/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: U17 World Championship
 [INFO] Date: 20/11/2026
 [INFO] Time: 22:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: U17 World Championship
 [INFO] Date: 21/11/2026
@@ -778,34 +687,17 @@
 [HLS] Link 1
 
 [INFO] Event: U17 World Championship
-[INFO] Date: 20/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 20/11/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 20/11/2026
-[INFO] Time: 20:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
 [INFO] Date: 21/11/2026
 [INFO] Time: 20:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: U17 World Championship
-[INFO] Date: 20/11/2026
-[INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Event: Italia T10 League
+[INFO] Date: 21/11/2026
+[INFO] Time: 18:00
+[INFO] Streams Found: 2
+[DRM] UNBEATEN FHD
+[HLS] SandBrix HD
 
-[SUMMARY] Events=115
-[SUMMARY] Streams=234
+[SUMMARY] Events=98
+[SUMMARY] Streams=211
