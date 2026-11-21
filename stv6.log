@@ -1,6 +1,23 @@
+[INFO] Event: ICC World Test Championship
+[INFO] Date: 21/11/2026
+[INFO] Time: 05:00
+[INFO] Streams Found: 12
+[DRM] WILLOW FHD
+[DRM] PRIME HINDI FHD
+[DRM] PRIME ENG FHD
+[DRM] TNT SPORTS FHD
+[HLS] TAPMAD FHD
+[DRM] WILLOW ALT
+[HLS] SonyLiv (ENG)
+[HLS] TEN SPORTS HD
+[HLS] SonyLiv (HIN)
+[HLS] SonyLiv (TEL)
+[HLS] SonyLiv (TAM)
+[HLS] SonyLiv (KAN)
+
 [INFO] Event: MotoGP
-[INFO] Date: 20/11/2026
-[INFO] Time: 17:45
+[INFO] Date: 21/11/2026
+[INFO] Time: 17:10
 [INFO] Streams Found: 9
 [DRM] TNT SPORTS FHD
 [DRM] FANCODE FHD
@@ -13,7 +30,7 @@
 [HLS] Low
 
 [INFO] Event: ONE Friday Fights
-[INFO] Date: 20/11/2026
+[INFO] Date: 27/11/2026
 [INFO] Time: 19:00
 [INFO] Streams Found: 6
 [DRM] One Fight - AQ
@@ -50,10 +67,10 @@
 [HLS] WWE LIVE FHD
 [HLS] Cricfy TV+ HD
 [HLS] HD QUALITY
-[TOKEN_API] CricFy FHD (embed)
 [TOKEN_API] Cricfy WWE (embed)
+[TOKEN_API] CricFy FHD (embed)
 
-[INFO] Event: Nepal Premier League, 2026
+[INFO] Event: Nepal Premier League 2026 Final
 [INFO] Date: 21/11/2026
 [INFO] Time: 18:15
 [INFO] Streams Found: 5
@@ -115,27 +132,13 @@
 [INFO] Event: WBBL | Womens Big Bash League
 [INFO] Date: 21/11/2026
 [INFO] Time: 08:00
-[INFO] Streams Found: 9
+[INFO] Streams Found: 6
 [DRM] WILLOW FHD
 [HLS] SK CRICKET FHD
 [DRM] WILLOW ALT
 [DRM] WILLOW HD
 [HLS] TAPMAD FHD
 [HLS] FANCODE (IND)
-[TOKEN_API] Sky S 1 NZ (embed)
-[TOKEN_API] SKY UK (embed)
-[HLS] Low
-
-[INFO] Event: Abu Dhabi T10 League
-[INFO] Date: 20/11/2026
-[INFO] Time: 20:30
-[INFO] Streams Found: 6
-[DRM] WILLOW FHD
-[DRM] PREMIER SPORTS FHD
-[DRM] WILLOW ALT
-[HLS] MYCO LIVE HD
-[HLS] A SPORTS HD
-[HLS] TAMASHA FHD
 
 [INFO] Event: NFL Redzone
 [INFO] Date: 23/11/2026
@@ -185,7 +188,9 @@
 [INFO] Event: NBA
 [INFO] Date: 21/11/2026
 [INFO] Time: 07:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 3
+[DRM] TSN FHD
+[DRM] TSN 1 FHD
 [TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
@@ -392,39 +397,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: ICC World Test Championship
-[INFO] Date: 21/11/2026
-[INFO] Time: 05:00
-[INFO] Streams Found: 12
-[DRM] WILLOW FHD
-[DRM] PRIME HINDI FHD
-[DRM] PRIME ENG FHD
-[DRM] TNT SPORTS FHD
-[HLS] TAPMAD FHD
-[DRM] WILLOW ALT
-[HLS] SonyLiv (ENG)
-[HLS] TEN SPORTS HD
-[HLS] SonyLiv (HIN)
-[HLS] SonyLiv (TEL)
-[HLS] SonyLiv (TAM)
-[HLS] SonyLiv (KAN)
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 3
-[DRM] FOX DEPORTES FHD
-[DRM] SportDigital Fussball
-[HLS] Cricfy HD
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 3
-[DRM] beIN ENGLISH FHD
-[HLS] Cricfy HD
-[HLS] Low
-
 [INFO] Event: LaLiga 2
 [INFO] Date: 21/11/2026
 [INFO] Time: 20:00
@@ -489,13 +461,6 @@
 [INFO] Time: 19:00
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 21/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
 
 [INFO] Event: Premier League
 [INFO] Date: 21/11/2026
@@ -648,27 +613,6 @@
 [HLS] Link 1
 
 [INFO] Event: U17 World Championship
-[INFO] Date: 20/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 20/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 20/11/2026
-[INFO] Time: 22:30
-[INFO] Streams Found: 2
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: U17 World Championship
 [INFO] Date: 21/11/2026
 [INFO] Time: 19:30
 [INFO] Streams Found: 1
@@ -699,5 +643,31 @@
 [DRM] UNBEATEN FHD
 [HLS] SandBrix HD
 
-[SUMMARY] Events=98
-[SUMMARY] Streams=211
+[INFO] Event: Taça de Portugal
+[INFO] Date: 21/11/2026
+[INFO] Time: 03:45
+[INFO] Streams Found: 3
+[DRM] beIN SPORTS FHD
+[DRM] beIN Español FHD
+[HLS] Low Server
+
+[INFO] Event: ITALIA T10 LEAGUE
+[INFO] Date: 21/11/2026
+[INFO] Time: 18:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Men's Asia Cup Rising Stars 2026
+[INFO] Date: 21/11/2026
+[INFO] Time: 13:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Men's Asia Cup Rising Stars 2026
+[INFO] Date: 21/11/2026
+[INFO] Time: 17:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=95
+[SUMMARY] Streams=196
