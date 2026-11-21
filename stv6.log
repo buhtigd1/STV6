@@ -1,5 +1,5 @@
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 21/11/2026
+[INFO] Date: 22/11/2026
 [INFO] Time: 05:00
 [INFO] Streams Found: 12
 [DRM] WILLOW FHD
@@ -60,7 +60,7 @@
 [HLS] Low
 
 [INFO] Event: WWE Friday Night SmackDown
-[INFO] Date: 21/11/2026
+[INFO] Date: 28/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 6
 [HLS] Cricfy WWE
@@ -122,7 +122,7 @@
 
 [INFO] Event: Tennis
 [INFO] Date: 21/11/2026
-[INFO] Time: 00:00
+[INFO] Time: 20:30
 [INFO] Streams Found: 4
 [DRM] beIN ENGLISH FHD
 [DRM] SK TOP EVENT ALT
@@ -180,62 +180,6 @@
 [HLS] Low
 
 [INFO] Event: NBA
-[INFO] Date: 21/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 21/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 3
-[DRM] TSN FHD
-[DRM] TSN 1 FHD
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 21/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 21/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 21/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 21/11/2026
-[INFO] Time: 09:30
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 21/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 21/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 21/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NBA
 [INFO] Date: 23/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
@@ -286,8 +230,10 @@
 [INFO] Event: NBA
 [INFO] Date: 22/11/2026
 [INFO] Time: 01:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 3
 [TOKEN_API] NBA (embed)
+[TOKEN_API] beIN SPORT 2 (embed)
+[TOKEN_API] EXTRA SPORT12 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 22/11/2026
@@ -403,41 +349,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Bundesliga
-[INFO] Date: 21/11/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 3
-[DRM] beIN ENGLISH FHD
-[DRM] SK TOP EVENT FHD
-[HLS] Cricfy HD
-
-[INFO] Event: League One
-[INFO] Date: 21/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[DRM] beIN ENGLISH FHD
-
-[INFO] Event: LaLiga
-[INFO] Date: 21/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 3
-[DRM] PREMIER SPORTS FHD
-[DRM] D SPORTS FHD
-[HLS] Cricfy HD
-
-[INFO] Event: Ligue 1
-[INFO] Date: 21/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 2
-[HLS] beIN XTRA FHD
-[HLS] Cricfy HD
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 21/11/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 1
-[DRM] LaLiga Hypermotion
-
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 21/11/2026
 [INFO] Time: 19:00
@@ -460,49 +371,73 @@
 [INFO] Date: 21/11/2026
 [INFO] Time: 19:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] Server 4 (embed)
 
 [INFO] Event: Premier League
 [INFO] Date: 21/11/2026
 [INFO] Time: 19:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 8
+[TOKEN_API] Cricfy HD Plus (embed)
+[TOKEN_API] canal+ foot (embed)
+[TOKEN_API] UK TNT SPORT (embed)
+[TOKEN_API] ES DAZN 1 (embed)
+[TOKEN_API] IT SKY CALCIO (embed)
+[TOKEN_API] DE skyde PL (embed)
+[TOKEN_API] NBC UNIVERSO (embed)
+[TOKEN_API] ESPN1 (embed)
 
 [INFO] Event: Premier League
 [INFO] Date: 21/11/2026
 [INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[TOKEN_API] C+Live 5 (embed)
+[TOKEN_API] https://104game.click/player/2/155 (embed)
+[TOKEN_API] UK EPL 3PM (embed)
 
 [INFO] Event: Premier League
 [INFO] Date: 21/11/2026
 [INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[TOKEN_API] C+Live 6 (embed)
+[TOKEN_API] dazn baloncesto 2 (embed)
+[TOKEN_API] UK EPL 3PM (embed)
 
 [INFO] Event: Premier League
 [INFO] Date: 21/11/2026
 [INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[TOKEN_API] C+Live 4 (embed)
+[TOKEN_API] ES DAZN 2 (embed)
+[TOKEN_API] UK EPL 3PM (embed)
 
 [INFO] Event: Premier League
 [INFO] Date: 21/11/2026
 [INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[TOKEN_API] C+Live 3 (embed)
+[TOKEN_API] NBC UNIVERSO (embed)
+[TOKEN_API] UK F1 (embed)
 
 [INFO] Event: Premier League
 [INFO] Date: 22/11/2026
 [INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 6
+[TOKEN_API] canal+ foot (embed)
+[TOKEN_API] UK SKY MAIN (embed)
+[TOKEN_API] ES DAZN 1 (embed)
+[TOKEN_API] IT SKY CALCIO (embed)
+[TOKEN_API] DE skyde PL (embed)
+[TOKEN_API] Telemundo (embed)
 
 [INFO] Event: Premier League
 [INFO] Date: 21/11/2026
 [INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[TOKEN_API] C+Live 2 (embed)
+[TOKEN_API] ES DAZN 1 (embed)
+[TOKEN_API] IT SKY CALCIO (embed)
+[TOKEN_API] ESPN1 (embed)
+[TOKEN_API] UK EPL 3PM (embed)
 
 [INFO] Event: Ligue 1
 [INFO] Date: 22/11/2026
@@ -514,7 +449,7 @@
 [INFO] Date: 21/11/2026
 [INFO] Time: 23:15
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] Cricfy HD Plus (embed)
 
 [INFO] Event: Ligue 1
 [INFO] Date: 22/11/2026
@@ -555,8 +490,14 @@
 [INFO] Event: Serie A
 [INFO] Date: 22/11/2026
 [INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 7
+[TOKEN_API] C+Live 15 (embed)
+[TOKEN_API] IT Zona DAZN (embed)
+[TOKEN_API] ES Vamos (embed)
+[TOKEN_API] PT SPORT 2 (embed)
+[TOKEN_API] NBC UNIVERSO (embed)
+[TOKEN_API] ESPN1 (embed)
+[TOKEN_API] ESPN1MX (embed)
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 22/11/2026
@@ -643,14 +584,6 @@
 [DRM] UNBEATEN FHD
 [HLS] SandBrix HD
 
-[INFO] Event: Taça de Portugal
-[INFO] Date: 21/11/2026
-[INFO] Time: 03:45
-[INFO] Streams Found: 3
-[DRM] beIN SPORTS FHD
-[DRM] beIN Español FHD
-[HLS] Low Server
-
 [INFO] Event: ITALIA T10 LEAGUE
 [INFO] Date: 21/11/2026
 [INFO] Time: 18:30
@@ -660,8 +593,11 @@
 [INFO] Event: Men's Asia Cup Rising Stars 2026
 [INFO] Date: 21/11/2026
 [INFO] Time: 13:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] STARZPLAY FHD
+[HLS] SonyLiv (Asia)
+[HLS] HD QUALITY
+[HLS] CRICBUZZ (IND)
 
 [INFO] Event: Men's Asia Cup Rising Stars 2026
 [INFO] Date: 21/11/2026
@@ -669,5 +605,19 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=95
-[SUMMARY] Streams=196
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 21/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 21/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 3
+[TOKEN_API] beIN SPORT max 9 (embed)
+[TOKEN_API] TR BeIN sport 1 (embed)
+[TOKEN_API] ESPN4MX (embed)
+
+[SUMMARY] Events=82
+[SUMMARY] Streams=211
