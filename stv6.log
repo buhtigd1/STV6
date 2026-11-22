@@ -1,5 +1,5 @@
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 22/11/2026
+[INFO] Date: 23/11/2026
 [INFO] Time: 05:00
 [INFO] Streams Found: 11
 [DRM] WILLOW FHD
@@ -107,8 +107,8 @@
 [HLS] SonyLiv (TAM)
 
 [INFO] Event: Tennis
-[INFO] Date: 21/11/2026
-[INFO] Time: 20:30
+[INFO] Date: 22/11/2026
+[INFO] Time: 14:45
 [INFO] Streams Found: 4
 [DRM] beIN ENGLISH FHD
 [DRM] SK TOP EVENT ALT
@@ -169,151 +169,44 @@
 [INFO] Date: 23/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 23/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NBA
-[INFO] Date: 22/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 2
 [TOKEN_API] NBA (embed)
-[TOKEN_API] EXTRA SPORT31 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 22/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 2
-[TOKEN_API] MLB (embed)
-[TOKEN_API] EXTRA SPORT33 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 23/11/2026
 [INFO] Time: 03:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[TOKEN_API] NBA (embed)
+[TOKEN_API] NBA 1 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 23/11/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 23/11/2026
 [INFO] Time: 08:30
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NBA
-[INFO] Date: 22/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 2
 [TOKEN_API] NBA (embed)
-[TOKEN_API] EXTRA SPORT28 (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 22/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 3
-[TOKEN_API] NBA (embed)
-[TOKEN_API] EXTRA SPORT30 (embed)
-[TOKEN_API] ESPN1MX (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 22/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 2
-[TOKEN_API] NBA (embed)
-[TOKEN_API] EXTRA SPORT27 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 23/11/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 23/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 09:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 22/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] Link 1 (embed)
+[TOKEN_API] NBA (embed)
 
 [INFO] Event: Serie A
 [INFO] Date: 22/11/2026
@@ -377,15 +270,227 @@
 
 [INFO] Event: Men's Asia Cup Rising Stars 2026
 [INFO] Date: 22/11/2026
-[INFO] Time: 13:00
+[INFO] Time: 17:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Womens Emerging Nations Trophy
+[INFO] Date: 22/11/2026
+[INFO] Time: 16:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Womens Emerging Nations Trophy
+[INFO] Date: 22/11/2026
+[INFO] Time: 12:00
+[INFO] Streams Found: 1
+[HLS] TAMASHA FHD
+
+[INFO] Event: Womens Emerging Nations Trophy
+[INFO] Date: 22/11/2026
+[INFO] Time: 12:00
+[INFO] Streams Found: 3
+[HLS] PTV SPORTS FHD
+[HLS] TAMASHA FHD
+[HLS] MYCO (PAK)
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 23/11/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 23/11/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Bundesliga
+[INFO] Date: 22/11/2026
+[INFO] Time: 23:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 23/11/2026
+[INFO] Time: 05:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Ligue 1
+[INFO] Date: 22/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 23/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 22/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Bundesliga
+[INFO] Date: 22/11/2026
+[INFO] Time: 21:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 23/11/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 23/11/2026
+[INFO] Time: 04:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 22/11/2026
+[INFO] Time: 22:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 23/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 23/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 22/11/2026
+[INFO] Time: 22:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A Women
+[INFO] Date: 22/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Ligue 1
+[INFO] Date: 22/11/2026
+[INFO] Time: 23:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 22/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 22/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 22/11/2026
+[INFO] Time: 22:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 22/11/2026
+[INFO] Time: 22:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 23/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 23/11/2026
+[INFO] Time: 02:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 22/11/2026
+[INFO] Time: 19:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 22/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 22/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Trendyol Süper Lig
+[INFO] Date: 22/11/2026
+[INFO] Time: 20:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: Men's Asia Cup Rising Stars 2026
 [INFO] Date: 22/11/2026
-[INFO] Time: 17:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Time: 14:00
+[INFO] Streams Found: 5
+[DRM] WILLOW FHD
+[DRM] STARZPLAY FHD
+[DRM] WILLOW - ALT
+[HLS] SonyLiv (Asia)
+[HLS] HD QUALITY
 
-[SUMMARY] Events=49
-[SUMMARY] Streams=144
+[INFO] Event: NHL
+[INFO] Date: 23/11/2026
+[INFO] Time: 05:00
+[INFO] Streams Found: 2
+[TOKEN_API] EXTRA SPORT30 (embed)
+[TOKEN_API] NHL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 23/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 23/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 23/11/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 2
+[TOKEN_API] NHL (embed)
+[TOKEN_API] NHL tai (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 23/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[SUMMARY] Events=66
+[SUMMARY] Streams=164
