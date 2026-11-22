@@ -1,3 +1,17 @@
+[INFO] Event: LaLiga
+[INFO] Date: 23/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 9
+[DRM] DAZN SPORTS FHD
+[DRM] PREMIER SPORTS FHD
+[DRM] beIN ENGLISH FHD
+[DRM] FANCODE FHD
+[DRM] CazéTV FHD
+[HLS] ESPN DEPORTES HD
+[DRM] FANCODE SD
+[HLS] HD Server
+[HLS] Low Server
+
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 23/11/2026
 [INFO] Time: 05:00
@@ -15,8 +29,8 @@
 [HLS] SonyLiv (KAN)
 
 [INFO] Event: MotoGP
-[INFO] Date: 22/11/2026
-[INFO] Time: 20:00
+[INFO] Date: 27/11/2026
+[INFO] Time: 16:45
 [INFO] Streams Found: 9
 [DRM] TNT SPORTS FHD
 [DRM] FANCODE FHD
@@ -99,7 +113,7 @@
 [HLS] Backup
 
 [INFO] Event: ISL
-[INFO] Date: 22/11/2026
+[INFO] Date: 24/11/2026
 [INFO] Time: 21:00
 [INFO] Streams Found: 3
 [HLS] SonyLiv (ENG)
@@ -108,7 +122,7 @@
 
 [INFO] Event: Tennis
 [INFO] Date: 23/11/2026
-[INFO] Time: 00:00
+[INFO] Time: 07:26
 [INFO] Streams Found: 4
 [DRM] beIN ENGLISH FHD
 [DRM] SK TOP EVENT ALT
@@ -125,18 +139,6 @@
 [DRM] WILLOW HD
 [HLS] TAPMAD FHD
 [HLS] FANCODE (IND)
-
-[INFO] Event: NFL Redzone
-[INFO] Date: 23/11/2026
-[INFO] Time: 01:00
-[INFO] Streams Found: 7
-[DRM] RedZone - Week 9
-[DRM] REDZONE FHD
-[HLS] NFL RedZone HD
-[HLS] Cricfy HD
-[HLS] Cricfy Live
-[HLS] CRFY Stream
-[HLS] Low
 
 [INFO] Event: One Day International
 [INFO] Date: 24/11/2026
@@ -180,9 +182,11 @@
 [INFO] Event: NBA
 [INFO] Date: 23/11/2026
 [INFO] Time: 03:30
-[INFO] Streams Found: 2
+[INFO] Streams Found: 4
+[HLS] CricFy Live
+[HLS] Low Server
+[TOKEN_API] NBA FHD (embed)
 [TOKEN_API] NBA (embed)
-[TOKEN_API] NBA 1 (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 23/11/2026
@@ -209,8 +213,8 @@
 [TOKEN_API] NBA (embed)
 
 [INFO] Event: International League T20
-[INFO] Date: 22/11/2026
-[INFO] Time: 17:00
+[INFO] Date: 23/11/2026
+[INFO] Time: 21:30
 [INFO] Streams Found: 6
 [DRM] WILLOW FHD
 [DRM] TNT SPORTS FHD
@@ -219,147 +223,43 @@
 [HLS] TEN SPORTS HD
 [DRM] FANCODE SD
 
-[INFO] Event: Men's Asia Cup Rising Stars 2026
-[INFO] Date: 22/11/2026
-[INFO] Time: 17:00
-[INFO] Streams Found: 9
-[DRM] WILLOW FHD
-[DRM] WILLOW ALT
-[HLS] SonyLiv (ENG)
-[HLS] SonyLiv (HIN)
-[HLS] SonyLiv (TAM)
-[HLS] SonyLiv (TEL)
-[HLS] SonyLiv (KAN)
-[HLS] TEN SPORTS HD
-[HLS] TAMASHA (PAK)
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 23/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: LaLiga
-[INFO] Date: 23/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 4
-[DRM] PREMIER SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] FANCODE FHD
-[DRM] CazéTV FHD
-
-[INFO] Event: Bundesliga
-[INFO] Date: 22/11/2026
-[INFO] Time: 23:30
-[INFO] Streams Found: 4
-[DRM] DAZN SPORTS FHD
-[HLS] Cricfy HD
-[HLS] Cricfy Live
-[HLS] Low
-
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 23/11/2026
 [INFO] Time: 05:30
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: LaLiga
-[INFO] Date: 23/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Bundesliga
-[INFO] Date: 22/11/2026
-[INFO] Time: 21:30
-[INFO] Streams Found: 2
-[DRM] PEACOCK ES FHD
-[DRM] DAZN DE FHD
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 23/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 1
-[DRM] LaLiga Hypermotion
+[DRM] Link 1
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 23/11/2026
 [INFO] Time: 04:30
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 22/11/2026
-[INFO] Time: 22:15
-[INFO] Streams Found: 1
-[DRM] LaLiga Hypermotion
+[DRM] Link 1
 
 [INFO] Event: Serie A
 [INFO] Date: 23/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 4
+[INFO] Streams Found: 9
+[DRM] DAZN SPORTS FHD
+[DRM] PARAMOUNT+ FHD
+[DRM] PEACOCK ES FHD
 [DRM] TNT SPORTS FHD
 [DRM] beIN ENGLISH FHD
 [DRM] CBS SPORTS FHD
 [DRM] SPORT 1 CZ FHD
+[HLS] HD QUALITY
+[HLS] LOW QUALITY
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 23/11/2026
 [INFO] Time: 03:00
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: LaLiga
-[INFO] Date: 22/11/2026
-[INFO] Time: 22:15
-[INFO] Streams Found: 8
-[DRM] DAZN SPORTS FHD
-[DRM] PREMIER SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] FANCODE FHD
-[DRM] CazéTV FHD
-[HLS] ESPN DEPORTES HD
-[DRM] FANCODE SD
-[HLS] Low
-
-[INFO] Event: Ligue 1
-[INFO] Date: 22/11/2026
-[INFO] Time: 23:15
-[INFO] Streams Found: 3
-[TOKEN_API] LIGUE 1 FR 1 (embed)
-[TOKEN_API] PT SPORT 3 (embed)
-[TOKEN_API] beIN En español (embed)
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 22/11/2026
-[INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 22/11/2026
-[INFO] Time: 22:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 22/11/2026
-[INFO] Time: 22:30
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: Serie A
-[INFO] Date: 23/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 2
-[DRM] beIN ENGLISH FHD
-[DRM] SPORT 1 CZ FHD
+[DRM] LaLiga Hypermotion
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 23/11/2026
 [INFO] Time: 02:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] PREMIERE BR FHD
 
 [INFO] Event: NHL
 [INFO] Date: 23/11/2026
@@ -382,59 +282,60 @@
 
 [INFO] Event: NHL
 [INFO] Date: 23/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 2
-[TOKEN_API] NHL (embed)
-[TOKEN_API] NHL tai (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 23/11/2026
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
 [TOKEN_API] NHL (embed)
 
-[INFO] Event: Women's Super League
-[INFO] Date: 22/11/2026
-[INFO] Time: 21:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 22/11/2026
-[INFO] Time: 21:30
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: Trendyol Süper Lig
-[INFO] Date: 22/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 8
-[DRM] beIN SPORTS FHD
-[TOKEN_API] beIN SPORT max 5 (embed)
-[TOKEN_API] TR BeIN sport 1 (embed)
-[TOKEN_API] ESPN7 (embed)
-[TOKEN_API] FOXsport3 arg (embed)
-[TOKEN_API] ESPN3MX (embed)
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: Premier League
-[INFO] Date: 22/11/2026
-[INFO] Time: 23:30
-[INFO] Streams Found: 7
-[DRM] FUBO SPORTS FHD
-[DRM] SK SPORT PL FHD
-[DRM] FUBO SPORTS ALT
-[HLS] SK SPORTS EPL
-[HLS] Cricfy HD Plus
-[HLS] Cricfy HD
-[HLS] Low
-
 [INFO] Event: Ligue 1
 [INFO] Date: 23/11/2026
 [INFO] Time: 02:45
+[INFO] Streams Found: 5
+[DRM] DAZN SPORTS FHD
+[DRM] beIN SPORTS FHD
+[DRM] beIN Español FHD
+[HLS] HD QUALITY
+[HLS] LOW QUALITY
+
+[INFO] Event: NFL
+[INFO] Date: 23/11/2026
+[INFO] Time: 04:25
+[INFO] Streams Found: 3
+[DRM] TSN SPORTS 1 FHD
+[DRM] TSN SPORTS 3 FHD
+[HLS] CricFy Live
+
+[INFO] Event: NFL
+[INFO] Date: 23/11/2026
+[INFO] Time: 04:25
+[INFO] Streams Found: 2
+[DRM] SporTV BR FHD
+[HLS] CricFy Live
+
+[INFO] Event: NFL
+[INFO] Date: 23/11/2026
+[INFO] Time: 08:20
+[INFO] Streams Found: 2
+[DRM] TSN SPORTS FHD
+[DRM] SporTV BR FHD
+
+[INFO] Event: NFL
+[INFO] Date: 24/11/2026
+[INFO] Time: 08:15
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=51
-[SUMMARY] Streams=183
+[INFO] Event: NFL
+[INFO] Date: 23/11/2026
+[INFO] Time: 04:05
+[INFO] Streams Found: 2
+[DRM] NFL GAMEPASS FHD
+[HLS] CricFy Live
+
+[INFO] Event: Men's Asia Cup Rising Stars 2026
+[INFO] Date: 23/11/2026
+[INFO] Time: 13:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=38
+[SUMMARY] Streams=149
