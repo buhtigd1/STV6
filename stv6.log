@@ -1,5 +1,5 @@
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 23/11/2026
+[INFO] Date: 24/11/2026
 [INFO] Time: 05:00
 [INFO] Streams Found: 11
 [DRM] WILLOW FHD
@@ -98,18 +98,9 @@
 [HLS] TBD SPORTS HD
 [HLS] Backup
 
-[INFO] Event: Tennis
-[INFO] Date: 23/11/2026
-[INFO] Time: 07:26
-[INFO] Streams Found: 4
-[DRM] beIN ENGLISH FHD
-[DRM] SK TOP EVENT ALT
-[DRM] TENNIS CHANNEL 2
-[HLS] Low
-
 [INFO] Event: WBBL | Womens Big Bash League
-[INFO] Date: 23/11/2026
-[INFO] Time: 11:40
+[INFO] Date: 25/11/2026
+[INFO] Time: 15:10
 [INFO] Streams Found: 6
 [DRM] WILLOW FHD
 [HLS] SK CRICKET FHD
@@ -145,51 +136,6 @@
 [HLS] T SPORTS HD
 [HLS] Low
 
-[INFO] Event: NBA
-[INFO] Date: 23/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 23/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 23/11/2026
-[INFO] Time: 03:30
-[INFO] Streams Found: 4
-[HLS] CricFy Live
-[HLS] Low Server
-[TOKEN_API] NBA FHD (embed)
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 23/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 23/11/2026
-[INFO] Time: 08:30
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 23/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 23/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
 [INFO] Event: International League T20
 [INFO] Date: 23/11/2026
 [INFO] Time: 21:30
@@ -201,83 +147,365 @@
 [HLS] TEN SPORTS HD
 [DRM] FANCODE SD
 
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 23/11/2026
-[INFO] Time: 05:30
-[INFO] Streams Found: 1
-[DRM] Cricfy HD
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 23/11/2026
-[INFO] Time: 04:30
-[INFO] Streams Found: 1
-[DRM] Link 1
-
-[INFO] Event: NHL
-[INFO] Date: 23/11/2026
-[INFO] Time: 05:00
-[INFO] Streams Found: 2
-[TOKEN_API] EXTRA SPORT30 (embed)
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 23/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 23/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 23/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 23/11/2026
-[INFO] Time: 04:25
-[INFO] Streams Found: 3
-[DRM] TSN SPORTS 1 FHD
-[DRM] TSN SPORTS 3 FHD
-[HLS] CricFy Live
-
-[INFO] Event: NFL
-[INFO] Date: 23/11/2026
-[INFO] Time: 04:25
-[INFO] Streams Found: 2
-[DRM] SporTV BR FHD
-[HLS] CricFy Live
-
-[INFO] Event: NFL
-[INFO] Date: 23/11/2026
-[INFO] Time: 08:20
-[INFO] Streams Found: 2
-[DRM] TSN SPORTS FHD
-[DRM] SporTV BR FHD
-
 [INFO] Event: NFL
 [INFO] Date: 24/11/2026
 [INFO] Time: 08:15
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NFL
-[INFO] Date: 23/11/2026
-[INFO] Time: 04:05
-[INFO] Streams Found: 2
-[DRM] NFL GAMEPASS FHD
-[HLS] CricFy Live
-
 [INFO] Event: Men's Asia Cup Rising Stars 2026
 [INFO] Date: 23/11/2026
 [INFO] Time: 13:00
+[INFO] Streams Found: 5
+[DRM] WILLOW FHD
+[DRM] STARZPLAY FHD
+[DRM] WILLOW ALT
+[HLS] SonyLiv (Asia)
+[HLS] Cricfy HD
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 23/11/2026
+[INFO] Time: 19:30
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=32
-[SUMMARY] Streams=121
+[INFO] Event: U17 World Championship
+[INFO] Date: 23/11/2026
+[INFO] Time: 20:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 23/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 23/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 23/11/2026
+[INFO] Time: 22:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 23/11/2026
+[INFO] Time: 22:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 23/11/2026
+[INFO] Time: 21:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 23/11/2026
+[INFO] Time: 19:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 24/11/2026
+[INFO] Time: 01:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 24/11/2026
+[INFO] Time: 01:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 23/11/2026
+[INFO] Time: 20:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 23/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 23/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 23/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: LaLiga
+[INFO] Date: 24/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 24/11/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 24/11/2026
+[INFO] Time: 05:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Serie A
+[INFO] Date: 24/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[TOKEN_API] CRFY Stream (embed)
+
+[INFO] Event: LaLiga 2
+[INFO] Date: 24/11/2026
+[INFO] Time: 02:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Two
+[INFO] Date: 24/11/2026
+[INFO] Time: 20:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Youth League
+[INFO] Date: 25/11/2026
+[INFO] Time: 18:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 25/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[TOKEN_API] CRFY Stream (embed)
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 25/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[TOKEN_API] CRFY Stream (embed)
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 25/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[TOKEN_API] CRFY Stream (embed)
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 25/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[TOKEN_API] CRFY Stream (embed)
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 25/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[TOKEN_API] CRFY Stream (embed)
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 25/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[TOKEN_API] CRFY Stream (embed)
+
+[INFO] Event: UEFA Youth League
+[INFO] Date: 25/11/2026
+[INFO] Time: 19:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 25/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[TOKEN_API] CRFY Stream (embed)
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 25/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UFC
+[INFO] Date: 05/12/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Men's Asia Cup Rising Stars 2026
+[INFO] Date: 23/11/2026
+[INFO] Time: 17:00
+[INFO] Streams Found: 9
+[DRM] WILLOW FHD
+[DRM] WILLOW ALT
+[HLS] SonyLiv (ENG)
+[HLS] SonyLiv (HIN)
+[HLS] SonyLiv (TAM)
+[HLS] SonyLiv (TEL)
+[HLS] SonyLiv (KAN)
+[HLS] TEN SPORTS HD
+[HLS] TAMASHA (PAK)
+
+[INFO] Event: NBA
+[INFO] Date: 24/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 24/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 24/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 24/11/2026
+[INFO] Time: 08:30
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 24/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 24/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 24/11/2026
+[INFO] Time: 09:40
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] NHL (embed)
+
+[SUMMARY] Events=70
+[SUMMARY] Streams=159
