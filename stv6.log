@@ -1,17 +1,3 @@
-[INFO] Event: LaLiga
-[INFO] Date: 23/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 9
-[DRM] DAZN SPORTS FHD
-[DRM] PREMIER SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] FANCODE FHD
-[DRM] CazéTV FHD
-[HLS] ESPN DEPORTES HD
-[DRM] FANCODE SD
-[HLS] HD Server
-[HLS] Low Server
-
 [INFO] Event: ICC World Test Championship
 [INFO] Date: 23/11/2026
 [INFO] Time: 05:00
@@ -111,14 +97,6 @@
 [TOKEN_API] AEW FHD (embed)
 [HLS] TBD SPORTS HD
 [HLS] Backup
-
-[INFO] Event: ISL
-[INFO] Date: 24/11/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 3
-[HLS] SonyLiv (ENG)
-[HLS] SonyLiv (HIN)
-[HLS] SonyLiv (TAM)
 
 [INFO] Event: Tennis
 [INFO] Date: 23/11/2026
@@ -227,39 +205,13 @@
 [INFO] Date: 23/11/2026
 [INFO] Time: 05:30
 [INFO] Streams Found: 1
-[DRM] Link 1
+[DRM] Cricfy HD
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 23/11/2026
 [INFO] Time: 04:30
 [INFO] Streams Found: 1
 [DRM] Link 1
-
-[INFO] Event: Serie A
-[INFO] Date: 23/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 9
-[DRM] DAZN SPORTS FHD
-[DRM] PARAMOUNT+ FHD
-[DRM] PEACOCK ES FHD
-[DRM] TNT SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] CBS SPORTS FHD
-[DRM] SPORT 1 CZ FHD
-[HLS] HD QUALITY
-[HLS] LOW QUALITY
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 23/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[DRM] LaLiga Hypermotion
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 23/11/2026
-[INFO] Time: 02:00
-[INFO] Streams Found: 1
-[DRM] PREMIERE BR FHD
 
 [INFO] Event: NHL
 [INFO] Date: 23/11/2026
@@ -285,16 +237,6 @@
 [INFO] Time: 08:00
 [INFO] Streams Found: 1
 [TOKEN_API] NHL (embed)
-
-[INFO] Event: Ligue 1
-[INFO] Date: 23/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 5
-[DRM] DAZN SPORTS FHD
-[DRM] beIN SPORTS FHD
-[DRM] beIN Español FHD
-[HLS] HD QUALITY
-[HLS] LOW QUALITY
 
 [INFO] Event: NFL
 [INFO] Date: 23/11/2026
@@ -337,5 +279,5 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=38
-[SUMMARY] Streams=149
+[SUMMARY] Events=32
+[SUMMARY] Streams=121
