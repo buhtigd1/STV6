@@ -1,5 +1,5 @@
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 24/11/2026
+[INFO] Date: 27/11/2026
 [INFO] Time: 05:00
 [INFO] Streams Found: 11
 [DRM] WILLOW FHD
@@ -125,7 +125,7 @@
 [HLS] Low
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 23/11/2026
+[INFO] Date: 24/11/2026
 [INFO] Time: 15:00
 [INFO] Streams Found: 7
 [DRM] WILLOW FHD
@@ -137,145 +137,71 @@
 [HLS] Low
 
 [INFO] Event: International League T20
-[INFO] Date: 23/11/2026
+[INFO] Date: 24/11/2026
 [INFO] Time: 21:30
-[INFO] Streams Found: 6
+[INFO] Streams Found: 9
 [DRM] WILLOW FHD
 [DRM] TNT SPORTS FHD
 [DRM] FANCODE FHD
 [DRM] WILLOW ALT
 [HLS] TEN SPORTS HD
 [DRM] FANCODE SD
+[HLS] UNITE8 HIN HD
+[DRM] ZEE ZEST (IND)
+[DRM] UNITE8 SPORTS (IND)
 
 [INFO] Event: NFL
 [INFO] Date: 24/11/2026
 [INFO] Time: 08:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Men's Asia Cup Rising Stars 2026
-[INFO] Date: 23/11/2026
-[INFO] Time: 13:00
-[INFO] Streams Found: 5
-[DRM] WILLOW FHD
-[DRM] STARZPLAY FHD
-[DRM] WILLOW ALT
-[HLS] SonyLiv (Asia)
-[HLS] Cricfy HD
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 23/11/2026
-[INFO] Time: 19:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 23/11/2026
-[INFO] Time: 20:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 23/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 23/11/2026
-[INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 23/11/2026
-[INFO] Time: 22:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 23/11/2026
-[INFO] Time: 22:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 23/11/2026
-[INFO] Time: 21:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 23/11/2026
-[INFO] Time: 19:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] TSN4  FHD
+[DRM] TSN5  FHD
+[TOKEN_API] NFL (embed)
 
 [INFO] Event: AFC Champions League Elite
 [INFO] Date: 24/11/2026
 [INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 24/11/2026
-[INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 23/11/2026
-[INFO] Time: 20:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 23/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 23/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 23/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[HLS] Cricfy HD Plus
+[HLS] TAPMAD FHD
+[HLS] Low
 
 [INFO] Event: LaLiga
 [INFO] Date: 24/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 24/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 9
+[DRM] DAZN SPORTS FHD
+[DRM] PREMIER SPORTS FHD
+[DRM] beIN ENGLISH FHD
+[DRM] FANCODE FHD
+[DRM] D SPORTS FHD
+[DRM] FANCODE SD
+[HLS] ESPN DEPORTES HD
+[HLS] Cricfy HD Plus
+[HLS] Low
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 24/11/2026
 [INFO] Time: 05:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] Cricfy FHD
 
 [INFO] Event: Serie A
 [INFO] Date: 24/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
+[INFO] Streams Found: 12
+[DRM] PARAMOUNT+ FHD
+[DRM] DAZN SPORTS FHD
+[DRM] FUBO SPORTS FHD
+[DRM] beIN ENGLISH FHD
+[DRM] PEACOCK ES FHD
+[DRM] DAZN ITALIA FHD
+[DRM] CBS SPORTS FHD
+[DRM] SPORT 1 CZ FHD
 [TOKEN_API] CRFY Stream (embed)
+[HLS] PARAMOUNT+ HD
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 24/11/2026
@@ -391,20 +317,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Men's Asia Cup Rising Stars 2026
-[INFO] Date: 23/11/2026
-[INFO] Time: 17:00
-[INFO] Streams Found: 9
-[DRM] WILLOW FHD
-[DRM] WILLOW ALT
-[HLS] SonyLiv (ENG)
-[HLS] SonyLiv (HIN)
-[HLS] SonyLiv (TAM)
-[HLS] SonyLiv (TEL)
-[HLS] SonyLiv (KAN)
-[HLS] TEN SPORTS HD
-[HLS] TAMASHA (PAK)
-
 [INFO] Event: NBA
 [INFO] Date: 24/11/2026
 [INFO] Time: 10:00
@@ -414,7 +326,10 @@
 [INFO] Event: NBA
 [INFO] Date: 24/11/2026
 [INFO] Time: 07:30
-[INFO] Streams Found: 1
+[INFO] Streams Found: 4
+[DRM] NBA FHD
+[DRM] TSN4 FHD
+[DRM] TSN5 FHD
 [TOKEN_API] NBA (embed)
 
 [INFO] Event: NBA
@@ -467,7 +382,7 @@
 
 [INFO] Event: NHL
 [INFO] Date: 24/11/2026
-[INFO] Time: 10:00
+[INFO] Time: 13:00
 [INFO] Streams Found: 1
 [TOKEN_API] NHL (embed)
 
@@ -507,5 +422,52 @@
 [INFO] Streams Found: 1
 [TOKEN_API] NHL (embed)
 
-[SUMMARY] Events=70
-[SUMMARY] Streams=159
+[INFO] Event: Men's Asia Cup Rising Stars 2026
+[INFO] Date: 24/11/2026
+[INFO] Time: 13:00
+[INFO] Streams Found: 6
+[DRM] WILLOW FHD
+[DRM] STARZPLAY FHD
+[DRM] WILLOW ALT
+[HLS] SonyLiv (Asia)
+[HLS] TEN SPORTS HD
+[HLS] HD QUALITY
+
+[INFO] Event: Men's Asia Cup Rising Stars 2026
+[INFO] Date: 24/11/2026
+[INFO] Time: 17:00
+[INFO] Streams Found: 5
+[DRM] WILLOW FHD
+[DRM] PRIME VIDEO FHD
+[DRM] WILLOW ALT
+[HLS] SonyLiv (Asia)
+[HLS] HD QUALITY
+
+[INFO] Event: Italia T10
+[INFO] Date: 24/11/2026
+[INFO] Time: 18:00
+[INFO] Streams Found: 2
+[DRM] UNBEATEN FHD
+[HLS] SandBrix HD
+
+[INFO] Event: Premier League
+[INFO] Date: 24/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 7
+[DRM] FUBO SPORTS FHD
+[DRM] SKY SPORTS PL FHD
+[DRM] FUBO SPORTS ALT
+[HLS] SKY SPORTS EPL
+[HLS] USA NETWORK HD
+[HLS] Cricfy Live
+[HLS] Low
+
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 24/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 2
+[DRM] SporTV BR FHD
+[DRM] PREMIERE BR FHD
+
+[SUMMARY] Events=58
+[SUMMARY] Streams=181
