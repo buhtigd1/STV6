@@ -70,7 +70,7 @@
 [TOKEN_API] CricFy FHD (embed)
 
 [INFO] Event: Monday Night Raw
-[INFO] Date: 24/11/2026
+[INFO] Date: 01/12/2026
 [INFO] Time: 07:00
 [INFO] Streams Found: 5
 [HLS] CricFy HD
@@ -150,77 +150,12 @@
 [DRM] ZEE ZEST (IND)
 [DRM] UNITE8 SPORTS (IND)
 
-[INFO] Event: NFL
-[INFO] Date: 24/11/2026
-[INFO] Time: 08:15
-[INFO] Streams Found: 3
-[DRM] TSN4  FHD
-[DRM] TSN5  FHD
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 24/11/2026
-[INFO] Time: 01:15
-[INFO] Streams Found: 3
-[HLS] Cricfy HD Plus
-[HLS] TAPMAD FHD
-[HLS] Low
-
-[INFO] Event: LaLiga
-[INFO] Date: 24/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 9
-[DRM] DAZN SPORTS FHD
-[DRM] PREMIER SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] FANCODE FHD
-[DRM] D SPORTS FHD
-[DRM] FANCODE SD
-[HLS] ESPN DEPORTES HD
-[HLS] Cricfy HD Plus
-[HLS] Low
-
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 24/11/2026
-[INFO] Time: 05:30
-[INFO] Streams Found: 1
-[DRM] Cricfy FHD
-
-[INFO] Event: Serie A
-[INFO] Date: 24/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 12
-[DRM] PARAMOUNT+ FHD
-[DRM] DAZN SPORTS FHD
-[DRM] FUBO SPORTS FHD
-[DRM] beIN ENGLISH FHD
-[DRM] PEACOCK ES FHD
-[DRM] DAZN ITALIA FHD
-[DRM] CBS SPORTS FHD
-[DRM] SPORT 1 CZ FHD
-[TOKEN_API] CRFY Stream (embed)
-[HLS] PARAMOUNT+ HD
-[HLS] Cricfy HD
-[HLS] Low
-
-[INFO] Event: LaLiga 2
-[INFO] Date: 24/11/2026
-[INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: AFC Champions League Two
 [INFO] Date: 24/11/2026
 [INFO] Time: 20:45
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: UEFA Youth League
-[INFO] Date: 25/11/2026
-[INFO] Time: 18:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: UEFA Champions League
 [INFO] Date: 25/11/2026
 [INFO] Time: 00:45
@@ -256,12 +191,6 @@
 [INFO] Time: 03:00
 [INFO] Streams Found: 1
 [TOKEN_API] CRFY Stream (embed)
-
-[INFO] Event: UEFA Youth League
-[INFO] Date: 25/11/2026
-[INFO] Time: 19:00
-[INFO] Streams Found: 1
-[HLS] Link 1
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 25/11/2026
@@ -317,108 +246,9 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NBA
-[INFO] Date: 24/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 4
-[DRM] NBA FHD
-[DRM] TSN4 FHD
-[DRM] TSN5 FHD
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 24/11/2026
-[INFO] Time: 10:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 24/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 24/11/2026
-[INFO] Time: 08:30
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 24/11/2026
-[INFO] Time: 08:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
 [INFO] Event: NHL
 [INFO] Date: 24/11/2026
 [INFO] Time: 13:00
-[INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 24/11/2026
-[INFO] Time: 09:40
-[INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:30
-[INFO] Streams Found: 1
-[TOKEN_API] NHL (embed)
-
-[INFO] Event: NHL
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:00
 [INFO] Streams Found: 1
 [TOKEN_API] NHL (embed)
 
@@ -426,8 +256,8 @@
 [INFO] Date: 24/11/2026
 [INFO] Time: 13:00
 [INFO] Streams Found: 6
-[DRM] WILLOW FHD
 [DRM] STARZPLAY FHD
+[DRM] WILLOW FHD
 [DRM] WILLOW ALT
 [HLS] SonyLiv (Asia)
 [HLS] TEN SPORTS HD
@@ -450,24 +280,197 @@
 [DRM] UNBEATEN FHD
 [HLS] SandBrix HD
 
-[INFO] Event: Premier League
+[INFO] Event: U17 World Championship
 [INFO] Date: 24/11/2026
+[INFO] Time: 22:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 24/11/2026
+[INFO] Time: 19:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 24/11/2026
+[INFO] Time: 22:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 24/11/2026
+[INFO] Time: 20:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 24/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 24/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 24/11/2026
+[INFO] Time: 19:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 24/11/2026
+[INFO] Time: 21:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 24/11/2026
+[INFO] Time: 19:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 24/11/2026
+[INFO] Time: 19:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 24/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 24/11/2026
+[INFO] Time: 19:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 24/11/2026
+[INFO] Time: 17:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Two
+[INFO] Date: 24/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 25/11/2026
+[INFO] Time: 01:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Elite
+[INFO] Date: 24/11/2026
+[INFO] Time: 17:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 25/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 25/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 25/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 25/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 25/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Championship
+[INFO] Date: 25/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 7
-[DRM] FUBO SPORTS FHD
-[DRM] SKY SPORTS PL FHD
-[DRM] FUBO SPORTS ALT
-[HLS] SKY SPORTS EPL
-[HLS] USA NETWORK HD
-[HLS] Cricfy Live
-[HLS] Low
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 25/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
 
 [INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 24/11/2026
-[INFO] Time: 07:00
-[INFO] Streams Found: 2
-[DRM] SporTV BR FHD
-[DRM] PREMIERE BR FHD
+[INFO] Date: 25/11/2026
+[INFO] Time: 04:00
+[INFO] Streams Found: 1
+[HLS] Link 1
 
-[SUMMARY] Events=58
-[SUMMARY] Streams=181
+[INFO] Event: NBA
+[INFO] Date: 25/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 25/11/2026
+[INFO] Time: 10:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NBA
+[INFO] Date: 25/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NHL
+[INFO] Date: 25/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=64
+[SUMMARY] Streams=154
