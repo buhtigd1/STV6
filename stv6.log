@@ -99,8 +99,8 @@
 [HLS] Backup
 
 [INFO] Event: WBBL | Womens Big Bash League
-[INFO] Date: 25/11/2026
-[INFO] Time: 15:10
+[INFO] Date: 26/11/2026
+[INFO] Time: 11:40
 [INFO] Streams Found: 7
 [DRM] WILLOW FHD
 [HLS] SK CRICKET FHD
@@ -126,8 +126,8 @@
 [HLS] Low
 
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 25/11/2026
-[INFO] Time: 15:00
+[INFO] Date: 01/12/2026
+[INFO] Time: 18:30
 [INFO] Streams Found: 7
 [DRM] WILLOW FHD
 [DRM] FANCODE FHD
@@ -154,38 +154,61 @@
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] TNT SPORTS FHD
+[DRM] TNT BRASIL FHD
+[HLS] TNT SPORTS HD
+[HLS] Low
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 7
+[DRM] PARAMOUNT+ FHD
+[DRM] TNT SPORTS FHD
+[DRM] DAZN DE FHD
+[DRM] FOX SPORTS FHD
+[HLS] PARAMOUNT+ HD
+[HLS] TNT SPORTS HD
+[HLS] Low
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] PARAMOUNT+ FHD
+[DRM] DAZN DE FHD
+[HLS] PARAMOUNT+ HD
+[HLS] Low
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] PARAMOUNT+ FHD
+[DRM] DAZN DE FHD
+[HLS] PARAMOUNT+ HD
+[HLS] Low
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[DRM] PARAMOUNT+ FHD
+[DRM] TNT SPORTS FHD
+[DRM] DAZN DE FHD
+[HLS] PARAMOUNT+ HD
+[HLS] Low
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[DRM] PARAMOUNT+ FHD
+[DRM] DAZN DE FHD
+[DRM] CBS SPORTS FHD
+[HLS] PARAMOUNT+ HD
+[HLS] Low
 
 [INFO] Event: UFC
 [INFO] Date: 05/12/2026
@@ -193,36 +216,41 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Italia T10
-[INFO] Date: 25/11/2026
-[INFO] Time: 18:00
-[INFO] Streams Found: 2
-[DRM] UNBEATEN FHD
-[HLS] SandBrix HD
-
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 00:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 12
+[DRM] PARAMOUNT+ FHD
+[DRM] DAZN SPORTS FHD
+[DRM] TNT SPORTS FHD
+[DRM] VIX Español FHD
+[DRM] DAZN DE FHD
+[DRM] TNT BRASIL FHD
+[HLS] SonyLiv (ENG)
+[HLS] SonyLiv (HIN)
+[HLS] SonyLiv (TAM)
+[HLS] SonyLiv (TEL)
+[HLS] SonyLiv (KAN)
+[HLS] Low
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 4
+[DRM] PARAMOUNT+ FHD
+[DRM] DAZN DE FHD
+[HLS] PARAMOUNT+ HD
+[HLS] Low
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 26/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[DRM] PARAMOUNT+ FHD
+[DRM] DAZN DE FHD
+[DRM] CBS SPORTS FHD
+[HLS] PARAMOUNT+ HD
+[HLS] Low
 
 [INFO] Event: Men's Asia Cup Rising Stars 2026
 [INFO] Date: 26/11/2026
@@ -254,110 +282,14 @@
 [HLS] Link 1
 
 [INFO] Event: U17 World Championship
-[INFO] Date: 25/11/2026
-[INFO] Time: 20:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 25/11/2026
-[INFO] Time: 21:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
 [INFO] Date: 26/11/2026
 [INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 25/11/2026
-[INFO] Time: 22:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 25/11/2026
-[INFO] Time: 21:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 25/11/2026
-[INFO] Time: 19:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 25/11/2026
-[INFO] Time: 20:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 25/11/2026
-[INFO] Time: 22:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 25/11/2026
-[INFO] Time: 19:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 25/11/2026
-[INFO] Time: 19:15
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 25/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 25/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 25/11/2026
-[INFO] Time: 17:00
-[INFO] Streams Found: 1
-[HLS] Low
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 25/11/2026
-[INFO] Time: 23:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
 [INFO] Event: AFC Champions League Two
 [INFO] Date: 26/11/2026
 [INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 25/11/2026
-[INFO] Time: 20:45
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 25/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Elite
-[INFO] Date: 25/11/2026
-[INFO] Time: 17:00
 [INFO] Streams Found: 1
 [HLS] Low
 
@@ -421,5 +353,38 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[SUMMARY] Events=55
-[SUMMARY] Streams=148
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 9
+[DRM] DAZN SPORTS FHD
+[DRM] PARAMOUNT+ FHD
+[DRM] VIX Español FHD
+[DRM] DAZN DE FHD
+[HLS] PARAMOUNT+ HD
+[HLS] SonyLiv (Asia)
+[HLS] TAPMAD FHD
+[HLS] HD QUALITY
+[HLS] Low
+
+[INFO] Event: Championship
+[INFO] Date: 26/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Low
+
+[INFO] Event: Championship
+[INFO] Date: 26/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 2
+[DRM] PARAMOUNT+ FHD
+[HLS] Low
+
+[INFO] Event: Championship
+[INFO] Date: 26/11/2026
+[INFO] Time: 02:45
+[INFO] Streams Found: 1
+[HLS] Low
+
+[SUMMARY] Events=41
+[SUMMARY] Streams=183
