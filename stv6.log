@@ -89,23 +89,22 @@
 [HLS] Low
 
 [INFO] Event: AEW Dynamite
-[INFO] Date: 26/11/2026
+[INFO] Date: 03/12/2026
 [INFO] Time: 08:00
-[INFO] Streams Found: 3
+[INFO] Streams Found: 4
 [HLS] HD Server
 [TOKEN_API] AEW FHD (embed)
 [TOKEN_API] AEW SD (embed)
+[HLS] CRFY Stream
 
 [INFO] Event: WBBL | Womens Big Bash League
 [INFO] Date: 26/11/2026
 [INFO] Time: 11:40
-[INFO] Streams Found: 7
+[INFO] Streams Found: 5
 [DRM] WILLOW FHD
-[HLS] SK CRICKET FHD
 [DRM] WILLOW ALT
-[DRM] WILLOW HD
 [HLS] TAPMAD FHD
-[HLS] FANCODE (IND)
+[DRM] WILLOW HD
 [HLS] Low
 
 [INFO] Event: One Day International
@@ -136,7 +135,7 @@
 [HLS] Low
 
 [INFO] Event: International League T20
-[INFO] Date: 25/11/2026
+[INFO] Date: 26/11/2026
 [INFO] Time: 21:30
 [INFO] Streams Found: 9
 [DRM] WILLOW FHD
@@ -149,124 +148,11 @@
 [DRM] ZEE ZEST (IND)
 [DRM] UNITE8 SPORTS (IND)
 
-[INFO] Event: UEFA Champions League
-[INFO] Date: 26/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 9
-[DRM] DAZN SPORTS FHD
-[DRM] PARAMOUNT+ FHD
-[DRM] TNT SPORTS FHD
-[DRM] VIX Español FHD
-[DRM] DAZN DE FHD
-[DRM] TNT BRASIL FHD
-[HLS] TNT SPORTS HD
-[HLS] SonyLiv (Asia)
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 26/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 14
-[DRM] DAZN SPORTS FHD
-[DRM] PARAMOUNT+ FHD
-[DRM] TNT SPORTS FHD
-[DRM] DAZN DE FHD
-[DRM] FOX SPORTS FHD
-[HLS] PARAMOUNT+ HD
-[HLS] TNT SPORTS HD
-[HLS] SonyLiv (ENG)
-[HLS] SonyLiv (HIN)
-[HLS] SonyLiv (TAM)
-[HLS] SonyLiv (TEL)
-[HLS] SonyLiv (KAN)
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 26/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 8
-[DRM] DAZN SPORTS FHD
-[DRM] PARAMOUNT+ FHD
-[DRM] VIX Español FHD
-[DRM] DAZN DE FHD
-[HLS] PARAMOUNT+ HD
-[HLS] SonyLiv (Asia)
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 26/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 7
-[DRM] DAZN SPORTS FHD
-[DRM] PARAMOUNT+ FHD
-[DRM] DAZN DE FHD
-[HLS] PARAMOUNT+ HD
-[HLS] SonyLiv (Asia)
-[HLS] CRFY Stream
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 26/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 8
-[DRM] DAZN SPORTS FHD
-[DRM] PARAMOUNT+ FHD
-[DRM] TNT SPORTS FHD
-[DRM] VIX Español FHD
-[DRM] DAZN DE FHD
-[HLS] PARAMOUNT+ HD
-[HLS] SonyLiv (Asia)
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 26/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 8
-[DRM] DAZN SPORTS FHD
-[DRM] PARAMOUNT+ FHD
-[DRM] VIX Español FHD
-[DRM] DAZN DE FHD
-[DRM] CBS SPORTS FHD
-[HLS] PARAMOUNT+ HD
-[HLS] SonyLiv (Asia)
-[HLS] Low
-
 [INFO] Event: UFC
 [INFO] Date: 05/12/2026
 [INFO] Time: 23:00
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 26/11/2026
-[INFO] Time: 00:45
-[INFO] Streams Found: 12
-[DRM] PARAMOUNT+ FHD
-[DRM] DAZN SPORTS FHD
-[DRM] TNT SPORTS FHD
-[DRM] VIX Español FHD
-[DRM] DAZN DE FHD
-[DRM] TNT BRASIL FHD
-[HLS] SonyLiv (ENG)
-[HLS] SonyLiv (HIN)
-[HLS] SonyLiv (TAM)
-[HLS] SonyLiv (TEL)
-[HLS] SonyLiv (KAN)
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 26/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 7
-[DRM] DAZN SPORTS FHD
-[DRM] PARAMOUNT+ FHD
-[DRM] VIX Español FHD
-[DRM] DAZN DE FHD
-[HLS] PARAMOUNT+ HD
-[HLS] SonyLiv (Asia)
-[HLS] Low
 
 [INFO] Event: Men's Asia Cup Rising Stars 2026
 [INFO] Date: 26/11/2026
@@ -303,106 +189,414 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: NBA
-[INFO] Date: 26/11/2026
-[INFO] Time: 10:00
+[INFO] Event: U17 World Championship
+[INFO] Date: 27/11/2026
+[INFO] Time: 20:00
 [INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
+[HLS] Link 1
 
-[INFO] Event: NBA
+[INFO] Event: AFC Champions League Two
 [INFO] Date: 26/11/2026
-[INFO] Time: 07:00
+[INFO] Time: 19:15
 [INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
+[HLS] Link 1
 
-[INFO] Event: NBA
+[INFO] Event: AFC Champions League Two
 [INFO] Date: 26/11/2026
-[INFO] Time: 07:30
+[INFO] Time: 19:15
 [INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
+[HLS] Link 1
 
-[INFO] Event: NBA
+[INFO] Event: U17 World Championship
 [INFO] Date: 26/11/2026
-[INFO] Time: 07:30
+[INFO] Time: 23:00
 [INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
+[HLS] Link 1
 
-[INFO] Event: NBA
+[INFO] Event: U17 World Championship
 [INFO] Date: 26/11/2026
-[INFO] Time: 05:00
-[INFO] Streams Found: 2
-[TOKEN_API] NBA (embed)
-[TOKEN_API] CricFy HD (embed)
-
-[INFO] Event: NBA
-[INFO] Date: 26/11/2026
-[INFO] Time: 08:00
+[INFO] Time: 21:00
 [INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
+[HLS] Link 1
 
-[INFO] Event: NBA
-[INFO] Date: 26/11/2026
-[INFO] Time: 08:00
+[INFO] Event: U17 World Championship
+[INFO] Date: 27/11/2026
+[INFO] Time: 20:00
 [INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
+[HLS] Link 1
 
-[INFO] Event: NBA
+[INFO] Event: AFC Champions League Two
 [INFO] Date: 26/11/2026
-[INFO] Time: 10:00
+[INFO] Time: 19:15
 [INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
+[HLS] Link 1
 
-[INFO] Event: NBA
-[INFO] Date: 26/11/2026
-[INFO] Time: 08:30
-[INFO] Streams Found: 1
-[TOKEN_API] NBA (embed)
-
-[INFO] Event: Men's Asia Cup Rising Stars 2026
+[INFO] Event: AFC Champions League Two
 [INFO] Date: 26/11/2026
 [INFO] Time: 17:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: UEFA Champions League
+[INFO] Event: U17 World Championship
 [INFO] Date: 26/11/2026
+[INFO] Time: 23:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Two
+[INFO] Date: 26/11/2026
+[INFO] Time: 17:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 26/11/2026
+[INFO] Time: 21:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 26/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: AFC Champions League Two
+[INFO] Date: 26/11/2026
+[INFO] Time: 17:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 26/11/2026
+[INFO] Time: 20:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 26/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: U17 World Championship
+[INFO] Date: 26/11/2026
+[INFO] Time: 22:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 19:15
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 26/11/2026
+[INFO] Time: 21:25
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
 [INFO] Time: 00:45
-[INFO] Streams Found: 9
-[DRM] DAZN SPORTS FHD
-[DRM] PARAMOUNT+ FHD
-[DRM] VIX Español FHD
-[DRM] DAZN DE FHD
-[HLS] PARAMOUNT+ HD
-[HLS] SonyLiv (Asia)
-[HLS] TAPMAD FHD
-[HLS] HD QUALITY
-[HLS] Low
-
-[INFO] Event: Championship
-[INFO] Date: 26/11/2026
-[INFO] Time: 02:45
 [INFO] Streams Found: 1
-[HLS] Low
+[HLS] Link 1
 
-[INFO] Event: Championship
-[INFO] Date: 26/11/2026
-[INFO] Time: 02:45
-[INFO] Streams Found: 2
-[DRM] PARAMOUNT+ FHD
-[HLS] Low
-
-[INFO] Event: Championship
-[INFO] Date: 26/11/2026
-[INFO] Time: 02:45
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
 [INFO] Streams Found: 1
-[HLS] Low
+[HLS] Link 1
 
-[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
 [INFO] Date: 26/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 2
-[DRM] PREMIERER1 FHD
-[TOKEN_API] Test (embed)
+[INFO] Time: 22:30
+[INFO] Streams Found: 1
+[HLS] Link 1
 
-[SUMMARY] Events=40
-[SUMMARY] Streams=206
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Europa League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:45
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: UEFA Conference League
+[INFO] Date: 27/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[INFO] Event: NFL
+[INFO] Date: 27/11/2026
+[INFO] Time: 04:30
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 27/11/2026
+[INFO] Time: 08:20
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: NFL
+[INFO] Date: 27/11/2026
+[INFO] Time: 01:00
+[INFO] Streams Found: 1
+[TOKEN_API] NFL (embed)
+
+[INFO] Event: Italia T10
+[INFO] Date: 26/11/2026
+[INFO] Time: 18:00
+[INFO] Streams Found: 2
+[DRM] UNBEATEN FHD
+[HLS] SandBrix HD
+
+[SUMMARY] Events=85
+[SUMMARY] Streams=175
