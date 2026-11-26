@@ -98,8 +98,8 @@
 [HLS] CRFY Stream
 
 [INFO] Event: WBBL | Womens Big Bash League
-[INFO] Date: 26/11/2026
-[INFO] Time: 11:40
+[INFO] Date: 27/11/2026
+[INFO] Time: 17:10
 [INFO] Streams Found: 5
 [DRM] WILLOW FHD
 [DRM] WILLOW ALT
@@ -137,14 +137,13 @@
 [INFO] Event: International League T20
 [INFO] Date: 26/11/2026
 [INFO] Time: 21:30
-[INFO] Streams Found: 9
-[DRM] WILLOW FHD
-[DRM] TNT SPORTS FHD
+[INFO] Streams Found: 8
 [DRM] FANCODE FHD
+[DRM] TNT SPORTS FHD
 [DRM] WILLOW ALT
-[HLS] TEN SPORTS HD
-[DRM] FANCODE SD
 [HLS] UNITE8 HIN HD
+[DRM] FANCODE SD
+[DRM] ZEE ZEST (IND)
 [DRM] ZEE ZEST (IND)
 [DRM] UNITE8 SPORTS (IND)
 
@@ -178,32 +177,8 @@
 [HLS] HD QUALITY
 
 [INFO] Event: U17 World Championship
-[INFO] Date: 26/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 26/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
 [INFO] Date: 27/11/2026
 [INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 26/11/2026
-[INFO] Time: 19:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 26/11/2026
-[INFO] Time: 19:15
 [INFO] Streams Found: 1
 [HLS] Link 1
 
@@ -211,29 +186,17 @@
 [INFO] Date: 26/11/2026
 [INFO] Time: 23:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: U17 World Championship
 [INFO] Date: 26/11/2026
 [INFO] Time: 21:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Cricfy HD
 
 [INFO] Event: U17 World Championship
 [INFO] Date: 27/11/2026
 [INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 26/11/2026
-[INFO] Time: 19:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 26/11/2026
-[INFO] Time: 17:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
@@ -241,83 +204,33 @@
 [INFO] Date: 26/11/2026
 [INFO] Time: 23:00
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 26/11/2026
-[INFO] Time: 17:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: U17 World Championship
 [INFO] Date: 26/11/2026
 [INFO] Time: 21:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 26/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 26/11/2026
-[INFO] Time: 17:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 26/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] D SPORTS FHD
+[HLS] Low
 
 [INFO] Event: U17 World Championship
 [INFO] Date: 26/11/2026
 [INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] FOX SPORTS FHD
+[DRM] TSN SPORTS FHD
+[HLS] Low
 
 [INFO] Event: U17 World Championship
 [INFO] Date: 26/11/2026
 [INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Saudi Pro League
 [INFO] Date: 27/11/2026
 [INFO] Time: 19:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 00:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
@@ -325,37 +238,7 @@
 [INFO] Date: 26/11/2026
 [INFO] Time: 21:25
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: UEFA Europa League
 [INFO] Date: 27/11/2026
@@ -462,8 +345,10 @@
 [INFO] Event: UEFA Conference League
 [INFO] Date: 26/11/2026
 [INFO] Time: 22:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] TNT SPORTS FHD
+[DRM] SPORT 2 CZ FHD
+[HLS] Low
 
 [INFO] Event: UEFA Conference League
 [INFO] Date: 27/11/2026
@@ -598,5 +483,18 @@
 [DRM] UNBEATEN FHD
 [HLS] SandBrix HD
 
-[SUMMARY] Events=85
-[SUMMARY] Streams=175
+[INFO] Event: Saudi Pro League
+[INFO] Date: 26/11/2026
+[INFO] Time: 22:05
+[INFO] Streams Found: 2
+[HLS] Cricfy HD
+[HLS] Low
+
+[INFO] Event: Saudi Pro League
+[INFO] Date: 27/11/2026
+[INFO] Time: 00:30
+[INFO] Streams Found: 1
+[HLS] Link 1
+
+[SUMMARY] Events=67
+[SUMMARY] Streams=163
