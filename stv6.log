@@ -91,12 +91,10 @@
 [INFO] Event: AEW Dynamite
 [INFO] Date: 26/11/2026
 [INFO] Time: 08:00
-[INFO] Streams Found: 5
-[DRM] TSN SPORTS FHD
-[DRM] FOX SPORTS FHD
+[INFO] Streams Found: 3
+[HLS] HD Server
 [TOKEN_API] AEW FHD (embed)
-[HLS] TBD SPORTS HD
-[HLS] Backup
+[TOKEN_API] AEW SD (embed)
 
 [INFO] Event: WBBL | Womens Big Bash League
 [INFO] Date: 26/11/2026
@@ -154,60 +152,85 @@
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 4
+[INFO] Streams Found: 9
+[DRM] DAZN SPORTS FHD
+[DRM] PARAMOUNT+ FHD
 [DRM] TNT SPORTS FHD
+[DRM] VIX Español FHD
+[DRM] DAZN DE FHD
 [DRM] TNT BRASIL FHD
 [HLS] TNT SPORTS HD
+[HLS] SonyLiv (Asia)
 [HLS] Low
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 7
+[INFO] Streams Found: 14
+[DRM] DAZN SPORTS FHD
 [DRM] PARAMOUNT+ FHD
 [DRM] TNT SPORTS FHD
 [DRM] DAZN DE FHD
 [DRM] FOX SPORTS FHD
 [HLS] PARAMOUNT+ HD
 [HLS] TNT SPORTS HD
+[HLS] SonyLiv (ENG)
+[HLS] SonyLiv (HIN)
+[HLS] SonyLiv (TAM)
+[HLS] SonyLiv (TEL)
+[HLS] SonyLiv (KAN)
+[HLS] CRFY Stream
 [HLS] Low
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 4
+[INFO] Streams Found: 8
+[DRM] DAZN SPORTS FHD
+[DRM] PARAMOUNT+ FHD
+[DRM] VIX Español FHD
+[DRM] DAZN DE FHD
+[HLS] PARAMOUNT+ HD
+[HLS] SonyLiv (Asia)
+[HLS] CRFY Stream
+[HLS] Low
+
+[INFO] Event: UEFA Champions League
+[INFO] Date: 26/11/2026
+[INFO] Time: 03:00
+[INFO] Streams Found: 7
+[DRM] DAZN SPORTS FHD
 [DRM] PARAMOUNT+ FHD
 [DRM] DAZN DE FHD
 [HLS] PARAMOUNT+ HD
+[HLS] SonyLiv (Asia)
+[HLS] CRFY Stream
 [HLS] Low
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 4
-[DRM] PARAMOUNT+ FHD
-[DRM] DAZN DE FHD
-[HLS] PARAMOUNT+ HD
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 26/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 5
+[INFO] Streams Found: 8
+[DRM] DAZN SPORTS FHD
 [DRM] PARAMOUNT+ FHD
 [DRM] TNT SPORTS FHD
+[DRM] VIX Español FHD
 [DRM] DAZN DE FHD
 [HLS] PARAMOUNT+ HD
+[HLS] SonyLiv (Asia)
 [HLS] Low
 
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 5
+[INFO] Streams Found: 8
+[DRM] DAZN SPORTS FHD
 [DRM] PARAMOUNT+ FHD
+[DRM] VIX Español FHD
 [DRM] DAZN DE FHD
 [DRM] CBS SPORTS FHD
 [HLS] PARAMOUNT+ HD
+[HLS] SonyLiv (Asia)
 [HLS] Low
 
 [INFO] Event: UFC
@@ -236,20 +259,13 @@
 [INFO] Event: UEFA Champions League
 [INFO] Date: 26/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 4
+[INFO] Streams Found: 7
+[DRM] DAZN SPORTS FHD
 [DRM] PARAMOUNT+ FHD
+[DRM] VIX Español FHD
 [DRM] DAZN DE FHD
 [HLS] PARAMOUNT+ HD
-[HLS] Low
-
-[INFO] Event: UEFA Champions League
-[INFO] Date: 26/11/2026
-[INFO] Time: 03:00
-[INFO] Streams Found: 5
-[DRM] PARAMOUNT+ FHD
-[DRM] DAZN DE FHD
-[DRM] CBS SPORTS FHD
-[HLS] PARAMOUNT+ HD
+[HLS] SonyLiv (Asia)
 [HLS] Low
 
 [INFO] Event: Men's Asia Cup Rising Stars 2026
@@ -287,12 +303,6 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: AFC Champions League Two
-[INFO] Date: 26/11/2026
-[INFO] Time: 01:15
-[INFO] Streams Found: 1
-[HLS] Low
-
 [INFO] Event: NBA
 [INFO] Date: 26/11/2026
 [INFO] Time: 10:00
@@ -320,8 +330,9 @@
 [INFO] Event: NBA
 [INFO] Date: 26/11/2026
 [INFO] Time: 05:00
-[INFO] Streams Found: 1
+[INFO] Streams Found: 2
 [TOKEN_API] NBA (embed)
+[TOKEN_API] CricFy HD (embed)
 
 [INFO] Event: NBA
 [INFO] Date: 26/11/2026
@@ -386,5 +397,12 @@
 [INFO] Streams Found: 1
 [HLS] Low
 
-[SUMMARY] Events=41
-[SUMMARY] Streams=183
+[INFO] Event: Campeonato Brasileiro Série A
+[INFO] Date: 26/11/2026
+[INFO] Time: 06:00
+[INFO] Streams Found: 2
+[DRM] PREMIERER1 FHD
+[TOKEN_API] Test (embed)
+
+[SUMMARY] Events=40
+[SUMMARY] Streams=206
