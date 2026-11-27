@@ -1,5 +1,5 @@
 [INFO] Event: ICC World Test Championship
-[INFO] Date: 27/11/2026
+[INFO] Date: 28/11/2026
 [INFO] Time: 05:00
 [INFO] Streams Found: 11
 [DRM] WILLOW FHD
@@ -179,18 +179,6 @@
 [INFO] Time: 19:15
 [INFO] Streams Found: 1
 [HLS] Link 1
-
-[INFO] Event: NFL
-[INFO] Date: 27/11/2026
-[INFO] Time: 04:30
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
-
-[INFO] Event: NFL
-[INFO] Date: 27/11/2026
-[INFO] Time: 08:20
-[INFO] Streams Found: 1
-[TOKEN_API] NFL (embed)
 
 [INFO] Event: Italia T10
 [INFO] Date: 27/11/2026
@@ -393,11 +381,5 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 27/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[DRM] Cricfy HD Plus
-
-[SUMMARY] Events=53
-[SUMMARY] Streams=136
+[SUMMARY] Events=50
+[SUMMARY] Streams=133
