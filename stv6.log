@@ -15,8 +15,8 @@
 [HLS] SonyLiv (KAN)
 
 [INFO] Event: MotoGP
-[INFO] Date: 27/11/2026
-[INFO] Time: 16:45
+[INFO] Date: 28/11/2026
+[INFO] Time: 16:00
 [INFO] Streams Found: 9
 [DRM] TNT SPORTS FHD
 [DRM] FANCODE FHD
@@ -29,20 +29,21 @@
 [HLS] Low
 
 [INFO] Event: ONE Friday Fights
-[INFO] Date: 27/11/2026
-[INFO] Time: 19:00
-[INFO] Streams Found: 6
+[INFO] Date: 04/12/2026
+[INFO] Time: 19:30
+[INFO] Streams Found: 7
 [DRM] One Fight - AQ
 [DRM] WWE - AQ
 [DRM] WWE - AQ
 [HLS] Cricfy Live
 [TOKEN_API] Cricfy HD (embed)
 [HLS] Low
+[HLS] Low
 
 [INFO] Event: Formula 1
 [INFO] Date: 27/11/2026
 [INFO] Time: 20:30
-[INFO] Streams Found: 14
+[INFO] Streams Found: 13
 [DRM] FANCODE - AQ
 [DRM] SporTV BR FHD
 [DRM] SK SPORT F1 FHD
@@ -55,7 +56,6 @@
 [HLS] RUSSIA FEED
 [TOKEN_API] DAZN ESPANOL [FHD] (embed)
 [HLS] SportCast
-[HLS] Cricfy Live
 [HLS] Low
 
 [INFO] Event: WWE Friday Night SmackDown
@@ -98,8 +98,8 @@
 [HLS] CRFY Stream
 
 [INFO] Event: WBBL | Womens Big Bash League
-[INFO] Date: 27/11/2026
-[INFO] Time: 17:10
+[INFO] Date: 28/11/2026
+[INFO] Time: 11:40
 [INFO] Streams Found: 5
 [DRM] WILLOW FHD
 [DRM] WILLOW ALT
@@ -108,7 +108,7 @@
 [HLS] Low
 
 [INFO] Event: One Day International
-[INFO] Date: 27/11/2026
+[INFO] Date: 29/11/2026
 [INFO] Time: 15:15
 [INFO] Streams Found: 10
 [DRM] WILLOW FHD
@@ -135,15 +135,12 @@
 [HLS] Low
 
 [INFO] Event: International League T20
-[INFO] Date: 27/11/2026
-[INFO] Time: 21:30
-[INFO] Streams Found: 8
-[DRM] FANCODE FHD
+[INFO] Date: 28/11/2026
+[INFO] Time: 17:30
+[INFO] Streams Found: 5
+[DRM] WILLOW ALT
 [DRM] TNT SPORTS FHD
 [DRM] WILLOW ALT
-[HLS] UNITE8 HIN HD
-[DRM] FANCODE SD
-[DRM] ZEE ZEST (IND)
 [DRM] ZEE ZEST (IND)
 [DRM] UNITE8 SPORTS (IND)
 
@@ -153,95 +150,20 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Men's Asia Cup Rising Stars 2026
-[INFO] Date: 27/11/2026
-[INFO] Time: 17:00
-[INFO] Streams Found: 4
-[DRM] WILLOW FHD
-[DRM] WILLOW ALT
-[HLS] SonyLiv (Asia)
-[HLS] HD QUALITY
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 27/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 27/11/2026
-[INFO] Time: 20:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 19:15
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: Italia T10
-[INFO] Date: 27/11/2026
-[INFO] Time: 18:00
+[INFO] Date: 28/11/2026
+[INFO] Time: 17:00
 [INFO] Streams Found: 2
 [DRM] UNBEATEN FHD
 [HLS] SandBrix HD
 
-[INFO] Event: U17 World Championship
-[INFO] Date: 27/11/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 27/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 27/11/2026
-[INFO] Time: 21:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 27/11/2026
-[INFO] Time: 23:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 27/11/2026
-[INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: U17 World Championship
-[INFO] Date: 27/11/2026
-[INFO] Time: 22:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: Indian Super League
-[INFO] Date: 27/11/2026
+[INFO] Date: 28/11/2026
 [INFO] Time: 21:00
 [INFO] Streams Found: 3
 [HLS] SonyLiv (ENG)
 [HLS] SonyLiv (HIN)
-[HLS] HD QUALITY
-
-[INFO] Event: Trendyol Süper Lig
-[INFO] Date: 28/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Trendyol Süper Lig
-[INFO] Date: 28/11/2026
-[INFO] Time: 00:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: Championship
 [INFO] Date: 28/11/2026
@@ -258,26 +180,39 @@
 [INFO] Event: Serie A
 [INFO] Date: 28/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 8
+[DRM] PARAMOUNT+ FHD
+[DRM] DAZN SPORTS FHD
+[DRM] FUBO SPORTS FHD
+[DRM] DAZN ITALIA FHD
+[DRM] SPORT 1 CZ FHD
+[HLS] Cricfy HD
+[HLS] Cricfy Live
+[HLS] Low
 
 [INFO] Event: LaLiga 2
 [INFO] Date: 28/11/2026
 [INFO] Time: 02:30
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] LaLiga Hypermotion
 
 [INFO] Event: Ligue 1
 [INFO] Date: 28/11/2026
 [INFO] Time: 02:45
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[DRM] DAZN SPORTS FHD
+[DRM] beIN SPORTS FHD
+[DRM] beIN Español FHD
+[HLS] Cricfy Live
+[HLS] Low
 
 [INFO] Event: Championship
 [INFO] Date: 28/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 3
+[DRM] CBS SPORTS FHD
+[HLS] Cricfy Live
+[HLS] Low
 
 [INFO] Event: LaLiga
 [INFO] Date: 28/11/2026
@@ -288,8 +223,13 @@
 [INFO] Event: LaLiga
 [INFO] Date: 28/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 6
+[DRM] DAZN SPORTS FHD
+[DRM] PREMIER SPORTS FHD
+[DRM] FANCODE FHD
+[HLS] ESPN DEPORTES HD
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: Championship
 [INFO] Date: 28/11/2026
@@ -318,14 +258,12 @@
 [INFO] Event: Bundesliga
 [INFO] Date: 28/11/2026
 [INFO] Time: 02:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 28/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 5
+[DRM] PEACOCK ES FHD
+[DRM] SKY TOP EVENT FHD
+[DRM] SKY TOP EVENT FHD
+[HLS] Cricfy HD
+[HLS] Low
 
 [INFO] Event: 2. Bundesliga
 [INFO] Date: 28/11/2026
@@ -333,53 +271,96 @@
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: 2. Bundesliga
-[INFO] Date: 28/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 28/11/2026
-[INFO] Time: 00:30
-[INFO] Streams Found: 1
-[HLS] Link 1
-
 [INFO] Event: VriendenLoterij Eredivisie
 [INFO] Date: 28/11/2026
 [INFO] Time: 02:00
 [INFO] Streams Found: 1
-[HLS] Link 1
-
-[INFO] Event: Saudi Pro League
-[INFO] Date: 27/11/2026
-[INFO] Time: 21:20
-[INFO] Streams Found: 1
-[HLS] Link 1
+[HLS] Low
 
 [INFO] Event: Premier League
 [INFO] Date: 28/11/2026
 [INFO] Time: 03:00
-[INFO] Streams Found: 1
-[HLS] Link 1
+[INFO] Streams Found: 2
+[DRM] SKY SPORT PL FHD
+[HLS] SK SPORTS EPL
 
 [INFO] Event: Campeonato Brasileiro Série A
 [INFO] Date: 28/11/2026
 [INFO] Time: 06:00
 [INFO] Streams Found: 1
-[HLS] Link 1
+[DRM] PREMIERE BR FHD
 
-[INFO] Event: Premier League
+[INFO] Event: NBA
 [INFO] Date: 28/11/2026
-[INFO] Time: 03:00
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 28/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 28/11/2026
+[INFO] Time: 07:00
+[INFO] Streams Found: 1
+[TOKEN_API] NBA (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 28/11/2026
+[INFO] Time: 07:30
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 28/11/2026
+[INFO] Time: 08:30
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 28/11/2026
+[INFO] Time: 08:00
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 28/11/2026
+[INFO] Time: 09:00
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 28/11/2026
+[INFO] Time: 09:30
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 28/11/2026
+[INFO] Time: 09:30
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 28/11/2026
+[INFO] Time: 09:30
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: NBA
+[INFO] Date: 28/11/2026
+[INFO] Time: 09:30
+[INFO] Streams Found: 1
+[TOKEN_API] Link 1 (embed)
+
+[INFO] Event: Men's Asia Cup Rising Stars 2026
+[INFO] Date: 29/11/2026
+[INFO] Time: 17:00
 [INFO] Streams Found: 1
 [HLS] Link 1
 
-[INFO] Event: Campeonato Brasileiro Série A
-[INFO] Date: 28/11/2026
-[INFO] Time: 06:00
-[INFO] Streams Found: 1
-[HLS] Link 1
-
-[SUMMARY] Events=50
-[SUMMARY] Streams=133
+[SUMMARY] Events=44
+[SUMMARY] Streams=144
